@@ -348,3 +348,24 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [28Nov2024 20:00:37.183] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [28Nov2024 20:00:37.184] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [28Nov2024 20:00:37.184] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[28Nov2024 20:08:38.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fr4nko7k[/127.78.151.29:58095] logged in with entity id 3876 at (68.5, 5.0, -67.5)
+[28Nov2024 20:08:38.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fr4nko7k joined the game
+[28Nov2024 20:08:38.419] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Fr4nko7k
+[28Nov2024 20:08:38.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fr4nko7k has made the advancement [Under The Moon]
+[28Nov2024 20:08:40.356] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Fr4nko7k
+[28Nov2024 20:08:40.368] [Server thread/INFO] [ping-wheel/]: Channel update: Fr4nko7k -> default
+[28Nov2024 20:08:56.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> si ves xd
+[28Nov2024 20:11:04.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 lost connection: Disconnected
+[28Nov2024 20:11:04.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 left the game
+[28Nov2024 20:11:33.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fr4nko7k lost connection: Disconnected
+[28Nov2024 20:11:33.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fr4nko7k left the game
+[28Nov2024 20:11:33.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Nov2024 20:11:33.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Nov2024 20:11:33.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Nov2024 20:11:33.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Nov2024 20:11:33.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Nov2024 20:11:33.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Nov2024 20:11:34.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Nov2024 20:11:34.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Nov2024 20:11:34.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Nov2024 20:11:34.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
