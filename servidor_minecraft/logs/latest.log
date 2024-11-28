@@ -350,3 +350,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [28Nov2024 03:12:00.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdadwa<--[HERE]
 [28Nov2024 03:16:44.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [28Nov2024 03:16:44.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdwadwad<--[HERE]
+[28Nov2024 03:29:40.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 lost connection: Disconnected
+[28Nov2024 03:29:40.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 left the game
+[28Nov2024 03:29:50.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Nov2024 03:29:50.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Nov2024 03:29:50.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Nov2024 03:29:50.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Nov2024 03:29:51.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Nov2024 03:29:51.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Nov2024 03:29:51.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Nov2024 03:29:51.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Nov2024 03:29:51.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Nov2024 03:29:51.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
