@@ -348,3 +348,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [28Nov2024 03:11:38.787] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [28Nov2024 03:12:00.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [28Nov2024 03:12:00.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdadwa<--[HERE]
+[28Nov2024 03:16:44.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Nov2024 03:16:44.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdwadwad<--[HERE]
