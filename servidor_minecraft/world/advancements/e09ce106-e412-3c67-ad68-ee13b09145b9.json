@@ -129,12 +129,14 @@
     "criteria": {
       "rocky_reef": "2024-11-25 21:03:28 +0000",
       "grassy_beach": "2024-11-25 05:51:01 +0000",
+      "tropical_river": "2024-11-28 00:13:01 +0000",
       "outback": "2024-11-25 05:49:50 +0000",
       "joshua_desert": "2024-11-26 00:35:29 +0000",
       "chalk_cliffs": "2024-11-26 04:09:29 +0000",
       "bamboo_forest": "2024-11-25 05:51:37 +0000",
       "saguaro_desert": "2024-11-25 05:51:41 +0000",
-      "grassland": "2024-11-25 05:51:03 +0000"
+      "grassland": "2024-11-25 05:51:03 +0000",
+      "redwoods": "2024-11-28 00:38:36 +0000"
     },
     "done": false
   },
@@ -142,12 +144,14 @@
     "criteria": {
       "rocky_reef": "2024-11-25 21:03:28 +0000",
       "grassy_beach": "2024-11-25 05:51:01 +0000",
+      "tropical_river": "2024-11-28 00:13:01 +0000",
       "outback": "2024-11-25 05:49:50 +0000",
       "joshua_desert": "2024-11-26 00:35:29 +0000",
       "chalk_cliffs": "2024-11-26 04:09:29 +0000",
       "bamboo_forest": "2024-11-25 05:51:37 +0000",
       "saguaro_desert": "2024-11-25 05:51:41 +0000",
-      "grassland": "2024-11-25 05:51:03 +0000"
+      "grassland": "2024-11-25 05:51:03 +0000",
+      "redwoods": "2024-11-28 00:38:36 +0000"
     },
     "done": false
   },
@@ -2793,6 +2797,60 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-11-27 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2024-11-27 23:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-11-28 00:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-11-28 00:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-11-28 00:14:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/combat/cannon": {
+    "criteria": {
+      "has_ship": "2024-11-28 00:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2024-11-28 00:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-11-28 00:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-11-28 00:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-11-28 00:50:57 +0000"
     },
     "done": true
   },
