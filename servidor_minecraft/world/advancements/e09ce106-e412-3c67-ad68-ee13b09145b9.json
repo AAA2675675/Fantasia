@@ -134,6 +134,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2024-12-03 18:10:21 +0000",
+      "autumnal_maple_forest": "2024-12-03 18:43:23 +0000",
       "willow_forest": "2024-12-03 18:11:42 +0000",
       "rocky_reef": "2024-11-25 21:03:28 +0000",
       "grassy_beach": "2024-11-25 05:51:01 +0000",
@@ -157,6 +158,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2024-12-03 18:10:21 +0000",
+      "autumnal_maple_forest": "2024-12-03 18:43:23 +0000",
       "willow_forest": "2024-12-03 18:11:42 +0000",
       "rocky_reef": "2024-11-25 21:03:28 +0000",
       "grassy_beach": "2024-11-25 05:51:01 +0000",
