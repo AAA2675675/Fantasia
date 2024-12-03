@@ -377,3 +377,157 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Dec2024 18:11:33.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 moved too quickly! 4.635956280754726,-1.0104000401496762,-9.884969850008929
 [03Dec2024 18:11:35.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 moved too quickly! 5.492956758228274,-3.0659927628782526,-8.409728024475044
 [03Dec2024 18:16:25.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Survival Mode
+[03Dec2024 19:40:22.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotRealSamX07[/127.210.127.247:54533] logged in with entity id 33171 at (1678.2486537801037, 63.5625, -8908.979417785527)
+[03Dec2024 19:40:22.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 joined the game
+[03Dec2024 19:40:22.258] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NotRealSamX07
+[03Dec2024 19:40:22.898] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NotRealSamX07
+[03Dec2024 19:40:22.899] [Server thread/INFO] [ping-wheel/]: Channel update: NotRealSamX07 -> default
+[03Dec2024 19:40:30.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> hola frieren
+[03Dec2024 19:40:50.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hola himmel xd
+[03Dec2024 19:41:08.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> los cofres mas organizados
+[03Dec2024 19:41:09.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> gg
+[03Dec2024 19:41:16.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> muy mal
+[03Dec2024 19:41:25.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ven xd
+[03Dec2024 19:41:32.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> SE METIO A MI CASA
+[03Dec2024 19:41:34.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> TU NEGRO
+[03Dec2024 19:41:39.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ohno
+[03Dec2024 19:41:43.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mira xd
+[03Dec2024 19:41:59.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no ves? xd
+[03Dec2024 19:42:04.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es que tuve que gragearle mas mapas
+[03Dec2024 19:42:10.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> Oh dios mio
+[03Dec2024 19:42:12.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> eso es
+[03Dec2024 19:42:16.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> una piramide
+[03Dec2024 19:42:19.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> toma
+[03Dec2024 19:42:19.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> a xd
+[03Dec2024 19:42:24.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> pasa
+[03Dec2024 19:42:33.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> yo ya tenia
+[03Dec2024 19:42:34.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> uno
+[03Dec2024 19:42:46.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> increible
+[03Dec2024 19:42:55.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> con razon no lo encontraba xd
+[03Dec2024 19:42:57.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mira esto
+[03Dec2024 19:43:06.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> o
+[03Dec2024 19:43:16.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> manera god de matar
+[03Dec2024 19:43:18.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> frieren ninja xd
+[03Dec2024 19:43:20.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> de matar a todos
+[03Dec2024 19:43:27.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> frieren sin magia
+[03Dec2024 19:43:32.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hablando de magia
+[03Dec2024 19:43:37.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ya te muestro espera
+[03Dec2024 19:43:40.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> dormir
+[03Dec2024 19:43:51.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> zzz
+[03Dec2024 19:43:54.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> z
+[03Dec2024 19:43:54.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> z
+[03Dec2024 19:43:55.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> z
+[03Dec2024 19:43:58.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ok ven xd
+[03Dec2024 19:44:31.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mira
+[03Dec2024 19:44:33.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> construi eso xd
+[03Dec2024 19:44:41.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> waat
+[03Dec2024 19:44:43.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aqui es para cosechar magias y eso xd
+[03Dec2024 19:44:51.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hay un encantamiento en el caldero
+[03Dec2024 19:44:57.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no lo uses
+[03Dec2024 19:45:03.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no pasara lo mismo
+[03Dec2024 19:45:06.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> del otro dia
+[03Dec2024 19:45:08.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> solo es la estructura por ahora xd
+[03Dec2024 19:45:10.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> que tal quedo xd
+[03Dec2024 19:45:19.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> esta bien
+[03Dec2024 19:45:24.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> decorando despues y eso
+[03Dec2024 19:45:26.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> queda hermoso
+[03Dec2024 19:45:29.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> le queria poner
+[03Dec2024 19:45:33.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> como el techito aqui
+[03Dec2024 19:45:37.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> para crear magia de rayo xd
+[03Dec2024 19:45:41.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> como un para rayos
+[03Dec2024 19:45:44.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> uu
+[03Dec2024 19:45:48.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> muy lista
+[03Dec2024 19:46:00.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> creo que si se ve como las demas arquitecturas xd
+[03Dec2024 19:46:07.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> solo me faltan las decoraciones de ventanas y eso
+[03Dec2024 19:46:15.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> y tal vez un caminito
+[03Dec2024 19:46:20.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> si, si se ven como las demas
+[03Dec2024 19:46:24.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> solo por las banderas no mas
+[03Dec2024 19:46:39.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ven vamos xd
+[03Dec2024 19:46:50.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> a las dungeon que quiero verlas xd
+[03Dec2024 19:46:58.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> ew
+[03Dec2024 19:47:00.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> e
+[03Dec2024 19:47:02.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no espera
+[03Dec2024 19:47:05.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> estoy cenando-
+[03Dec2024 19:47:08.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> a
+[03Dec2024 19:47:10.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> come come xd
+[03Dec2024 19:47:20.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> como, en poco vamos juntos
+[03Dec2024 19:47:26.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> pingeame si se hace de noche
+[03Dec2024 19:47:53.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> muy pronto sere fieren con magia-
+[03Dec2024 19:48:01.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> o mejor me salgo un momentito y ya-
+[03Dec2024 19:48:06.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> si frieren, yo te creo
+[03Dec2024 19:48:07.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> tambien sirve
+[03Dec2024 19:48:10.968] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
+[03Dec2024 19:48:10.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
+[03Dec2024 20:01:47.871] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42d47ea0[id=<null>,name=NotRealSamX07,properties={},legacy=false] (/127.210.127.247:52335) lost connection: Disconnected
+[03Dec2024 20:01:53.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotRealSamX07[/127.210.127.247:33005] logged in with entity id 35891 at (1676.300000011921, 63.0, -8909.699999988079)
+[03Dec2024 20:01:53.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 joined the game
+[03Dec2024 20:01:53.865] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NotRealSamX07
+[03Dec2024 20:01:54.041] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NotRealSamX07
+[03Dec2024 20:01:54.041] [Server thread/INFO] [ping-wheel/]: Channel update: NotRealSamX07 -> default
+[03Dec2024 20:02:07.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> buenos dias
+[03Dec2024 20:03:57.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> estaba re afk-
+[03Dec2024 20:04:02.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> si ya vi-
+[03Dec2024 20:04:12.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> vamos a las dungeon? xd
+[03Dec2024 20:04:18.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> voy
+[03Dec2024 20:04:38.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> deberia poner el mod de lo de las camas de dormir
+[03Dec2024 20:04:53.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> yo creo que las islas del este
+[03Dec2024 20:05:01.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> son mas norte que los paises del norte-
+[03Dec2024 20:05:04.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> dormir antes-
+[03Dec2024 20:05:18.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es que el sol se sale por el este-
+[03Dec2024 20:05:35.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> vamos sam
+[03Dec2024 20:05:37.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no kate, es que
+[03Dec2024 20:05:43.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> la diferencia es brutal
+[03Dec2024 20:05:45.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> a paises del norte-
+[03Dec2024 20:06:27.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es por
+[03Dec2024 20:06:45.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cruzando las ruinas
+[03Dec2024 20:06:47.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> dehrecho
+[03Dec2024 20:06:54.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sigueme
+[03Dec2024 20:08:36.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> god
+[03Dec2024 20:09:18.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> bellisimo
+[03Dec2024 20:09:24.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> CAMPO DE FLORES
+[03Dec2024 20:09:32.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hermoso xd
+[03Dec2024 20:09:39.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mi magia favorita..
+[03Dec2024 20:09:49.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> afk un mmento xd
+[03Dec2024 20:09:57.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> No volvera-
+[03Dec2024 20:11:03.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> alla
+[03Dec2024 20:11:04.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> la vez?
+[03Dec2024 20:11:06.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ves
+[03Dec2024 20:11:07.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> si
+[03Dec2024 20:11:51.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> esta es la primera
+[03Dec2024 20:11:56.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no se que hay dentro xd
+[03Dec2024 20:12:09.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> buscaste lo del fuego amigo-?
+[03Dec2024 20:12:14.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no-
+[03Dec2024 20:12:20.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mira
+[03Dec2024 20:12:59.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> WHAT
+[03Dec2024 20:13:05.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hay un hechizo legendario xd
+[03Dec2024 20:13:16.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> scorch
+[03Dec2024 20:13:17.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mira
+[03Dec2024 20:13:19.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> interesante
+[03Dec2024 20:13:26.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> sisi, ya lo vi desde aca
+[03Dec2024 20:13:33.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> agarralo, no me fio de mi
+[03Dec2024 20:13:59.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> algo
+[03Dec2024 20:14:01.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> NOO
+[03Dec2024 20:14:02.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ohno
+[03Dec2024 20:14:22.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> inteligencia
+[03Dec2024 20:14:34.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no hay nada xd
+[03Dec2024 20:15:02.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no podemos volver ahora
+[03Dec2024 20:15:03.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> entremos
+[03Dec2024 20:15:46.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> espera
+[03Dec2024 20:16:03.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es un mago
+[03Dec2024 20:16:23.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es alquimia
+[03Dec2024 20:16:31.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> OJO
+[03Dec2024 20:16:33.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Ice Bucket Challenge]
+[03Dec2024 20:16:47.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 has made the advancement [Tools of the Trade]
+[03Dec2024 20:16:53.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Into Fire]
+[03Dec2024 20:17:08.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> tenemos magia
+[03Dec2024 20:17:24.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> O
+[03Dec2024 20:17:28.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> mas
+[03Dec2024 20:17:33.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> esto es lo que necesitamos para hechizos
+[03Dec2024 20:18:16.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> esencia arcana
+[03Dec2024 20:18:17.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> necesitamos el mod de mochilas xd
+[03Dec2024 20:18:21.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> si xd
+[03Dec2024 20:18:29.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> tengo otro legendario
+[03Dec2024 20:18:35.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cual es
+[03Dec2024 20:18:41.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> bola de fuego
+[03Dec2024 20:18:46.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> yo tengo pared de fuego
+[03Dec2024 20:18:49.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> creo que podemos reeplicarlos
