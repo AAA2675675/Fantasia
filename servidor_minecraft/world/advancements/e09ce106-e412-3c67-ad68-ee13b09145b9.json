@@ -1755,6 +1755,7 @@
     "criteria": {
       "minecraft:pillager": "2024-11-28 20:57:03 +0000",
       "minecraft:skeleton": "2024-11-25 16:57:27 +0000",
+      "minecraft:vindicator": "2024-12-03 20:41:25 +0000",
       "minecraft:spider": "2024-11-25 22:25:10 +0000",
       "minecraft:creeper": "2024-11-25 16:59:09 +0000",
       "minecraft:slime": "2024-11-26 21:35:15 +0000",
@@ -3032,6 +3033,18 @@
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2024-12-03 20:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-03 20:50:57 +0000"
+    },
+    "done": true
+  },
+  "under_the_moon:mooncharm": {
+    "criteria": {
+      "mooncharm_0": "2024-12-03 20:32:09 +0000"
     },
     "done": true
   },
