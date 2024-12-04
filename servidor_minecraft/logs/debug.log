@@ -10007,3 +10007,221 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Dec2024 22:21:21.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> el que no duerme es pe
 [04Dec2024 22:21:22.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> te
 [04Dec2024 22:21:37.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 was slain by GotKindaTori
+[04Dec2024 22:21:42.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> volveme a robar
+[04Dec2024 22:21:46.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> yo que mierda
+[04Dec2024 22:22:07.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 22:22:07.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 22:22:14.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> es legal quedarse sin comida en esta aldea
+[04Dec2024 22:22:16.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_2
+[04Dec2024 22:22:16.243] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[04Dec2024 22:22:17.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> ?
+[04Dec2024 22:22:17.731] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[04Dec2024 22:22:18.063] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[04Dec2024 22:22:18.333] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:shipwreck/shipwreck7
+[04Dec2024 22:22:34.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no
+[04Dec2024 22:23:12.223] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_7
+[04Dec2024 22:23:17.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> queesesto
+[04Dec2024 22:23:20.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> escapando de latinoamerica
+[04Dec2024 22:23:23.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es para crear hechizos
+[04Dec2024 22:23:29.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> y ya hay hechizos?
+[04Dec2024 22:23:31.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> kate yo tenia hechizos
+[04Dec2024 22:23:38.151] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_10
+[04Dec2024 22:23:38.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> si ya tenemos
+[04Dec2024 22:23:40.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> que tenian poderes
+[04Dec2024 22:23:55.070] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[04Dec2024 22:23:59.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_main_start
+[04Dec2024 22:23:59.509] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_exit
+[04Dec2024 22:23:59.511] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/mob/desert_ruins_mob_husk
+[04Dec2024 22:23:59.514] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_exit_lower
+[04Dec2024 22:23:59.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/mob/desert_ruins_mob_creeper
+[04Dec2024 22:23:59.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/path/desert_ruins_path4
+[04Dec2024 22:23:59.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/path/desert_ruins_path9
+[04Dec2024 22:23:59.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_exit_corner
+[04Dec2024 22:23:59.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/path/desert_ruins_path7
+[04Dec2024 22:23:59.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/path/desert_ruins_path5
+[04Dec2024 22:23:59.542] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/path/desert_ruins_path2
+[04Dec2024 22:23:59.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/house/desert_ruins_house_15
+[04Dec2024 22:23:59.546] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/mob/desert_ruins_mob_skeleton
+[04Dec2024 22:23:59.546] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/path/desert_ruins_path1
+[04Dec2024 22:23:59.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/path/desert_ruins_path6
+[04Dec2024 22:23:59.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/path/desert_ruins_path8
+[04Dec2024 22:23:59.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/house/desert_ruins_house_2
+[04Dec2024 22:23:59.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_exit_corner_lower
+[04Dec2024 22:23:59.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/house/desert_ruins_house_17
+[04Dec2024 22:23:59.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/house/desert_ruins_house_8
+[04Dec2024 22:23:59.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/path/desert_ruins_path3
+[04Dec2024 22:23:59.556] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/house/desert_ruins_house_16
+[04Dec2024 22:23:59.557] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/house/desert_ruins_lantern3
+[04Dec2024 22:23:59.557] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/house/desert_ruins_lantern1
+[04Dec2024 22:23:59.557] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/house/desert_ruins_lantern2
+[04Dec2024 22:24:02.222] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_14
+[04Dec2024 22:24:04.345] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[04Dec2024 22:24:12.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> las semillas que sobran las pueden poner en los compostadores para polvo de hueso
+[04Dec2024 22:24:23.648] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[04Dec2024 22:25:09.410] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[04Dec2024 22:25:14.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> esperen
+[04Dec2024 22:25:22.612] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[04Dec2024 22:25:24.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> iniciaron una raid full hierro?
+[04Dec2024 22:25:25.372] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_3
+[04Dec2024 22:25:27.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> estan locos?
+[04Dec2024 22:25:28.807] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of milesplayz:watertower
+[04Dec2024 22:25:28.820] [Worker-Main-2/DEBUG] [ModernFix/]: Structure milesplayz:hotel is being run through DFU (hash 2afc3ab83886f674e37469fdc9e5414295d719df314b04b6654e219688f98de5), this will cause launch time delays
+[04Dec2024 22:25:29.345] [Worker-Main-2/DEBUG] [ModernFix/]: Structure milesplayz:west_path_3 is being run through DFU (hash 8e421f4bfb3be7b182728d7f8a246b3e574f04f54293156003eb944966163d56), this will cause launch time delays
+[04Dec2024 22:25:29.356] [Worker-Main-2/DEBUG] [ModernFix/]: Structure milesplayz:west_house is being run through DFU (hash 53191d7a6e8540eeaae05a01df2971dab793900a57c7338a6f52f7eef7163f37), this will cause launch time delays
+[04Dec2024 22:25:29.403] [Worker-Main-2/DEBUG] [ModernFix/]: Structure milesplayz:west_house_2 is being run through DFU (hash ad59b688b3fb285badda63e6007218a0d971574155efeb7e040fb3b7598e2805), this will cause launch time delays
+[04Dec2024 22:25:29.685] [Worker-Main-2/DEBUG] [ModernFix/]: Structure milesplayz:saloon is being run through DFU (hash dcaf649ebdb9fa564c884e31ae116b254f7430988cc4c989f53f8cd60f53bcef), this will cause launch time delays
+[04Dec2024 22:25:29.778] [Worker-Main-2/DEBUG] [ModernFix/]: Structure milesplayz:west_path is being run through DFU (hash eb796de7ee86b2ca3a2cfb757c24b6dbec722af182c5d3cbb01455d8197657ff), this will cause launch time delays
+[04Dec2024 22:25:29.784] [Worker-Main-2/DEBUG] [ModernFix/]: Structure milesplayz:jail is being run through DFU (hash 919c45dcfbc5b3061b92872627b21f2b79c1c1ad546a9be302d579a12fe7553b), this will cause launch time delays
+[04Dec2024 22:25:29.829] [Worker-Main-2/DEBUG] [ModernFix/]: Structure milesplayz:west_path_2 is being run through DFU (hash b915f3b7199224aa789ba4bff3d54f9ea8270b7e61c8dbc704e776a90a1d7a59), this will cause launch time delays
+[04Dec2024 22:25:29.842] [Worker-Main-2/DEBUG] [ModernFix/]: Structure milesplayz:bank is being run through DFU (hash 921dda9bee8b815c77480dead2db342cd82104223cee9d44db7636a2530b537a), this will cause launch time delays
+[04Dec2024 22:25:29.983] [Worker-Main-2/DEBUG] [ModernFix/]: Structure milesplayz:sheriff is being run through DFU (hash 8999f448580db69c0c8730ea657e1256085380fc3794ce7fb37890da135c9414), this will cause launch time delays
+[04Dec2024 22:25:30.636] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_1
+[04Dec2024 22:25:30.638] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_6
+[04Dec2024 22:25:34.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no la iniciamos
+[04Dec2024 22:25:35.667] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[04Dec2024 22:25:46.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> debiste ser tu
+[04Dec2024 22:25:53.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> kate veni
+[04Dec2024 22:25:56.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> trae semillas
+[04Dec2024 22:26:00.270] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[04Dec2024 22:26:00.287] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[04Dec2024 22:26:00.300] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[04Dec2024 22:26:02.899] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[04Dec2024 22:26:03.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> y da click derecho aca
+[04Dec2024 22:26:07.751] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[04Dec2024 22:26:10.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_5
+[04Dec2024 22:26:12.403] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[04Dec2024 22:26:13.868] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[04Dec2024 22:26:16.465] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[04Dec2024 22:26:16.517] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[04Dec2024 22:26:20.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> en el compostadoor
+[04Dec2024 22:26:30.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ojo
+[04Dec2024 22:26:49.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> Pq alguien llamada may esta en mi casa
+[04Dec2024 22:26:59.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es de las sobrevivientes
+[04Dec2024 22:27:03.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> por se adueñaste de la de ella
+[04Dec2024 22:27:07.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 22:27:07.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 22:27:18.565] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_15
+[04Dec2024 22:27:22.423] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_2
+[04Dec2024 22:27:23.070] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[04Dec2024 22:27:57.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> voy a hacer polvo de hueso
+[04Dec2024 22:28:03.086] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:fountain
+[04Dec2024 22:28:03.102] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_2
+[04Dec2024 22:28:03.108] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:loom_1
+[04Dec2024 22:28:03.123] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:farm_3
+[04Dec2024 22:28:03.132] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:farm_1
+[04Dec2024 22:28:03.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:villager
+[04Dec2024 22:28:03.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_3
+[04Dec2024 22:28:03.135] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_1
+[04Dec2024 22:28:03.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:fletcher_1
+[04Dec2024 22:28:03.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:mason_1
+[04Dec2024 22:28:03.159] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:cartographer_1
+[04Dec2024 22:28:03.170] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:librarian_1
+[04Dec2024 22:28:03.179] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:weaponsmith_1
+[04Dec2024 22:28:03.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:weaponsmith_2
+[04Dec2024 22:28:03.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_4
+[04Dec2024 22:28:03.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_5
+[04Dec2024 22:28:03.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[04Dec2024 22:28:03.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight
+[04Dec2024 22:28:03.880] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_2
+[04Dec2024 22:28:03.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_2
+[04Dec2024 22:28:03.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[04Dec2024 22:28:03.885] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[04Dec2024 22:28:03.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[04Dec2024 22:28:03.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[04Dec2024 22:28:03.889] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[04Dec2024 22:28:03.891] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[04Dec2024 22:28:03.895] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[04Dec2024 22:28:03.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[04Dec2024 22:28:03.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[04Dec2024 22:28:03.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[04Dec2024 22:28:03.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[04Dec2024 22:28:03.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[04Dec2024 22:28:03.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[04Dec2024 22:28:03.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[04Dec2024 22:28:03.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[04Dec2024 22:28:03.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[04Dec2024 22:28:03.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[04Dec2024 22:28:03.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[04Dec2024 22:28:03.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[04Dec2024 22:28:03.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[04Dec2024 22:28:03.922] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[04Dec2024 22:28:03.923] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[04Dec2024 22:28:03.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[04Dec2024 22:28:03.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[04Dec2024 22:28:05.006] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[04Dec2024 22:28:09.308] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_4
+[04Dec2024 22:28:16.218] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[04Dec2024 22:28:22.169] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_3
+[04Dec2024 22:28:31.817] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of milesplayz:watertower
+[04Dec2024 22:28:33.401] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[04Dec2024 22:28:33.413] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[04Dec2024 22:28:45.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> voy sobreviviendo con comida
+[04Dec2024 22:28:51.817] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_main_start
+[04Dec2024 22:28:51.848] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_path2
+[04Dec2024 22:28:51.855] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_path4
+[04Dec2024 22:28:51.864] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_temple3
+[04Dec2024 22:28:51.865] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house4
+[04Dec2024 22:28:51.866] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_temple2
+[04Dec2024 22:28:51.867] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_temple1
+[04Dec2024 22:28:51.876] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_villayan
+[04Dec2024 22:28:51.877] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house6
+[04Dec2024 22:28:51.877] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house5
+[04Dec2024 22:28:51.878] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_path1
+[04Dec2024 22:28:51.888] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_spring
+[04Dec2024 22:28:51.888] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_axolotl
+[04Dec2024 22:28:51.890] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house_smith
+[04Dec2024 22:28:51.892] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house_shepherd
+[04Dec2024 22:28:51.893] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house_butcher
+[04Dec2024 22:28:51.893] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house1
+[04Dec2024 22:28:51.894] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house7
+[04Dec2024 22:28:51.895] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house8
+[04Dec2024 22:28:51.896] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house_fletcher
+[04Dec2024 22:28:51.897] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house_smith2
+[04Dec2024 22:28:51.898] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house2
+[04Dec2024 22:28:51.898] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house3
+[04Dec2024 22:28:51.899] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_path3
+[04Dec2024 22:28:51.909] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_temple_main_bottom
+[04Dec2024 22:28:51.940] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_lamp2
+[04Dec2024 22:28:51.941] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_farm
+[04Dec2024 22:28:51.943] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_villayan_big
+[04Dec2024 22:28:51.944] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house_mason
+[04Dec2024 22:28:51.946] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_lamp1
+[04Dec2024 22:28:51.946] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_lamp3
+[04Dec2024 22:28:51.948] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house_library
+[04Dec2024 22:28:51.949] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_axolotl_2
+[04Dec2024 22:29:03.654] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[04Dec2024 22:29:03.680] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_7
+[04Dec2024 22:29:51.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> kate ayudame
+[04Dec2024 22:29:57.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> son muchas semillas
+[04Dec2024 22:30:07.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_2
+[04Dec2024 22:30:08.107] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[04Dec2024 22:30:08.247] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_3
+[04Dec2024 22:30:11.036] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:alchemist_1
+[04Dec2024 22:30:11.044] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:house_1
+[04Dec2024 22:30:11.049] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:farm_2
+[04Dec2024 22:30:11.055] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:librarian_2
+[04Dec2024 22:30:24.616] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Carlinde'/22894, l='ServerLevel[world]', x=1659.29, y=66.00, z=-8891.29] died, message: 'Carlinde was slain by Arlette'
+[04Dec2024 22:30:24.618] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Carlinde'/22894, l='ServerLevel[world]', x=1659.29, y=66.00, z=-8891.29] died: Carlinde was slain by Arlette
+[04Dec2024 22:30:27.118] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_18
+[04Dec2024 22:30:28.559] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Sarienke}[style={}] has been infected
+[04Dec2024 22:30:31.544] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sarienke'/22896, l='ServerLevel[world]', x=1659.73, y=66.00, z=-8891.73] died, message: 'Sarienke was slain by Arlette'
+[04Dec2024 22:30:31.544] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sarienke'/22896, l='ServerLevel[world]', x=1659.73, y=66.00, z=-8891.73] died: Sarienke was slain by Arlette
+[04Dec2024 22:30:36.648] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Kornelis}[style={}] has been infected
+[04Dec2024 22:30:38.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kornelis'/22895, l='ServerLevel[world]', x=1659.70, y=66.00, z=-8891.30] died, message: 'Kornelis was slain by Arlette'
+[04Dec2024 22:30:38.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kornelis'/22895, l='ServerLevel[world]', x=1659.70, y=66.00, z=-8891.30] died: Kornelis was slain by Arlette
+[04Dec2024 22:30:45.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> dormir
+[04Dec2024 22:30:52.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ni es de noche
+[04Dec2024 22:30:54.359] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_8
+[04Dec2024 22:30:54.616] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_11b is being run through DFU (hash a1096bcb85c1dc7d2ef9390b0bbaf1fae71e4114cf5c55d7a4d09382e44152c2), this will cause launch time delays
+[04Dec2024 22:30:54.768] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[04Dec2024 22:31:15.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 hit the ground too hard
+[04Dec2024 22:31:20.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> XD
+[04Dec2024 22:31:22.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> Diavlo que golpe
+[04Dec2024 22:31:36.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> medio stack de polvo de hueso
+[04Dec2024 22:31:37.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> dormir
+[04Dec2024 22:31:40.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> a escapar de latinoameric
+[04Dec2024 22:31:53.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> ya estoy durmiendo frieren
+[04Dec2024 22:31:53.493] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
+[04Dec2024 22:31:53.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
+[04Dec2024 22:32:07.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 22:32:07.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

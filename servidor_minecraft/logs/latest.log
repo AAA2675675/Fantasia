@@ -1207,3 +1207,53 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Dec2024 22:21:21.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> el que no duerme es pe
 [04Dec2024 22:21:22.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> te
 [04Dec2024 22:21:37.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 was slain by GotKindaTori
+[04Dec2024 22:21:42.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> volveme a robar
+[04Dec2024 22:21:46.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> yo que mierda
+[04Dec2024 22:22:14.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> es legal quedarse sin comida en esta aldea
+[04Dec2024 22:22:17.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> ?
+[04Dec2024 22:22:34.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no
+[04Dec2024 22:23:17.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> queesesto
+[04Dec2024 22:23:20.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> escapando de latinoamerica
+[04Dec2024 22:23:23.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es para crear hechizos
+[04Dec2024 22:23:29.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> y ya hay hechizos?
+[04Dec2024 22:23:31.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> kate yo tenia hechizos
+[04Dec2024 22:23:38.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> si ya tenemos
+[04Dec2024 22:23:40.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> que tenian poderes
+[04Dec2024 22:24:12.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> las semillas que sobran las pueden poner en los compostadores para polvo de hueso
+[04Dec2024 22:25:14.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> esperen
+[04Dec2024 22:25:22.612] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[04Dec2024 22:25:24.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> iniciaron una raid full hierro?
+[04Dec2024 22:25:27.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> estan locos?
+[04Dec2024 22:25:34.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no la iniciamos
+[04Dec2024 22:25:46.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> debiste ser tu
+[04Dec2024 22:25:53.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> kate veni
+[04Dec2024 22:25:56.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> trae semillas
+[04Dec2024 22:26:03.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> y da click derecho aca
+[04Dec2024 22:26:20.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> en el compostadoor
+[04Dec2024 22:26:30.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ojo
+[04Dec2024 22:26:49.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> Pq alguien llamada may esta en mi casa
+[04Dec2024 22:26:59.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es de las sobrevivientes
+[04Dec2024 22:27:03.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> por se adueñaste de la de ella
+[04Dec2024 22:27:57.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> voy a hacer polvo de hueso
+[04Dec2024 22:28:45.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> voy sobreviviendo con comida
+[04Dec2024 22:29:51.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> kate ayudame
+[04Dec2024 22:29:57.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> son muchas semillas
+[04Dec2024 22:30:24.616] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Carlinde'/22894, l='ServerLevel[world]', x=1659.29, y=66.00, z=-8891.29] died, message: 'Carlinde was slain by Arlette'
+[04Dec2024 22:30:24.618] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Carlinde'/22894, l='ServerLevel[world]', x=1659.29, y=66.00, z=-8891.29] died: Carlinde was slain by Arlette
+[04Dec2024 22:30:28.559] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Sarienke}[style={}] has been infected
+[04Dec2024 22:30:31.544] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sarienke'/22896, l='ServerLevel[world]', x=1659.73, y=66.00, z=-8891.73] died, message: 'Sarienke was slain by Arlette'
+[04Dec2024 22:30:31.544] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sarienke'/22896, l='ServerLevel[world]', x=1659.73, y=66.00, z=-8891.73] died: Sarienke was slain by Arlette
+[04Dec2024 22:30:36.648] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Kornelis}[style={}] has been infected
+[04Dec2024 22:30:38.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kornelis'/22895, l='ServerLevel[world]', x=1659.70, y=66.00, z=-8891.30] died, message: 'Kornelis was slain by Arlette'
+[04Dec2024 22:30:38.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kornelis'/22895, l='ServerLevel[world]', x=1659.70, y=66.00, z=-8891.30] died: Kornelis was slain by Arlette
+[04Dec2024 22:30:45.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> dormir
+[04Dec2024 22:30:52.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ni es de noche
+[04Dec2024 22:31:15.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 hit the ground too hard
+[04Dec2024 22:31:20.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> XD
+[04Dec2024 22:31:22.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> Diavlo que golpe
+[04Dec2024 22:31:36.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> medio stack de polvo de hueso
+[04Dec2024 22:31:37.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> dormir
+[04Dec2024 22:31:40.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> a escapar de latinoameric
+[04Dec2024 22:31:53.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> ya estoy durmiendo frieren
+[04Dec2024 22:31:53.493] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
+[04Dec2024 22:31:53.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
