@@ -1257,3 +1257,105 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Dec2024 22:31:53.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> ya estoy durmiendo frieren
 [04Dec2024 22:31:53.493] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
 [04Dec2024 22:31:53.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
+[04Dec2024 22:32:08.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> dormir
+[04Dec2024 22:32:11.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> dormir
+[04Dec2024 22:32:14.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ya va
+[04Dec2024 22:32:14.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> dormir
+[04Dec2024 22:32:17.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> zzzzzzzzzzzz
+[04Dec2024 22:32:18.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> fran
+[04Dec2024 22:32:29.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GotKindaTori> dormir
+[04Dec2024 22:32:39.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> fran
+[04Dec2024 22:32:40.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GotKindaTori lost connection: Disconnected
+[04Dec2024 22:32:40.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GotKindaTori left the game
+[04Dec2024 22:32:42.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> me perdi
+[04Dec2024 22:32:45.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> salte
+[04Dec2024 22:32:48.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Franxd2 lost connection: Disconnected
+[04Dec2024 22:32:48.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 left the game
+[04Dec2024 22:32:54.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Dec2024 22:32:54.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdada<--[HERE]
+[04Dec2024 22:32:56.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> a seguir aplanando
+[04Dec2024 22:33:05.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotRealSamX07[/127.210.127.247:50591] logged in with entity id 48478 at (2193.111739020205, 67.0, -9158.281452669673)
+[04Dec2024 22:33:05.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 joined the game
+[04Dec2024 22:33:05.668] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NotRealSamX07
+[04Dec2024 22:33:05.931] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NotRealSamX07
+[04Dec2024 22:33:05.947] [Server thread/INFO] [ping-wheel/]: Channel update: NotRealSamX07 -> default
+[04Dec2024 22:33:30.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> Tormenta?
+[04Dec2024 22:33:34.943] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Franxd2[/127.156.145.241:55797] logged in with entity id 48805 at (1621.592944460504, 78.0, -8898.487500011921)
+[04Dec2024 22:33:34.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 joined the game
+[04Dec2024 22:33:34.983] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Franxd2
+[04Dec2024 22:33:35.260] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Franxd2
+[04Dec2024 22:33:35.261] [Server thread/INFO] [ping-wheel/]: Channel update: Franxd2 -> default
+[04Dec2024 22:33:36.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> si
+[04Dec2024 22:33:41.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ya
+[04Dec2024 22:35:25.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam
+[04Dec2024 22:35:27.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> q
+[04Dec2024 22:35:30.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> so
+[04Dec2024 22:35:32.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> debemos poner ya esos faros que dijimos al inicio xd
+[04Dec2024 22:35:35.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> osea para las calles
+[04Dec2024 22:35:39.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> luces necesitamos
+[04Dec2024 22:35:54.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> estoy encontrando vacas pa mi mochila
+[04Dec2024 22:35:56.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> a canijo hermano esta todo nublado
+[04Dec2024 22:35:57.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> fran ven aca
+[04Dec2024 22:35:57.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> me falta 1 de cuero-
+[04Dec2024 22:36:00.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> parece que va a llover-
+[04Dec2024 22:36:05.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 fell from a high place
+[04Dec2024 22:36:08.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> XD
+[04Dec2024 22:36:18.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> no quiero hacer nda
+[04Dec2024 22:36:19.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> fran ven
+[04Dec2024 22:36:24.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> q queres
+[04Dec2024 22:36:38.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ven
+[04Dec2024 22:37:07.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> WTF
+[04Dec2024 22:37:09.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> UN ESQUELETO CON ESPADA
+[04Dec2024 22:37:10.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> q mr
+[04Dec2024 22:37:12.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> quien llora?
+[04Dec2024 22:37:22.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> esos son los del desierto
+[04Dec2024 22:37:24.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> me encontre uno
+[04Dec2024 22:37:25.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> y lo mate
+[04Dec2024 22:37:25.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> que op
+[04Dec2024 22:37:25.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> izi
+[04Dec2024 22:37:26.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> asies
+[04Dec2024 22:37:36.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> me solto la espada
+[04Dec2024 22:37:37.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> Kate pq tienes un palo para pelear
+[04Dec2024 22:37:55.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> OH DIOS
+[04Dec2024 22:37:55.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ohno
+[04Dec2024 22:37:57.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> UN PEZ GRANDE
+[04Dec2024 22:38:13.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanito11Tale has made the advancement [Monster Hunter]
+[04Dec2024 22:38:16.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hoy cenamos pescado
+[04Dec2024 22:38:31.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> da,e ña pesa
+[04Dec2024 22:38:38.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 has reached the goal [Horror of the Depths]
+[04Dec2024 22:38:42.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> dame la espada del esque
+[04Dec2024 22:38:57.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ven
+[04Dec2024 22:39:05.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> tu no fran
+[04Dec2024 22:39:07.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> juantale
+[04Dec2024 22:39:11.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hoy comemos pescado
+[04Dec2024 22:39:16.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> tengo estomago del pez
+[04Dec2024 22:39:21.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam
+[04Dec2024 22:39:24.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> matamos una ballena
+[04Dec2024 22:39:28.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> q
+[04Dec2024 22:39:30.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> tengo 40 de carne
+[04Dec2024 22:39:31.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> era un pez grande
+[04Dec2024 22:39:35.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> qqq
+[04Dec2024 22:39:44.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> necesito mochila
+[04Dec2024 22:39:45.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> Chavales
+[04Dec2024 22:39:49.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> como quedo mi lugar de aplanacion
+[04Dec2024 22:39:50.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> consigueme una para ser exploradores ambos
+[04Dec2024 22:40:30.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanito11Tale has made the advancement [Disgusting Lootbox]
+[04Dec2024 22:40:33.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam alguien rompio tu cama
+[04Dec2024 22:40:35.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> fran
+[04Dec2024 22:40:39.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> q queres
+[04Dec2024 22:40:39.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> nunca comas carne cruda
+[04Dec2024 22:40:42.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> te siguen moscas
+[04Dec2024 22:40:44.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> me suda
+[04Dec2024 22:41:02.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> Solo se que kate
+[04Dec2024 22:41:07.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> no sabe la diferencia de la derecha y izquierda
+[04Dec2024 22:41:18.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam
+[04Dec2024 22:41:21.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> q
+[04Dec2024 22:41:22.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> necesito mochila
+[04Dec2024 22:41:26.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> ee
+[04Dec2024 22:41:27.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no podemos ir a explorar sin una
+[04Dec2024 22:41:30.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> Oh dios tiene mochila
+[04Dec2024 22:41:32.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> TIENE UNA MOCHILA
+[04Dec2024 22:41:37.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> SAM VA A LA ESCUELA
+[04Dec2024 22:41:43.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no tengo nada
+[04Dec2024 22:41:56.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> fran largo
+[04Dec2024 22:42:19.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> dormir

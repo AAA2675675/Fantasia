@@ -3127,6 +3127,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2024-12-04 22:38:38 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_creator": {
     "criteria": {
       "dark_creator_0": "2024-12-04 22:04:54 +0000"
