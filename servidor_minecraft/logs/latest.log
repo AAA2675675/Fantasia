@@ -110,3 +110,18 @@
 [05Dec2024 02:51:16.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
 [05Dec2024 02:53:16.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Survival Mode
 [05Dec2024 02:56:06.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[05Dec2024 03:07:00.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the weather to clear
+[05Dec2024 03:08:56.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Creative Mode
+[05Dec2024 03:14:29.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Survival Mode
+[05Dec2024 03:18:00.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 lost connection: Disconnected
+[05Dec2024 03:18:00.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 left the game
+[05Dec2024 03:18:05.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Dec2024 03:18:05.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Dec2024 03:18:05.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Dec2024 03:18:05.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Dec2024 03:18:06.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Dec2024 03:18:06.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Dec2024 03:18:06.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Dec2024 03:18:06.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Dec2024 03:18:06.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Dec2024 03:18:06.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
