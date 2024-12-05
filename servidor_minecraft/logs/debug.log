@@ -13244,3 +13244,80 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Dec2024 02:52:57.763] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/villagers/unemployed_desert
 [05Dec2024 02:52:57.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
 [05Dec2024 02:53:16.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Survival Mode
+[05Dec2024 02:56:06.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[05Dec2024 02:56:27.811] [IO-Worker-183/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-184
+[05Dec2024 02:56:29.352] [IO-Worker-173/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-185
+[05Dec2024 02:56:29.352] [IO-Worker-183/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-186
+[05Dec2024 02:56:33.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_10
+[05Dec2024 02:57:11.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:57:12.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:58:32.591] [IO-Worker-186/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-187
+[05Dec2024 02:58:32.592] [IO-Worker-173/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-188
+[05Dec2024 02:58:32.594] [IO-Worker-186/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-189
+[05Dec2024 02:58:32.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_path2
+[05Dec2024 02:58:32.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_path4
+[05Dec2024 02:58:32.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_path1
+[05Dec2024 02:58:32.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_temple_main_bottom
+[05Dec2024 02:58:32.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house8
+[05Dec2024 02:58:32.751] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house5
+[05Dec2024 02:58:32.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_lamp3
+[05Dec2024 02:58:32.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house_butcher
+[05Dec2024 02:58:32.753] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_path3
+[05Dec2024 02:58:32.753] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_villayan
+[05Dec2024 02:58:32.754] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house1
+[05Dec2024 02:58:32.755] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house3
+[05Dec2024 02:58:32.763] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house2
+[05Dec2024 02:58:32.764] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house_smith2
+[05Dec2024 02:58:32.764] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_lamp1
+[05Dec2024 02:58:32.766] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_villayan_big
+[05Dec2024 02:58:32.766] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_lamp2
+[05Dec2024 02:58:32.767] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house6
+[05Dec2024 02:58:32.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_temple1
+[05Dec2024 02:58:32.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_farm
+[05Dec2024 02:58:32.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house4
+[05Dec2024 02:58:32.770] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_temple2
+[05Dec2024 02:58:32.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_spring
+[05Dec2024 02:58:32.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house7
+[05Dec2024 02:58:32.772] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house_fletcher
+[05Dec2024 02:58:32.773] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_house_library
+[05Dec2024 02:58:32.774] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_temple3
+[05Dec2024 02:58:39.954] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_4
+[05Dec2024 02:59:24.380] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_exit
+[05Dec2024 02:59:24.383] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/mob/desert_ruins_mob_husk
+[05Dec2024 02:59:24.388] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_exit_lower
+[05Dec2024 02:59:24.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/mob/desert_ruins_mob_creeper
+[05Dec2024 02:59:24.429] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/path/desert_ruins_path4
+[05Dec2024 02:59:24.429] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/path/desert_ruins_path9
+[05Dec2024 02:59:24.431] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_exit_corner
+[05Dec2024 02:59:24.432] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/path/desert_ruins_path7
+[05Dec2024 02:59:24.432] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/path/desert_ruins_path5
+[05Dec2024 02:59:24.432] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/path/desert_ruins_path2
+[05Dec2024 02:59:24.437] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/house/desert_ruins_house_15
+[05Dec2024 02:59:24.438] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/mob/desert_ruins_mob_skeleton
+[05Dec2024 02:59:24.438] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/path/desert_ruins_path1
+[05Dec2024 02:59:24.439] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/path/desert_ruins_path6
+[05Dec2024 02:59:24.439] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/path/desert_ruins_path8
+[05Dec2024 02:59:24.441] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/house/desert_ruins_house_2
+[05Dec2024 02:59:24.442] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_exit_corner_lower
+[05Dec2024 02:59:24.446] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/house/desert_ruins_house_17
+[05Dec2024 02:59:24.447] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/house/desert_ruins_house_8
+[05Dec2024 02:59:24.447] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/path/desert_ruins_path3
+[05Dec2024 02:59:24.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/house/desert_ruins_house_16
+[05Dec2024 02:59:24.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/house/desert_ruins_lantern3
+[05Dec2024 02:59:24.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/house/desert_ruins_lantern1
+[05Dec2024 02:59:24.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/house/desert_ruins_lantern2
+[05Dec2024 02:59:44.453] [IO-Worker-189/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-190
+[05Dec2024 03:00:20.728] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of milesplayz:west_path
+[05Dec2024 03:00:20.728] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of milesplayz:west_path_2
+[05Dec2024 03:00:20.732] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of milesplayz:west_house_2
+[05Dec2024 03:00:20.734] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of milesplayz:west_house
+[05Dec2024 03:00:20.735] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of milesplayz:west_path_3
+[05Dec2024 03:00:20.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of milesplayz:saloon
+[05Dec2024 03:00:20.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of milesplayz:sheriff
+[05Dec2024 03:00:20.753] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of milesplayz:bank
+[05Dec2024 03:00:46.307] [IO-Worker-173/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-191
+[05Dec2024 03:00:46.308] [IO-Worker-187/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-192
+[05Dec2024 03:02:11.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:02:11.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:02:39.940] [IO-Worker-192/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-193
+[05Dec2024 03:04:29.230] [IO-Worker-193/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-194
