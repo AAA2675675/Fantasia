@@ -3382,6 +3382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-05 00:57:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2024-12-05 00:51:24 +0000"
@@ -3424,9 +3430,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-05 00:57:04 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/palm_shrub": {
     "criteria": {
       "has_palm_sapling": "2024-12-05 00:34:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/acacia_branch_from_acacia_log": {
+    "criteria": {
+      "has_log": "2024-12-05 00:57:04 +0000"
     },
     "done": true
   },
