@@ -3214,6 +3214,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-05 01:56:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/prismoss": {
+    "criteria": {
+      "has_stone": "2024-12-05 01:56:32 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/palm_beard_from_palm_log": {
     "criteria": {
       "has_log": "2024-12-05 00:31:54 +0000"
@@ -3238,9 +3250,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/stone_grass_block": {
+    "criteria": {
+      "has_stone": "2024-12-05 01:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-05 01:56:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-05 00:44:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-05 01:56:32 +0000"
     },
     "done": true
   },
@@ -3268,9 +3298,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-05 01:56:32 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/palm_planks": {
     "criteria": {
       "has_logs": "2024-12-05 00:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-05 01:56:32 +0000"
     },
     "done": true
   },
@@ -3286,9 +3328,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-05 01:56:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2024-12-05 00:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-05 01:56:32 +0000"
     },
     "done": true
   },
@@ -3310,15 +3364,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-05 01:56:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
       "has_red_sandstone": "2024-12-05 00:51:24 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-05 01:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-05 01:56:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_red_sandstone": "2024-12-05 00:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-05 01:56:32 +0000"
     },
     "done": true
   },
@@ -3340,6 +3418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-05 01:56:32 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/palm_sapling_from_palm_shrub": {
     "criteria": {
       "has_palm_shrub": "2024-12-05 00:33:43 +0000"
@@ -3355,6 +3439,18 @@
   "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2024-12-05 00:51:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_stone": "2024-12-05 01:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-05 01:56:32 +0000"
     },
     "done": true
   },
@@ -3391,6 +3487,12 @@
   "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2024-12-05 00:51:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone": {
+    "criteria": {
+      "has_stone": "2024-12-05 01:56:32 +0000"
     },
     "done": true
   },
@@ -3439,6 +3541,12 @@
   "regions_unexplored:recipes/decorations/palm_shrub": {
     "criteria": {
       "has_palm_sapling": "2024-12-05 00:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-05 01:56:32 +0000"
     },
     "done": true
   },

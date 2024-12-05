@@ -12926,3 +12926,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Dec2024 01:54:09.414] [Worker-Main-151/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-151 shutdown
 [05Dec2024 01:54:20.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Creative Mode
 [05Dec2024 01:54:29.029] [Worker-Main-117/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-161
+[05Dec2024 01:55:53.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[05Dec2024 01:56:23.681] [IO-Worker-155/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-162
+[05Dec2024 01:56:23.681] [IO-Worker-159/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-163
+[05Dec2024 01:56:23.682] [IO-Worker-155/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-164
+[05Dec2024 01:57:07.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 01:57:07.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:00:08.739] [IO-Worker-164/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-165
+[05Dec2024 02:02:07.411] [IO-Worker-159/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-166
+[05Dec2024 02:02:07.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:02:07.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:04:45.733] [IO-Worker-159/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-167
