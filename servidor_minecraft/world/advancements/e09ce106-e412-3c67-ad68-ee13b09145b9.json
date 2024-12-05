@@ -1484,6 +1484,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "palm_log": "2024-12-05 00:31:54 +0000",
       "redwood_log": "2024-12-04 23:55:41 +0000",
       "bamboo_log": "2024-11-25 06:26:19 +0000"
     },
@@ -1989,6 +1990,7 @@
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
       "sandy_dirt": "2024-11-26 00:23:25 +0000",
+      "grass": "2024-12-05 00:28:15 +0000",
       "dirt": "2024-11-25 18:20:26 +0000",
       "earthen_clay": "2024-11-26 05:12:15 +0000"
     },
@@ -3203,6 +3205,60 @@
   "regions_unexplored:recipes/building_blocks/redwood_wood": {
     "criteria": {
       "has_log": "2024-12-04 23:55:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/white_dye_from_white_magnolia_flowers": {
+    "criteria": {
+      "has_white_magnolia_flowers": "2024-12-05 00:29:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/palm_beard_from_palm_log": {
+    "criteria": {
+      "has_log": "2024-12-05 00:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-05 00:33:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/palm_planks": {
+    "criteria": {
+      "has_logs": "2024-12-05 00:31:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/palm_wood": {
+    "criteria": {
+      "has_log": "2024-12-05 00:31:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/palm_sapling_from_palm_shrub": {
+    "criteria": {
+      "has_palm_shrub": "2024-12-05 00:33:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2024-12-05 00:33:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-12-05 00:38:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/palm_shrub": {
+    "criteria": {
+      "has_palm_sapling": "2024-12-05 00:34:04 +0000"
     },
     "done": true
   },
