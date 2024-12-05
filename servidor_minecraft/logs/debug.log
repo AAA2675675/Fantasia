@@ -12965,3 +12965,282 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Dec2024 02:32:07.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 02:32:07.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Dec2024 02:32:51.882] [IO-Worker-173/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-176
+[05Dec2024 02:37:07.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:37:07.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:37:07.503] [IO-Worker-175/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-177
+[05Dec2024 02:41:26.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Creative Mode
+[05Dec2024 02:42:07.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:42:07.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:42:07.541] [IO-Worker-173/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-178
+[05Dec2024 02:42:08.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Survival Mode
+[05Dec2024 02:43:50.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Creative Mode
+[05Dec2024 02:44:02.182] [IO-Worker-178/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-179
+[05Dec2024 02:44:02.182] [IO-Worker-173/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-180
+[05Dec2024 02:44:02.274] [IO-Worker-178/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-181
+[05Dec2024 02:44:16.994] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_6
+[05Dec2024 02:44:16.995] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_6
+[05Dec2024 02:44:16.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_6
+[05Dec2024 02:44:18.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_6
+[05Dec2024 02:44:21.036] [Worker-Main-160/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[05Dec2024 02:44:21.046] [Worker-Main-160/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[05Dec2024 02:44:21.055] [Worker-Main-160/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[05Dec2024 02:44:25.282] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[05Dec2024 02:44:25.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[05Dec2024 02:44:25.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[05Dec2024 02:44:25.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_3
+[05Dec2024 02:44:25.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_2
+[05Dec2024 02:44:25.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_1
+[05Dec2024 02:44:25.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[05Dec2024 02:44:25.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[05Dec2024 02:44:25.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[05Dec2024 02:44:25.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[05Dec2024 02:44:25.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[05Dec2024 02:44:26.329] [Worker-Main-160/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[05Dec2024 02:44:28.069] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[05Dec2024 02:44:56.229] [Worker-Main-160/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_3b
+[05Dec2024 02:44:57.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 moved too quickly! 7.734952403716079,0.0,-7.1922073267669475
+[05Dec2024 02:44:57.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
+[05Dec2024 02:44:57.744] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/main/conduit_ruin_ring_1
+[05Dec2024 02:44:58.547] [Worker-Main-160/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_2b
+[05Dec2024 02:45:01.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 moved too quickly! 10.277889659952734,0.0,-2.1772681590082357
+[05Dec2024 02:45:05.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 moved too quickly! -0.8243629536241315,0.0,-10.393559473015557
+[05Dec2024 02:45:08.912] [Worker-Main-160/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[05Dec2024 02:45:13.038] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center1
+[05Dec2024 02:45:13.047] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center1
+[05Dec2024 02:45:18.623] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[05Dec2024 02:45:19.354] [Worker-Main-160/DEBUG] [ModernFix/]: Structure minecraft:shipwreck/shipwreck6 is being run through DFU (hash eb789c86fe3208b2cd39c60507da624e24828e21ce3373247b8e4cb63c303273), this will cause launch time delays
+[05Dec2024 02:45:22.615] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[05Dec2024 02:45:22.627] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[05Dec2024 02:45:29.276] [Worker-Main-160/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[05Dec2024 02:45:29.986] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ocean_warm/ocean_warm_tower_bottom
+[05Dec2024 02:45:29.994] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict/derelict_tower_bottom
+[05Dec2024 02:45:30.003] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ice/ice_tower_bottom
+[05Dec2024 02:45:30.011] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:jungle/jungle_tower_bottom
+[05Dec2024 02:45:30.019] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ocean/ocean_tower_bottom
+[05Dec2024 02:45:30.030] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:badlands/badlands_tower_bottom
+[05Dec2024 02:45:30.043] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/derelict_grass_tower_bottom
+[05Dec2024 02:45:30.052] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:desert/desert_tower_bottom
+[05Dec2024 02:45:30.059] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/tower_bottom
+[05Dec2024 02:45:30.068] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/waystone_tower_top
+[05Dec2024 02:45:33.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 moved too quickly! 0.21761195365888852,0.0,-10.025762176410353
+[05Dec2024 02:45:36.390] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[05Dec2024 02:45:36.402] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[05Dec2024 02:45:38.713] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_7
+[05Dec2024 02:45:42.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_1
+[05Dec2024 02:45:43.718] [Worker-Main-117/DEBUG] [ModernFix/]: Structure minecraft:underwater_ruin/big_brick_8 is being run through DFU (hash 97ea854d40578b34b620c9dea48873f5984f72f1c44b1e9fb0cf89036e67f9aa), this will cause launch time delays
+[05Dec2024 02:45:43.726] [Worker-Main-117/DEBUG] [ModernFix/]: Structure minecraft:underwater_ruin/big_cracked_8 is being run through DFU (hash 0e409e7f3a377a1557cd13b524901754ded0193198df8264e8b427afa24142ea), this will cause launch time delays
+[05Dec2024 02:45:43.731] [Worker-Main-117/DEBUG] [ModernFix/]: Structure minecraft:underwater_ruin/big_mossy_8 is being run through DFU (hash 8e812dec189dd26d87e1306ed7c8a6b52a946ffef719474d71364a01bbb02ac2), this will cause launch time delays
+[05Dec2024 02:45:43.736] [Worker-Main-117/DEBUG] [ModernFix/]: Structure minecraft:underwater_ruin/brick_2 is being run through DFU (hash b33fca91a9064afed43b556992a1e3760f991431489662a9bf292939003ab030), this will cause launch time delays
+[05Dec2024 02:45:43.740] [Worker-Main-117/DEBUG] [ModernFix/]: Structure minecraft:underwater_ruin/cracked_2 is being run through DFU (hash 48663e7680636b661a948b13108193850b24c8aeb5fd11df72f7be3f87530ffc), this will cause launch time delays
+[05Dec2024 02:45:43.745] [Worker-Main-117/DEBUG] [ModernFix/]: Structure minecraft:underwater_ruin/mossy_2 is being run through DFU (hash b33fca91a9064afed43b556992a1e3760f991431489662a9bf292939003ab030), this will cause launch time delays
+[05Dec2024 02:45:43.748] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_3
+[05Dec2024 02:45:43.749] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_3
+[05Dec2024 02:45:43.751] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_3
+[05Dec2024 02:45:56.117] [Worker-Main-160/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[05Dec2024 02:45:59.595] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:fountain
+[05Dec2024 02:45:59.609] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_3
+[05Dec2024 02:45:59.610] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_2
+[05Dec2024 02:45:59.616] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:farm_1
+[05Dec2024 02:45:59.625] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:cartographer_1
+[05Dec2024 02:45:59.633] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:house_1
+[05Dec2024 02:45:59.642] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:librarian_2
+[05Dec2024 02:45:59.651] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:loom_1
+[05Dec2024 02:45:59.660] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:weaponsmith_2
+[05Dec2024 02:45:59.668] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:fletcher_1
+[05Dec2024 02:45:59.676] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:mason_1
+[05Dec2024 02:45:59.683] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:weaponsmith_1
+[05Dec2024 02:45:59.694] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:librarian_1
+[05Dec2024 02:45:59.701] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:alchemist_1
+[05Dec2024 02:45:59.706] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:farm_2
+[05Dec2024 02:45:59.710] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:farm_3
+[05Dec2024 02:45:59.729] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_4
+[05Dec2024 02:45:59.790] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_5
+[05Dec2024 02:45:59.792] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:bridge_1
+[05Dec2024 02:45:59.796] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of skyvillages:villager
+[05Dec2024 02:46:01.706] [Worker-Main-160/DEBUG] [ModernFix/]: Using cached upgraded version of milesplayz:watertower
+[05Dec2024 02:46:01.954] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[05Dec2024 02:46:01.962] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[05Dec2024 02:46:01.969] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[05Dec2024 02:46:01.976] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[05Dec2024 02:46:01.983] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[05Dec2024 02:46:01.990] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[05Dec2024 02:46:05.030] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[05Dec2024 02:46:05.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[05Dec2024 02:46:05.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[05Dec2024 02:46:05.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[05Dec2024 02:46:05.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[05Dec2024 02:46:05.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end
+[05Dec2024 02:46:05.038] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction_cramped
+[05Dec2024 02:46:05.038] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage
+[05Dec2024 02:46:05.039] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/jail_cell
+[05Dec2024 02:46:05.040] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/shelf_storage
+[05Dec2024 02:46:15.066] [IO-Worker-180/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-182
+[05Dec2024 02:46:16.616] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_14
+[05Dec2024 02:46:19.257] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[05Dec2024 02:46:19.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[05Dec2024 02:46:19.267] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[05Dec2024 02:46:19.270] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[05Dec2024 02:46:19.272] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[05Dec2024 02:46:19.273] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/hay
+[05Dec2024 02:46:23.345] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_1
+[05Dec2024 02:46:30.054] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[05Dec2024 02:46:30.065] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_trapped
+[05Dec2024 02:46:30.067] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[05Dec2024 02:46:30.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_2
+[05Dec2024 02:46:30.075] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[05Dec2024 02:46:30.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[05Dec2024 02:46:30.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[05Dec2024 02:46:30.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[05Dec2024 02:46:30.080] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[05Dec2024 02:46:30.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[05Dec2024 02:46:30.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[05Dec2024 02:46:30.085] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[05Dec2024 02:46:30.087] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[05Dec2024 02:46:30.088] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[05Dec2024 02:46:30.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[05Dec2024 02:46:30.090] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[05Dec2024 02:46:30.091] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[05Dec2024 02:46:30.093] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[05Dec2024 02:46:30.096] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[05Dec2024 02:46:30.097] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[05Dec2024 02:46:30.100] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[05Dec2024 02:46:30.102] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[05Dec2024 02:46:30.655] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/waystone_derelict_grass_tower_top
+[05Dec2024 02:46:33.164] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1377, y=-19, z=-11097}
+[05Dec2024 02:46:33.167] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1392, y=-19, z=-11096}
+[05Dec2024 02:46:33.167] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1400, y=-19, z=-11079}
+[05Dec2024 02:46:33.167] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1401, y=-19, z=-11089}
+[05Dec2024 02:46:33.218] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1359, y=-19, z=-11104}
+[05Dec2024 02:46:33.219] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1377, y=-19, z=-11097}
+[05Dec2024 02:46:33.220] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1392, y=-19, z=-11096}
+[05Dec2024 02:46:33.276] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1359, y=-19, z=-11104}
+[05Dec2024 02:46:33.277] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1374, y=-19, z=-11103}
+[05Dec2024 02:46:33.277] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1358, y=-13, z=-11103}
+[05Dec2024 02:46:33.278] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1363, y=-13, z=-11103}
+[05Dec2024 02:46:33.782] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1359, y=-19, z=-11104}
+[05Dec2024 02:46:33.788] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1350, y=-6, z=-11093}
+[05Dec2024 02:46:33.789] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1345, y=-6, z=-11100}
+[05Dec2024 02:46:33.790] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1350, y=-6, z=-11075}
+[05Dec2024 02:46:33.790] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1351, y=-6, z=-11110}
+[05Dec2024 02:46:33.790] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1358, y=-13, z=-11103}
+[05Dec2024 02:46:33.791] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1357, y=-13, z=-11090}
+[05Dec2024 02:46:33.850] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1345, y=-6, z=-11100}
+[05Dec2024 02:46:33.851] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1357, y=-13, z=-11090}
+[05Dec2024 02:46:35.006] [Worker-Main-160/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[05Dec2024 02:46:35.018] [Worker-Main-160/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[05Dec2024 02:46:36.436] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1359, y=-19, z=-11104}
+[05Dec2024 02:46:36.557] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1358, y=-21, z=-11111}
+[05Dec2024 02:46:36.558] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1359, y=-19, z=-11104}
+[05Dec2024 02:46:36.867] [Worker-Main-117/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1358, y=-21, z=-11111}
+[05Dec2024 02:46:36.867] [Worker-Main-117/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1344, y=-8, z=-11111}
+[05Dec2024 02:46:36.868] [Worker-Main-117/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1359, y=-19, z=-11104}
+[05Dec2024 02:46:36.868] [Worker-Main-117/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1350, y=-6, z=-11093}
+[05Dec2024 02:46:36.869] [Worker-Main-117/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1345, y=-6, z=-11100}
+[05Dec2024 02:46:36.869] [Worker-Main-117/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1351, y=-6, z=-11110}
+[05Dec2024 02:46:36.869] [Worker-Main-117/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1357, y=-13, z=-11090}
+[05Dec2024 02:46:36.958] [Worker-Main-117/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1335, y=-19, z=-11110}
+[05Dec2024 02:46:36.958] [Worker-Main-117/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1336, y=-19, z=-11121}
+[05Dec2024 02:46:36.959] [Worker-Main-117/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1330, y=-19, z=-11110}
+[05Dec2024 02:46:36.960] [Worker-Main-117/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1345, y=-6, z=-11100}
+[05Dec2024 02:46:36.961] [Worker-Main-117/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1357, y=-13, z=-11090}
+[05Dec2024 02:46:36.982] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1330, y=-19, z=-11110}
+[05Dec2024 02:46:36.983] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1315, y=-19, z=-11135}
+[05Dec2024 02:46:37.026] [Worker-Main-117/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1315, y=-19, z=-11135}
+[05Dec2024 02:46:37.032] [Worker-Main-117/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1283, y=-19, z=-11141}
+[05Dec2024 02:46:37.032] [Worker-Main-117/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1282, y=-19, z=-11115}
+[05Dec2024 02:46:46.616] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1304, y=-19, z=-11142}
+[05Dec2024 02:46:46.616] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1301, y=-33, z=-11133}
+[05Dec2024 02:46:46.617] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1283, y=-19, z=-11141}
+[05Dec2024 02:46:46.618] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1282, y=-19, z=-11115}
+[05Dec2024 02:46:46.618] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1282, y=-19, z=-11126}
+[05Dec2024 02:46:46.634] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1323, y=-19, z=-11128}
+[05Dec2024 02:46:46.634] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1322, y=-19, z=-11140}
+[05Dec2024 02:46:46.634] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1315, y=-19, z=-11135}
+[05Dec2024 02:46:46.640] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1322, y=-19, z=-11140}
+[05Dec2024 02:46:46.641] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1315, y=-19, z=-11135}
+[05Dec2024 02:46:46.642] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1304, y=-19, z=-11142}
+[05Dec2024 02:46:46.642] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1301, y=-33, z=-11133}
+[05Dec2024 02:46:46.719] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1344, y=-19, z=-11152}
+[05Dec2024 02:46:46.723] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1358, y=-21, z=-11111}
+[05Dec2024 02:46:46.742] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1344, y=-19, z=-11152}
+[05Dec2024 02:46:46.745] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1358, y=-21, z=-11111}
+[05Dec2024 02:46:46.745] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1344, y=-8, z=-11111}
+[05Dec2024 02:46:46.761] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1323, y=-19, z=-11128}
+[05Dec2024 02:46:46.762] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1335, y=-19, z=-11110}
+[05Dec2024 02:46:46.762] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1336, y=-19, z=-11121}
+[05Dec2024 02:46:47.518] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1344, y=-19, z=-11152}
+[05Dec2024 02:46:47.541] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1344, y=-19, z=-11152}
+[05Dec2024 02:46:50.263] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1323, y=-19, z=-11128}
+[05Dec2024 02:46:50.639] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1344, y=-19, z=-11152}
+[05Dec2024 02:46:50.755] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1344, y=-19, z=-11152}
+[05Dec2024 02:46:50.779] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1323, y=-19, z=-11128}
+[05Dec2024 02:46:50.780] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1322, y=-19, z=-11140}
+[05Dec2024 02:46:50.780] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1306, y=-19, z=-11141}
+[05Dec2024 02:46:50.790] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1322, y=-19, z=-11140}
+[05Dec2024 02:46:50.791] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1304, y=-19, z=-11142}
+[05Dec2024 02:46:50.792] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1306, y=-19, z=-11141}
+[05Dec2024 02:46:50.792] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1293, y=-33, z=-11143}
+[05Dec2024 02:46:50.845] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1304, y=-19, z=-11142}
+[05Dec2024 02:46:50.846] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1293, y=-33, z=-11143}
+[05Dec2024 02:46:50.847] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1283, y=-19, z=-11141}
+[05Dec2024 02:46:51.043] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1344, y=-19, z=-11152}
+[05Dec2024 02:46:51.206] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1344, y=-19, z=-11152}
+[05Dec2024 02:47:01.449] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_7
+[05Dec2024 02:47:01.464] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_7
+[05Dec2024 02:47:01.470] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_7
+[05Dec2024 02:47:01.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_3
+[05Dec2024 02:47:02.386] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[05Dec2024 02:47:03.215] [Worker-Main-161/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_12 is being run through DFU (hash 17d793b63ca9d68b4768627dc9cc1096709327c84ed1b074d26f54edf5629d92), this will cause launch time delays
+[05Dec2024 02:47:05.234] [Worker-Main-160/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[05Dec2024 02:47:10.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:47:10.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:47:18.950] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_1
+[05Dec2024 02:47:18.955] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_1
+[05Dec2024 02:47:18.962] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_1
+[05Dec2024 02:47:34.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_6b
+[05Dec2024 02:47:39.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 moved too quickly! 0.8041903539518671,0.0,10.494011605404012
+[05Dec2024 02:48:00.687] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[05Dec2024 02:48:04.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 moved too quickly! 5.694652960242365,0.0,8.65600852087482
+[05Dec2024 02:48:04.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
+[05Dec2024 02:48:16.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight
+[05Dec2024 02:48:16.484] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_2
+[05Dec2024 02:48:16.486] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[05Dec2024 02:48:16.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[05Dec2024 02:48:16.490] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[05Dec2024 02:48:16.497] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[05Dec2024 02:48:16.499] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_spiral_stairs
+[05Dec2024 02:48:22.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_2
+[05Dec2024 02:48:40.368] [Worker-Main-160/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_main_start
+[05Dec2024 02:48:43.668] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_7
+[05Dec2024 02:50:47.536] [Worker-Main-160/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[05Dec2024 02:50:48.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 moved too quickly! -6.13759417979486,0.0,-7.9656258126469766
+[05Dec2024 02:50:52.226] [Worker-Main-160/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_18
+[05Dec2024 02:51:01.309] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1352, y=-19, z=-11173}
+[05Dec2024 02:51:01.357] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1352, y=-19, z=-11173}
+[05Dec2024 02:51:01.357] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=-19, z=-11191}
+[05Dec2024 02:51:01.358] [Worker-Main-161/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1365, y=-19, z=-11190}
+[05Dec2024 02:51:01.427] [Worker-Main-117/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=-19, z=-11191}
+[05Dec2024 02:51:01.427] [Worker-Main-117/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1365, y=-19, z=-11190}
+[05Dec2024 02:51:01.920] [Worker-Main-117/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1359, y=-19, z=-11180}
+[05Dec2024 02:51:01.921] [Worker-Main-117/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1334, y=-19, z=-11180}
+[05Dec2024 02:51:01.942] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1352, y=-19, z=-11173}
+[05Dec2024 02:51:01.947] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1351, y=-19, z=-11173}
+[05Dec2024 02:51:01.964] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1352, y=-19, z=-11173}
+[05Dec2024 02:51:01.965] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1351, y=-19, z=-11173}
+[05Dec2024 02:51:01.965] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1344, y=-19, z=-11179}
+[05Dec2024 02:51:01.966] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1359, y=-19, z=-11180}
+[05Dec2024 02:51:01.970] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1334, y=-19, z=-11180}
+[05Dec2024 02:51:02.466] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1351, y=-19, z=-11173}
+[05Dec2024 02:51:02.466] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1344, y=-19, z=-11179}
+[05Dec2024 02:51:02.467] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1334, y=-19, z=-11180}
+[05Dec2024 02:51:02.486] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1334, y=-19, z=-11180}
+[05Dec2024 02:51:02.492] [Worker-Main-160/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1351, y=-19, z=-11173}
+[05Dec2024 02:51:06.646] [Worker-Main-161/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_11b
+[05Dec2024 02:51:16.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[05Dec2024 02:52:06.294] [IO-Worker-173/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-183
+[05Dec2024 02:52:11.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:52:11.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:52:57.763] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[05Dec2024 02:52:57.763] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/villagers/unemployed_desert
+[05Dec2024 02:52:57.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[05Dec2024 02:53:16.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Survival Mode

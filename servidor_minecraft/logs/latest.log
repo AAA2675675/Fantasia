@@ -94,3 +94,18 @@
 [05Dec2024 02:26:09.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Creative Mode
 [05Dec2024 02:29:01.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 has made the advancement [Junior Summoner]
 [05Dec2024 02:32:07.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Survival Mode
+[05Dec2024 02:41:26.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Creative Mode
+[05Dec2024 02:42:08.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Survival Mode
+[05Dec2024 02:43:50.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Creative Mode
+[05Dec2024 02:44:57.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 moved too quickly! 7.734952403716079,0.0,-7.1922073267669475
+[05Dec2024 02:44:57.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
+[05Dec2024 02:45:01.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 moved too quickly! 10.277889659952734,0.0,-2.1772681590082357
+[05Dec2024 02:45:05.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 moved too quickly! -0.8243629536241315,0.0,-10.393559473015557
+[05Dec2024 02:45:33.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 moved too quickly! 0.21761195365888852,0.0,-10.025762176410353
+[05Dec2024 02:47:39.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 moved too quickly! 0.8041903539518671,0.0,10.494011605404012
+[05Dec2024 02:48:04.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 moved too quickly! 5.694652960242365,0.0,8.65600852087482
+[05Dec2024 02:48:04.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
+[05Dec2024 02:50:47.536] [Worker-Main-160/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[05Dec2024 02:50:48.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 moved too quickly! -6.13759417979486,0.0,-7.9656258126469766
+[05Dec2024 02:51:16.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[05Dec2024 02:53:16.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Survival Mode
