@@ -12877,3 +12877,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Dec2024 01:02:37.834] [IO-Worker-139/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-141
 [05Dec2024 01:03:29.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [05Dec2024 01:03:29.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdada<--[HERE]
+[05Dec2024 01:04:24.694] [IO-Worker-139/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-143
+[05Dec2024 01:04:24.695] [IO-Worker-139/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-144
+[05Dec2024 01:04:24.694] [IO-Worker-140/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-142
+[05Dec2024 01:06:28.584] [IO-Worker-142/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-145
+[05Dec2024 01:07:07.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 01:07:07.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 01:10:11.031] [IO-Worker-145/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-146
+[05Dec2024 01:12:07.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 01:12:07.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 01:13:36.930] [IO-Worker-145/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-147
+[05Dec2024 01:14:05.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 13000
+[05Dec2024 01:14:27.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[05Dec2024 01:16:32.694] [IO-Worker-146/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-148
+[05Dec2024 01:17:07.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 01:17:07.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 01:20:58.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Survival Mode
+[05Dec2024 01:21:49.931] [IO-Worker-145/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-149
+[05Dec2024 01:22:07.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 01:22:07.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 01:23:59.481] [IO-Worker-145/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-150
