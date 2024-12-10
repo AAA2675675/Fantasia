@@ -403,3 +403,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Dec2024 00:48:48.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdada<--[HERE]
 [10Dec2024 00:49:00.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Creative Mode
 [10Dec2024 01:34:50.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Survival Mode
+[10Dec2024 02:13:41.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 was slain by Zombie
+[10Dec2024 02:15:48.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> wdwadaw
+[10Dec2024 02:16:11.612] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jac'/19126, l='ServerLevel[world]', x=1660.36, y=70.00, z=-8884.36] died, message: 'Jac was slain by Zombie Bruiser'
+[10Dec2024 02:16:11.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jac'/19126, l='ServerLevel[world]', x=1660.36, y=70.00, z=-8884.36] died: Jac was slain by Zombie Bruiser
+[10Dec2024 02:16:28.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Katee555 to 1270.500000, 78.000000, -9987.500000
+[10Dec2024 02:17:19.753] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,blueflame:fire_channel,sophisticatedcore:channel] rejected their client side version number
+[10Dec2024 02:17:19.753] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[10Dec2024 02:17:19.766] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1183ecce[id=<null>,name=Don,properties={},legacy=false] (/127.128.90.200:49243) lost connection: Connection closed - mismatched mod channel list
+[10Dec2024 02:18:17.676] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,blueflame:fire_channel,sophisticatedcore:channel] rejected their client side version number
+[10Dec2024 02:18:17.677] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[10Dec2024 02:18:17.724] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@676190ad[id=<null>,name=Don,properties={},legacy=false] (/127.128.90.200:35567) lost connection: Connection closed - mismatched mod channel list
+[10Dec2024 02:23:51.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Creative Mode
+[10Dec2024 02:26:06.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 has reached the goal [Eye of Darkness]
+[10Dec2024 02:29:23.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Survival Mode
