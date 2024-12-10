@@ -402,3 +402,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Dec2024 00:48:48.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [10Dec2024 00:48:48.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdada<--[HERE]
 [10Dec2024 00:49:00.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Creative Mode
+[10Dec2024 01:34:50.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Survival Mode
