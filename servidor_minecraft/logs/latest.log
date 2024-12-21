@@ -1140,3 +1140,470 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Dec2024 22:49:30.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> como saco mis poderes
 [21Dec2024 22:49:39.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 has made the advancement [Isn't It Iron Pick]
 [21Dec2024 22:50:08.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> zzzzzzzzz
+[21Dec2024 22:50:17.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> juan que raza eres
+[21Dec2024 22:50:18.789] [Worker-Main-16/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-45, 264], pos: BlockPos{x=-717, y=134, z=4229}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / minecraft:igloo]
+[21Dec2024 22:50:20.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> que
+[21Dec2024 22:50:23.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> QUE UNA ALDEA?
+[21Dec2024 22:50:26.561] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[21Dec2024 22:50:31.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 has made the advancement [Sweet Dreams]
+[21Dec2024 22:50:35.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> duerman beachs
+[21Dec2024 22:50:37.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> nose
+[21Dec2024 22:50:39.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[21Dec2024 22:50:41.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> no me acuerdo
+[21Dec2024 22:50:45.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> juan yo soy valquiria
+[21Dec2024 22:50:58.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[21Dec2024 22:51:01.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> duerman mierda
+[21Dec2024 22:51:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[21Dec2024 22:51:05.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> yo no puedo
+[21Dec2024 22:51:10.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> sam salite y volve
+[21Dec2024 22:51:10.947] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Faustino'/1819, l='ServerLevel[world]', x=-617.88, y=123.94, z=4014.50] died, message: 'Faustino was slain by Zombie'
+[21Dec2024 22:51:19.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Acquire Hardware]
+[21Dec2024 22:51:19.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Isn't It Iron Pick]
+[21Dec2024 22:51:22.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
+[21Dec2024 22:51:22.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
+[21Dec2024 22:51:25.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ya
+[21Dec2024 22:51:31.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Dec2024 22:51:32.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdwdaw<--[HERE]
+[21Dec2024 22:51:35.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 has made the advancement [Diamonds!]
+[21Dec2024 22:51:36.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] que zzz sam
+[21Dec2024 22:51:41.918] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[21Dec2024 22:51:42.052] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[21Dec2024 22:51:42.083] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[21Dec2024 22:51:42.186] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[21Dec2024 22:51:42.186] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[21Dec2024 22:51:42.186] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[21Dec2024 22:51:42.320] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[21Dec2024 22:51:42.320] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[21Dec2024 22:51:42.321] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[21Dec2024 22:51:42.454] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[21Dec2024 22:51:42.454] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[21Dec2024 22:51:42.528] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[21Dec2024 22:51:43.276] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[21Dec2024 22:51:43.277] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[21Dec2024 22:51:43.279] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[21Dec2024 22:51:43.288] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[21Dec2024 22:51:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> q
+[21Dec2024 22:51:45.933] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotRealSamX07[/127.38.224.96:56947] logged in with entity id 2772 at (-1565.699999988079, 79.0, -2189.748905816405)
+[21Dec2024 22:51:46.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 joined the game
+[21Dec2024 22:51:46.030] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NotRealSamX07
+[21Dec2024 22:51:46.219] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NotRealSamX07
+[21Dec2024 22:51:46.793] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[21Dec2024 22:51:46.797] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[21Dec2024 22:51:46.939] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[21Dec2024 22:51:46.940] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[21Dec2024 22:51:47.019] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[21Dec2024 22:51:47.124] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[21Dec2024 22:51:47.233] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[21Dec2024 22:51:47.341] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[21Dec2024 22:51:47.450] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[21Dec2024 22:51:47.559] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[21Dec2024 22:51:47.671] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[21Dec2024 22:51:47.671] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[21Dec2024 22:51:48.780] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[21Dec2024 22:51:48.781] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[21Dec2024 22:51:48.807] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[21Dec2024 22:51:48.848] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[21Dec2024 22:51:49.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Dec2024 22:51:50.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> causas
+[21Dec2024 22:51:52.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> tengo diamond
+[21Dec2024 22:51:53.118] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Katee555[/127.17.127.154:38535] logged in with entity id 2897 at (-91.5, 65.0, 267.5)
+[21Dec2024 22:51:53.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 joined the game
+[21Dec2024 22:51:53.288] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Katee555
+[21Dec2024 22:51:55.367] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Katee555
+[21Dec2024 22:51:58.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> katherine
+[21Dec2024 22:51:59.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ohno es joas
+[21Dec2024 22:52:00.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> tan temprano?
+[21Dec2024 22:52:00.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> tengo diamantito
+[21Dec2024 22:52:05.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ejem
+[21Dec2024 22:52:05.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Dec2024 22:52:05.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdadawd<--[HERE]
+[21Dec2024 22:52:06.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> tengo aldea
+[21Dec2024 22:52:13.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] sam que aldea elegiste xd
+[21Dec2024 22:52:32.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me pondre raza elfa ya dije-
+[21Dec2024 22:52:36.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] sere frieren
+[21Dec2024 22:52:47.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> yo soy valquiria
+[21Dec2024 22:52:55.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> im a revenant
+[21Dec2024 22:53:11.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> oigan en que aldea estan o que
+[21Dec2024 22:53:14.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> nieve
+[21Dec2024 22:53:17.656] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[21Dec2024 22:53:17.658] [Netty Epoll Server IO #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3f0970f1[id=<null>,name=xMr_Hobx,properties={},legacy=false] (/127.131.136.135:37695): Unexpected custom data from client
+[21Dec2024 22:53:17.698] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f0970f1[id=<null>,name=xMr_Hobx,properties={},legacy=false] (/127.131.136.135:37695) lost connection: Unexpected custom data from client
+[21Dec2024 22:53:20.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> plains
+[21Dec2024 22:53:28.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> soy el unico que me fui al desierto
+[21Dec2024 22:53:34.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> a
+[21Dec2024 22:53:34.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2975ms or 59 ticks behind
+[21Dec2024 22:53:53.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Level Up]
+[21Dec2024 22:54:10.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> put
+[21Dec2024 22:54:12.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> cuervos
+[21Dec2024 22:54:17.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no se en cual empezar-
+[21Dec2024 22:54:25.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] empiezo con alguien o sola xd
+[21Dec2024 22:54:26.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> aparece en la nieve
+[21Dec2024 22:54:31.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> empeza sola
+[21Dec2024 22:54:32.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> conmigo kate
+[21Dec2024 22:54:35.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> soy himmel!
+[21Dec2024 22:54:41.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> Nah sam hace trampa
+[21Dec2024 22:54:57.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] por que himmel empezo en el desierto
+[21Dec2024 22:55:03.877] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Venerina'/1818, l='ServerLevel[world]', x=-696.87, y=98.94, z=4014.73] died, message: 'Venerina was slain by Franxd2'
+[21Dec2024 22:55:04.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] cometes los peores errores al inicio-
+[21Dec2024 22:55:10.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 has made the advancement [Not Today, Thank You]
+[21Dec2024 22:55:13.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] lo que me costo hacer que las aldeas tengan comida D
+[21Dec2024 22:55:16.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> por que la vida es de aprender de ellos..
+[21Dec2024 22:55:23.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> y emprender un camino..
+[21Dec2024 22:55:37.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> pregunta
+[21Dec2024 22:55:45.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> mate a una mujer zombie y me viene a matr su familia
+[21Dec2024 22:56:01.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> la ultima vez que jugue
+[21Dec2024 22:56:07.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanito11Tale> me aparecio un dragon de veneno
+[21Dec2024 22:56:17.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> AYUD
+[21Dec2024 22:56:23.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> draagon
+[21Dec2024 22:56:30.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanito11Tale lost connection: Disconnected
+[21Dec2024 22:56:30.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanito11Tale left the game
+[21Dec2024 22:56:39.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] jaja se desconecto
+[21Dec2024 22:56:50.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] voy contigo sam pero nos pusiste la vida en modo dificil
+[21Dec2024 22:57:04.943] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[21Dec2024 22:57:05.116] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[21Dec2024 22:57:05.159] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[21Dec2024 22:57:05.159] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[21Dec2024 22:57:05.289] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[21Dec2024 22:57:05.312] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[21Dec2024 22:57:05.312] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[21Dec2024 22:57:05.313] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[21Dec2024 22:57:05.471] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[21Dec2024 22:57:05.472] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[21Dec2024 22:57:05.473] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[21Dec2024 22:57:05.546] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[21Dec2024 22:57:07.166] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[21Dec2024 22:57:07.166] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[21Dec2024 22:57:07.169] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[21Dec2024 22:57:07.175] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[21Dec2024 22:57:08.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> necesito tar con algn
+[21Dec2024 22:57:08.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 has made the advancement [Minecraft Comes Alive]
+[21Dec2024 22:57:08.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juanito11Tale[/127.72.90.221:35525] logged in with entity id 4827 at (219.54575569238773, 79.0, 1972.7486228891964)
+[21Dec2024 22:57:09.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanito11Tale joined the game
+[21Dec2024 22:57:09.012] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Juanito11Tale
+[21Dec2024 22:57:11.244] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Juanito11Tale
+[21Dec2024 22:57:15.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanito11Tale lost connection: Disconnected
+[21Dec2024 22:57:15.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanito11Tale left the game
+[21Dec2024 22:57:22.650] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/fragile_damage_inrease] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/fragile]
+[21Dec2024 22:57:22.650] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/fragile_health_lower] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/fragile]
+[21Dec2024 22:57:22.650] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/blazenbreath_fire] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/blazenbreath]
+[21Dec2024 22:57:22.651] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/blazenbreath_marker] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/blazenbreath]
+[21Dec2024 22:57:22.651] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/extrusive_movement_walk] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/extrusive_movement]
+[21Dec2024 22:57:22.651] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/extrusive_movement_no_burnies] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/extrusive_movement]
+[21Dec2024 22:57:22.651] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/extrusive_movement_particles] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/extrusive_movement]
+[21Dec2024 22:57:22.651] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/extrusive_movement_clear_last_tick] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/extrusive_movement]
+[21Dec2024 22:57:22.651] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/towering_towering_constant] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/towering]
+[21Dec2024 22:57:22.651] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/towering_towering_callon] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/towering]
+[21Dec2024 22:57:22.652] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/glacial_step_speed] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/glacial_step]
+[21Dec2024 22:57:22.652] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/glacial_step_particles] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/glacial_step]
+[21Dec2024 22:57:22.652] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/glacial_step_walk] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/glacial_step]
+[21Dec2024 22:57:22.652] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/elegant_feet_check] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/elegant]
+[21Dec2024 22:57:22.652] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/elegant_head_check] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/elegant]
+[21Dec2024 22:57:22.652] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/elegant_chest_check] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/elegant]
+[21Dec2024 22:57:22.652] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/elegant_tooltip] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/elegant]
+[21Dec2024 22:57:22.652] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/elegant_legs_check] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/elegant]
+[21Dec2024 22:57:22.653] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/blazenbreath_weak_marker] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/blazenbreath_weak]
+[21Dec2024 22:57:22.653] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/blazenbreath_weak_fire] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/blazenbreath_weak]
+[21Dec2024 22:57:22.654] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/ebonbreath_fire] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/ebonbreath]
+[21Dec2024 22:57:22.655] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:high_elf/ebonbreath_marker] from power ResourceKey[apoli:configured_power / medievalorigins:high_elf/ebonbreath]
+[21Dec2024 22:57:27.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 has made the advancement [Stone Age]
+[21Dec2024 22:57:29.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> QUE
+[21Dec2024 22:57:32.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> q
+[21Dec2024 22:57:34.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> TENEMOS PIRAMIDE
+[21Dec2024 22:57:38.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> yo diamante
+[21Dec2024 22:57:45.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> WTF
+[21Dec2024 22:57:47.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> OTRA ALDEA?
+[21Dec2024 22:58:00.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> SAM DONDE ESTAS
+[21Dec2024 22:58:07.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> KATE AYUDAME HACEME TP O ALGO
+[21Dec2024 22:58:09.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ME SIGUE DRAGONICO
+[21Dec2024 22:58:12.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> HIMMEL
+[21Dec2024 22:58:24.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ay no
+[21Dec2024 22:58:30.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> la configuracion de los controles no se mando
+[21Dec2024 22:58:51.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> hola frieren
+[21Dec2024 22:58:53.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> kate help
+[21Dec2024 22:59:05.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> espera voy a modificar los controles
+[21Dec2024 22:59:07.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> tengo 3 golems y un dragon q hag
+[21Dec2024 22:59:20.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> que hermosos los shaders..
+[21Dec2024 22:59:24.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> porfin, shaders a 150 fps
+[21Dec2024 22:59:39.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 was shot by Pillager
+[21Dec2024 22:59:42.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> bpe
+[21Dec2024 22:59:43.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> boe
+[21Dec2024 23:00:25.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> necesito ayuda
+[21Dec2024 23:01:07.939] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[21Dec2024 23:01:08.049] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[21Dec2024 23:01:08.061] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[21Dec2024 23:01:08.062] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[21Dec2024 23:01:08.172] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[21Dec2024 23:01:08.179] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[21Dec2024 23:01:08.281] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[21Dec2024 23:01:08.284] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[21Dec2024 23:01:08.284] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[21Dec2024 23:01:08.377] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[21Dec2024 23:01:08.419] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[21Dec2024 23:01:08.438] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[21Dec2024 23:01:08.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> ejem
+[21Dec2024 23:01:09.324] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[21Dec2024 23:01:09.324] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[21Dec2024 23:01:09.333] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[21Dec2024 23:01:09.355] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[21Dec2024 23:01:09.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> de que
+[21Dec2024 23:01:11.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xMr_Hobx[/127.131.136.135:35503] logged in with entity id 5978 at (-100.5, 64.0, 273.5)
+[21Dec2024 23:01:11.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xMr_Hobx joined the game
+[21Dec2024 23:01:11.828] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to xMr_Hobx
+[21Dec2024 23:01:13.212] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from xMr_Hobx
+[21Dec2024 23:01:15.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> de saqueadores
+[21Dec2024 23:01:27.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> estas lejos mijo
+[21Dec2024 23:02:05.376] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[21Dec2024 23:02:05.414] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[21Dec2024 23:02:05.415] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[21Dec2024 23:02:05.415] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[21Dec2024 23:02:05.455] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[21Dec2024 23:02:05.455] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[21Dec2024 23:02:05.455] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[21Dec2024 23:02:05.455] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[21Dec2024 23:02:05.456] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[21Dec2024 23:02:05.456] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[21Dec2024 23:02:05.464] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[21Dec2024 23:02:05.473] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[21Dec2024 23:02:09.119] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[21Dec2024 23:02:09.119] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[21Dec2024 23:02:09.163] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[21Dec2024 23:02:09.163] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[21Dec2024 23:02:12.522] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MateXD110[/127.63.188.38:37069] logged in with entity id 6456 at (-91.5, 65.0, 270.5)
+[21Dec2024 23:02:12.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MateXD110 joined the game
+[21Dec2024 23:02:12.586] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to MateXD110
+[21Dec2024 23:02:13.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MateXD110 lost connection: Disconnected
+[21Dec2024 23:02:13.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MateXD110 left the game
+[21Dec2024 23:02:18.480] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[21Dec2024 23:02:18.692] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[21Dec2024 23:02:18.718] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[21Dec2024 23:02:18.719] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[21Dec2024 23:02:18.719] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[21Dec2024 23:02:18.953] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[21Dec2024 23:02:18.953] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[21Dec2024 23:02:18.953] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[21Dec2024 23:02:18.954] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[21Dec2024 23:02:18.954] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[21Dec2024 23:02:19.077] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[21Dec2024 23:02:19.078] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[21Dec2024 23:02:21.636] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[21Dec2024 23:02:21.637] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[21Dec2024 23:02:21.666] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[21Dec2024 23:02:21.999] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[21Dec2024 23:02:22.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 has made the advancement [Monster Hunter]
+[21Dec2024 23:02:23.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MateXD110[/127.63.188.38:36753] logged in with entity id 6513 at (-91.5, 65.0, 270.5)
+[21Dec2024 23:02:23.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MateXD110 joined the game
+[21Dec2024 23:02:23.680] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to MateXD110
+[21Dec2024 23:02:25.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> DORMIR
+[21Dec2024 23:02:30.974] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from MateXD110
+[21Dec2024 23:02:33.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 has made the advancement [Sweet Dreams]
+[21Dec2024 23:02:46.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Dec2024 23:02:46.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdwdwad<--[HERE]
+[21Dec2024 23:02:49.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> yo no puedo dormir
+[21Dec2024 23:02:55.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
+[21Dec2024 23:02:55.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
+[21Dec2024 23:02:58.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam se fue alm
+[21Dec2024 23:03:12.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ez
+[21Dec2024 23:03:17.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 has made the advancement [Monster Hunter]
+[21Dec2024 23:03:23.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 has made the advancement [Level Up]
+[21Dec2024 23:03:23.892] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:coal 16
+[21Dec2024 23:03:27.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 was slain by Restless Spirit
+[21Dec2024 23:03:27.498] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[21Dec2024 23:03:27.634] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[21Dec2024 23:03:27.635] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[21Dec2024 23:03:27.765] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[21Dec2024 23:03:27.771] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[21Dec2024 23:03:27.771] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[21Dec2024 23:03:27.895] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[21Dec2024 23:03:27.895] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[21Dec2024 23:03:28.024] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[21Dec2024 23:03:28.025] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[21Dec2024 23:03:28.025] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[21Dec2024 23:03:28.106] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[21Dec2024 23:03:28.798] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[21Dec2024 23:03:28.799] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[21Dec2024 23:03:28.799] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[21Dec2024 23:03:28.812] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[21Dec2024 23:03:30.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> UQUE
+[21Dec2024 23:03:31.477] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotRealSamX07[/127.38.224.96:60633] logged in with entity id 7096 at (-1512.0551930130596, 82.0, -2194.1606371287035)
+[21Dec2024 23:03:31.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 joined the game
+[21Dec2024 23:03:31.540] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NotRealSamX07
+[21Dec2024 23:03:32.867] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NotRealSamX07
+[21Dec2024 23:03:40.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> PERO DUERMAN
+[21Dec2024 23:03:40.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> pero
+[21Dec2024 23:03:43.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> causa
+[21Dec2024 23:03:48.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> duerman o se salen todos
+[21Dec2024 23:03:52.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> alguien q venga a la aldea de nieve
+[21Dec2024 23:03:55.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> quiero estar con algn
+[21Dec2024 23:04:03.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> DUERMETE
+[21Dec2024 23:04:05.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> toca hacer trampa
+[21Dec2024 23:04:08.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> kate
+[21Dec2024 23:04:11.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was blown up by Creeper
+[21Dec2024 23:04:12.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[21Dec2024 23:04:19.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> whats
+[21Dec2024 23:04:19.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> Ejem
+[21Dec2024 23:04:24.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no vuelvo a escribir
+[21Dec2024 23:04:25.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> por q el dia esta blanco
+[21Dec2024 23:04:28.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> bueno esperen
+[21Dec2024 23:05:12.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Monster Hunter]
+[21Dec2024 23:05:16.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MateXD110 lost connection: Disconnected
+[21Dec2024 23:05:16.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MateXD110 left the game
+[21Dec2024 23:05:22.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ayuda
+[21Dec2024 23:05:24.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> tormenta
+[21Dec2024 23:05:42.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 has made the advancement [Level Up]
+[21Dec2024 23:06:01.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> kate que mr es esa piramide, es re enorme
+[21Dec2024 23:06:11.520] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:coal 16
+[21Dec2024 23:06:19.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> causas
+[21Dec2024 23:06:21.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> necesito ayuda
+[21Dec2024 23:06:23.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> tormenta den ieve
+[21Dec2024 23:06:25.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> tp o algo
+[21Dec2024 23:06:29.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no fran
+[21Dec2024 23:06:31.081] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[21Dec2024 23:06:31.273] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[21Dec2024 23:06:31.273] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[21Dec2024 23:06:31.274] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[21Dec2024 23:06:31.275] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[21Dec2024 23:06:31.465] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[21Dec2024 23:06:31.465] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[21Dec2024 23:06:31.466] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[21Dec2024 23:06:31.467] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[21Dec2024 23:06:31.656] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[21Dec2024 23:06:31.656] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[21Dec2024 23:06:31.699] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[21Dec2024 23:06:32.935] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[21Dec2024 23:06:32.949] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[21Dec2024 23:06:33.000] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[21Dec2024 23:06:33.016] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[21Dec2024 23:06:34.975] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: don_eoatxd[/127.128.90.200:45611] logged in with entity id 8107 at (-96.5, 64.0, 267.5)
+[21Dec2024 23:06:35.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: don_eoatxd joined the game
+[21Dec2024 23:06:35.065] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to don_eoatxd
+[21Dec2024 23:06:35.890] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from don_eoatxd
+[21Dec2024 23:06:37.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no abusaremos de eso
+[21Dec2024 23:06:41.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ejem
+[21Dec2024 23:06:44.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> y kate uso /time
+[21Dec2024 23:06:50.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> no es abusar eso?
+[21Dec2024 23:07:01.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> q vrg
+[21Dec2024 23:07:02.081] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_immunity] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[21Dec2024 23:07:02.081] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_particles] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[21Dec2024 23:07:02.081] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_land] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[21Dec2024 23:07:02.082] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_channel_sound] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[21Dec2024 23:07:03.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> estoy en prado
+[21Dec2024 23:07:15.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> AYUDA
+[21Dec2024 23:07:24.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> DRAGON
+[21Dec2024 23:07:39.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[21Dec2024 23:07:39.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 moved too quickly! -7.822792797924421,0.24918707874468282,6.660409038419857
+[21Dec2024 23:07:44.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 moved too quickly! -5.351121995093763,-1.1661092609382138,8.578198894052093
+[21Dec2024 23:07:44.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Franxd2 moved too quickly! 8.652906932853284,3.4990033597325265,-4.2147017184342985
+[21Dec2024 23:07:45.401] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[21Dec2024 23:07:46.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 moved too quickly! -7.0695497574199635,2.176759275064242,6.890719849954166
+[21Dec2024 23:07:46.515] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[21Dec2024 23:07:46.759] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[21Dec2024 23:07:48.088] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[21Dec2024 23:07:50.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 moved too quickly! -10.002521486394471,1.0,0.1785293622961035
+[21Dec2024 23:07:51.073] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[21Dec2024 23:07:51.350] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[21Dec2024 23:07:51.402] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[21Dec2024 23:07:51.626] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[21Dec2024 23:07:52.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xMr_Hobx has made the advancement [Minecraft Comes Alive]
+[21Dec2024 23:07:52.575] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[21Dec2024 23:07:52.915] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[21Dec2024 23:07:54.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 moved too quickly! -7.696706823556269,0.0,6.636118841373445
+[21Dec2024 23:07:54.854] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[21Dec2024 23:07:54.937] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[21Dec2024 23:07:56.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> me quieren violar
+[21Dec2024 23:07:57.016] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Pawel'/2812, l='ServerLevel[world]', x=-1484.40, y=73.00, z=-2258.76] died, message: 'Pawel was slain by Door Knight'
+[21Dec2024 23:07:57.016] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Pawel'/2812, l='ServerLevel[world]', x=-1484.40, y=73.00, z=-2258.76] died: Pawel was slain by Door Knight
+[21Dec2024 23:07:58.920] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[21Dec2024 23:07:58.921] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[21Dec2024 23:07:58.963] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[21Dec2024 23:07:59.014] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[21Dec2024 23:08:00.685] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ed21039[id=<null>,name=MateXD110,properties={},legacy=false] (/127.63.188.38:36007) lost connection: Disconnected
+[21Dec2024 23:08:08.057] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[21Dec2024 23:08:08.072] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[21Dec2024 23:08:08.106] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[21Dec2024 23:08:08.106] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[21Dec2024 23:08:08.106] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[21Dec2024 23:08:08.211] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[21Dec2024 23:08:08.213] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[21Dec2024 23:08:08.215] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[21Dec2024 23:08:08.350] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[21Dec2024 23:08:08.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13691ms or 273 ticks behind
+[21Dec2024 23:08:08.395] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[21Dec2024 23:08:08.395] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[21Dec2024 23:08:08.416] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[21Dec2024 23:08:09.800] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[21Dec2024 23:08:09.800] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[21Dec2024 23:08:09.814] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[21Dec2024 23:08:09.835] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[21Dec2024 23:08:10.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: don_eoatxd has made the advancement [Minecraft Comes Alive]
+[21Dec2024 23:08:11.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noltem[/127.158.0.87:48851] logged in with entity id 8787 at (-105.5, 64.0, 264.5)
+[21Dec2024 23:08:11.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noltem joined the game
+[21Dec2024 23:08:11.799] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Noltem
+[21Dec2024 23:08:14.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam
+[21Dec2024 23:08:14.450] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Noltem
+[21Dec2024 23:08:17.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> tormenta de
+[21Dec2024 23:08:19.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> AAAA
+[21Dec2024 23:08:25.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> DIOS
+[21Dec2024 23:08:27.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no me afecta jaja
+[21Dec2024 23:08:35.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> AAAAAAAAAA
+[21Dec2024 23:08:38.692] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@92c8279[id=<null>,name=MateXD110,properties={},legacy=false] (/127.63.188.38:53199) lost connection: Disconnected
+[21Dec2024 23:08:39.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> oh dios estoy volando-
+[21Dec2024 23:08:52.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 was shot by Bonescaller
+[21Dec2024 23:08:55.431] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-125, y=-56, z=60}
+[21Dec2024 23:08:55.442] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-126, y=-49, z=65}
+[21Dec2024 23:08:56.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> na
+[21Dec2024 23:09:06.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Franxd2 moved too quickly! -5.501341555474141,-3.3516933188271594,-7.754129696195832
+[21Dec2024 23:09:09.302] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c210939[id=<null>,name=MateXD110,properties={},legacy=false] (/127.63.188.38:54781) lost connection: Disconnected
+[21Dec2024 23:09:11.866] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d10ef92[id=<null>,name=MateXD110,properties={},legacy=false] (/127.63.188.38:38441) lost connection: Disconnected
+[21Dec2024 23:09:11.875] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:phantomize_overlay_green] from power ResourceKey[apoli:configured_power / origins:phantomize_overlay]
+[21Dec2024 23:09:11.875] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:phantomize_overlay_red] from power ResourceKey[apoli:configured_power / origins:phantomize_overlay]
+[21Dec2024 23:09:11.875] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:phantomize_overlay_orange] from power ResourceKey[apoli:configured_power / origins:phantomize_overlay]
+[21Dec2024 23:09:11.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3388ms or 67 ticks behind
+[21Dec2024 23:09:13.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> por que me pasan estas cosas
+[21Dec2024 23:09:33.850] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6adf457[id=<null>,name=MateXD110,properties={},legacy=false] (/127.63.188.38:44369) lost connection: Disconnected
+[21Dec2024 23:09:38.444] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[21Dec2024 23:09:38.651] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[21Dec2024 23:09:38.671] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[21Dec2024 23:09:38.672] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[21Dec2024 23:09:38.672] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[21Dec2024 23:09:38.672] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[21Dec2024 23:09:38.930] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[21Dec2024 23:09:38.930] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[21Dec2024 23:09:38.933] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[21Dec2024 23:09:38.935] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[21Dec2024 23:09:38.935] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[21Dec2024 23:09:38.995] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[21Dec2024 23:09:42.214] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[21Dec2024 23:09:42.215] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[21Dec2024 23:09:42.225] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[21Dec2024 23:09:42.270] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[21Dec2024 23:09:48.591] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MateXD110[/127.63.188.38:47361] logged in with entity id 9952 at (-91.66526938422118, 65.0, 270.41949556668266)
+[21Dec2024 23:09:48.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MateXD110 joined the game
+[21Dec2024 23:09:48.662] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to MateXD110
+[21Dec2024 23:09:48.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MateXD110 lost connection: Disconnected
+[21Dec2024 23:09:48.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MateXD110 left the game
+[21Dec2024 23:09:54.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2433ms or 48 ticks behind
+[21Dec2024 23:09:54.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ayu
+[21Dec2024 23:09:54.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> da
+[21Dec2024 23:09:56.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> gente
+[21Dec2024 23:09:58.515] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[21Dec2024 23:09:58.729] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[21Dec2024 23:09:58.771] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[21Dec2024 23:09:58.771] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[21Dec2024 23:09:58.771] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[21Dec2024 23:09:58.994] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[21Dec2024 23:09:59.035] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[21Dec2024 23:09:59.035] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[21Dec2024 23:09:59.035] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[21Dec2024 23:09:59.035] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[21Dec2024 23:09:59.035] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[21Dec2024 23:09:59.098] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[21Dec2024 23:10:01.706] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[21Dec2024 23:10:01.707] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[21Dec2024 23:10:01.756] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[21Dec2024 23:10:02.033] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[21Dec2024 23:10:03.580] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MateXD110[/127.63.188.38:59711] logged in with entity id 10083 at (-91.66526938422118, 65.0, 270.41949556668266)
+[21Dec2024 23:10:03.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MateXD110 joined the game
+[21Dec2024 23:10:03.645] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to MateXD110
+[21Dec2024 23:10:04.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> me quieren violar
+[21Dec2024 23:10:09.428] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from MateXD110
+[21Dec2024 23:10:14.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> BUEEEEEEEEEENAAAAAAAAS
