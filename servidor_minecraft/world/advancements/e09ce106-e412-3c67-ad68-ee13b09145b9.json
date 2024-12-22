@@ -107,7 +107,8 @@
       "minecraft:cave_spider": "2024-12-22 03:45:37 +0000",
       "minecraft:silverfish": "2024-12-22 03:46:03 +0000",
       "minecraft:stray": "2024-12-22 03:07:44 +0000",
-      "minecraft:zombie": "2024-12-22 02:39:11 +0000"
+      "minecraft:zombie": "2024-12-22 02:39:11 +0000",
+      "minecraft:zombie_villager": "2024-12-22 04:49:23 +0000"
     },
     "done": false
   },
@@ -1567,6 +1568,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-12-22 04:40:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-22 01:21:33 +0000"
@@ -1906,6 +1913,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-22 01:35:50 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-22 04:41:12 +0000"
     },
     "done": true
   },
