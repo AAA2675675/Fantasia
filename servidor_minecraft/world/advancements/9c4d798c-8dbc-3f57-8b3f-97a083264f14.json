@@ -817,77 +817,77 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
-      "log_spam_fixer": "2024-12-22 03:48:10 +0000"
+      "has_andesite": "2024-12-22 03:28:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2024-12-22 03:48:10 +0000"
+      "has_andesite": "2024-12-22 03:28:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2024-12-22 03:48:10 +0000"
+      "has_andesite": "2024-12-22 03:28:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2024-12-22 03:48:10 +0000"
+      "has_andesite": "2024-12-22 03:28:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2024-12-22 03:48:10 +0000"
+      "has_andesite": "2024-12-22 03:28:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2024-12-22 03:48:10 +0000"
+      "has_andesite": "2024-12-22 03:28:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
-      "log_spam_fixer": "2024-12-22 03:48:10 +0000"
+      "has_andesite": "2024-12-22 03:28:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
-      "log_spam_fixer": "2024-12-22 03:48:10 +0000"
+      "has_andesite": "2024-12-22 03:28:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
-      "log_spam_fixer": "2024-12-22 03:48:10 +0000"
+      "has_andesite": "2024-12-22 03:28:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2024-12-22 03:48:10 +0000"
+      "has_andesite": "2024-12-22 03:28:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "log_spam_fixer": "2024-12-22 03:48:10 +0000"
+      "has_logs": "2024-12-22 03:30:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
-      "log_spam_fixer": "2024-12-22 03:48:10 +0000"
+      "has_log": "2024-12-22 03:30:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
@@ -901,27 +901,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
+  "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
-      "has_andesite": "2024-12-22 03:28:31 +0000"
+      "has_planks": "2024-12-22 03:32:05 +0000"
     },
     "done": true
   },
-  "aquamirae:adventure/find_ice_maze": {
+  "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
-      "deep_frozen_ocean": "2024-12-22 03:41:55 +0000"
+      "has_planks": "2024-12-22 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-22 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-22 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-22 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-22 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-22 03:32:05 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 03:32:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-22 03:28:31 +0000"
     },
     "done": true
   },
@@ -934,24 +958,6 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 03:32:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-22 03:32:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-22 03:28:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2024-12-22 03:32:05 +0000"
     },
     "done": true
   },
@@ -979,39 +985,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-22 03:28:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2024-12-22 03:32:05 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:guidetothenextworld": {
-    "criteria": {
-      "guidetothenextworld_0": "2024-12-22 03:43:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-22 03:28:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 03:32:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2024-12-22 03:32:05 +0000"
     },
     "done": true
   },
@@ -1021,63 +997,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_fence_gate": {
+  "aquamirae:adventure/find_ice_maze": {
     "criteria": {
-      "has_planks": "2024-12-22 03:32:05 +0000"
+      "deep_frozen_ocean": "2024-12-22 03:41:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+  "born_in_chaos_v1:guidetothenextworld": {
     "criteria": {
-      "has_andesite": "2024-12-22 03:28:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-22 03:32:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_andesite": "2024-12-22 03:28:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2024-12-22 03:32:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2024-12-22 03:30:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall": {
-    "criteria": {
-      "has_andesite": "2024-12-22 03:28:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab": {
-    "criteria": {
-      "has_andesite": "2024-12-22 03:28:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-22 03:28:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-22 03:30:31 +0000"
+      "guidetothenextworld_0": "2024-12-22 03:43:01 +0000"
     },
     "done": true
   },
