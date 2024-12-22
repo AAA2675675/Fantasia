@@ -75,8 +75,10 @@
     "criteria": {
       "minecraft:sparse_jungle": "2024-12-22 05:17:39 +0000",
       "minecraft:river": "2024-12-22 04:37:29 +0000",
+      "minecraft:stony_shore": "2024-12-22 21:13:25 +0000",
       "minecraft:dripstone_caves": "2024-12-22 02:04:48 +0000",
-      "minecraft:desert": "2024-12-21 22:51:54 +0000"
+      "minecraft:desert": "2024-12-21 22:51:54 +0000",
+      "minecraft:warm_ocean": "2024-12-22 21:13:46 +0000"
     },
     "done": false
   },
@@ -168,7 +170,8 @@
       "golden_apple": "2024-12-22 03:56:24 +0000",
       "rotten_flesh": "2024-12-22 05:11:32 +0000",
       "melon_slice": "2024-12-22 01:28:27 +0000",
-      "beetroot": "2024-12-21 23:13:49 +0000"
+      "beetroot": "2024-12-21 23:13:49 +0000",
+      "carrot": "2024-12-22 21:08:45 +0000"
     },
     "done": false
   },
@@ -2119,6 +2122,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-12-22 20:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2024-12-22 21:17:15 +0000"
     },
     "done": true
   },

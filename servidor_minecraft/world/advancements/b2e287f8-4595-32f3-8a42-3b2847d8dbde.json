@@ -78,6 +78,7 @@
       "minecraft:lukewarm_ocean": "2024-12-22 02:21:54 +0000",
       "minecraft:river": "2024-12-22 02:49:19 +0000",
       "minecraft:snowy_plains": "2024-12-22 01:15:29 +0000",
+      "minecraft:stony_shore": "2024-12-22 21:13:59 +0000",
       "minecraft:dripstone_caves": "2024-12-22 03:04:54 +0000",
       "minecraft:jagged_peaks": "2024-12-22 01:36:38 +0000",
       "minecraft:forest": "2024-12-22 01:13:41 +0000",
@@ -2039,6 +2040,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-22 21:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-22 21:16:15 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rattlesnake": {
     "criteria": {
       "killed_by": "2024-12-22 20:21:21 +0000"
@@ -2057,9 +2070,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-22 21:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-22 21:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-22 21:16:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-22 19:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-22 21:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-22 21:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-22 21:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-22 21:16:15 +0000"
     },
     "done": true
   },
@@ -2129,6 +2184,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-22 21:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-22 21:16:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-22 21:03:07 +0000"
@@ -2141,9 +2208,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-22 21:16:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-22 20:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-22 21:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2024-12-22 21:16:15 +0000"
     },
     "done": true
   },
@@ -2162,6 +2247,24 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-12-22 20:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-22 21:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-22 21:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-22 21:16:15 +0000"
     },
     "done": true
   },

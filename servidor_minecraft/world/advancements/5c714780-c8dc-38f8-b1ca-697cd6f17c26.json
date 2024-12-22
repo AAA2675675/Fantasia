@@ -733,7 +733,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-22 21:11:31 +0000",
       "minecraft:skeleton": "2024-12-22 20:12:15 +0000",
+      "minecraft:vindicator": "2024-12-22 21:11:41 +0000",
       "minecraft:spider": "2024-12-22 20:34:57 +0000",
       "minecraft:creeper": "2024-12-22 20:25:09 +0000",
       "minecraft:enderman": "2024-12-22 20:26:06 +0000",
@@ -1464,15 +1466,40 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-22 21:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-22 20:34:52 +0000"
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2024-12-22 21:13:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-22 20:26:17 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "pillager_outpost": "2024-12-22 21:12:27 +0000",
+      "illager_camp": "2024-12-22 21:11:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-22 21:13:58 +0000"
     },
     "done": true
   },
@@ -1542,6 +1569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-22 21:13:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-22 20:29:53 +0000"
@@ -1554,6 +1587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-22 21:13:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-22 20:53:53 +0000"
@@ -1563,6 +1602,12 @@
   "goblins_tyranny:goblins_slayer_success": {
     "criteria": {
       "goblins_slayer_success_0": "2024-12-22 20:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-22 21:13:58 +0000"
     },
     "done": true
   },
@@ -1593,6 +1638,12 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2024-12-22 20:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-22 21:08:57 +0000"
     },
     "done": true
   },
@@ -1641,6 +1692,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-12-22 20:26:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-22 21:08:57 +0000"
     },
     "done": true
   },
@@ -1716,6 +1773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-22 21:08:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-22 20:29:53 +0000"
@@ -1746,6 +1809,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2024-12-22 21:12:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-22 20:29:53 +0000"
@@ -1755,6 +1824,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-22 20:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-22 21:10:17 +0000"
     },
     "done": true
   },

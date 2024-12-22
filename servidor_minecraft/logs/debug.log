@@ -13361,3 +13361,108 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Dec2024 21:07:39.537] [IO-Worker-99/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
 [22Dec2024 21:07:39.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Dec2024 21:07:39.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 21:09:07.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> te consegui un stack
+[22Dec2024 21:09:15.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ten ve haciendolo mientras
+[22Dec2024 21:09:54.953] [IO-Worker-106/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[22Dec2024 21:09:54.953] [IO-Worker-104/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[22Dec2024 21:10:13.944] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:iron_ingot 16
+[22Dec2024 21:10:15.145] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:iron_pickaxe 01
+[22Dec2024 21:10:16.641] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:redstone 16
+[22Dec2024 21:10:39.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> mira madera
+[22Dec2024 21:10:41.641] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:gold_ingot 08
+[22Dec2024 21:10:41.989] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond 01
+[22Dec2024 21:10:42.442] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:lapis_lazuli 32
+[22Dec2024 21:10:42.800] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:gold_apple 08
+[22Dec2024 21:10:44.050] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:gold_ingot 16
+[22Dec2024 21:10:44.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 has made the advancement [Diamonds!]
+[22Dec2024 21:10:44.693] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond 02
+[22Dec2024 21:10:58.621] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[22Dec2024 21:11:02.812] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-1580 | 57 | 676).
+[22Dec2024 21:11:02.812] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[22Dec2024 21:11:02.812] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[22Dec2024 21:11:02.812] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[22Dec2024 21:11:02.813] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 6(0) Rooms
+[22Dec2024 21:11:02.813] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[22Dec2024 21:11:02.813] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 12(0) Nodes and 5(0) Rooms
+[22Dec2024 21:11:02.813] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[22Dec2024 21:11:02.813] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 7(1) Nodes and 5(0) Rooms
+[22Dec2024 21:11:02.813] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[22Dec2024 21:11:02.813] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 6(0) Rooms
+[22Dec2024 21:11:06.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> del server seguro soy el que mas mapa tiene descubierto
+[22Dec2024 21:11:21.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> alli saltamo
+[22Dec2024 21:11:21.429] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[22Dec2024 21:11:21.431] [IO-Worker-107/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[22Dec2024 21:11:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> vamos por la -700
+[22Dec2024 21:11:34.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> es en la .200
+[22Dec2024 21:11:39.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> -200
+[22Dec2024 21:11:43.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> vamos cerna
+[22Dec2024 21:11:49.327] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_3
+[22Dec2024 21:11:51.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> yo me movi un poco
+[22Dec2024 21:11:59.125] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[22Dec2024 21:12:04.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> estoy en la -197 64 455
+[22Dec2024 21:12:07.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> es casi lo mismo
+[22Dec2024 21:12:10.552] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_6
+[22Dec2024 21:12:20.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> me van a ver cuando lleguen
+[22Dec2024 21:12:23.045] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[22Dec2024 21:12:23.050] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[22Dec2024 21:12:27.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noltem has made the advancement [Intruder Alert]
+[22Dec2024 21:12:32.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> cuidado con las serpientes
+[22Dec2024 21:12:39.547] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[22Dec2024 21:12:39.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 21:12:39.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 21:13:01.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> AAAAAAAAAAAHH
+[22Dec2024 21:13:03.149] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:totem_of_undying 01
+[22Dec2024 21:13:04.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MrHob) moved too quickly! 2.8564659538196224,-2.0,-9.760859433099085
+[22Dec2024 21:13:04.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MrHob) moved too quickly! 3.025844455860522,-2.0,-10.34284533557684
+[22Dec2024 21:13:04.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MrHob) moved too quickly! 3.1952601059913945,-2.0,-10.924959915382715
+[22Dec2024 21:13:04.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MrHob) moved too quickly! 3.3646956333245726,-2.0,-11.507143347861074
+[22Dec2024 21:13:04.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MrHob) moved too quickly! 3.534141796552376,-2.0,-12.08936362203167
+[22Dec2024 21:13:04.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MrHob) moved too quickly! 3.70359365083533,-2.0,-12.67160360945718
+[22Dec2024 21:13:04.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MrHob) moved too quickly! 3.873048550288445,-2.0,-13.253854145052628
+[22Dec2024 21:13:04.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MrHob) moved too quickly! 4.042505079151397,-2.0,-13.836110324763467
+[22Dec2024 21:13:04.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MrHob) moved too quickly! 4.211962479879048,-2.0,-14.418369524527861
+[22Dec2024 21:13:04.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MrHob) moved too quickly! 4.381420347124163,-2.0,-15.000630340262433
+[22Dec2024 21:13:12.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noltem> amigo
+[22Dec2024 21:13:14.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> CORRE
+[22Dec2024 21:13:17.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noltem> el juego me quito totem y ancient debris
+[22Dec2024 21:13:21.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Katee?
+[22Dec2024 21:13:28.520] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:shipwreck/shipwreck2 is being run through DFU (hash eb789c86fe3208b2cd39c60507da624e24828e21ce3373247b8e4cb63c303273), this will cause launch time delays
+[22Dec2024 21:13:29.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Katee?
+[22Dec2024 21:13:34.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Que susto
+[22Dec2024 21:13:41.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MrHob) moved wrongly! 0.2875059448970205
+[22Dec2024 21:13:42.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MrHob) moved wrongly! 0.7179719660834962
+[22Dec2024 21:13:42.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MrHob) moved wrongly! 1.2301979698040668
+[22Dec2024 21:13:42.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MrHob) moved wrongly! 1.7859937947850995
+[22Dec2024 21:13:50.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> esto es malo
+[22Dec2024 21:13:53.634] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_90 at (-697 | 24 | -2992)
+[22Dec2024 21:13:53.634] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_90 at (-697 | 24 | -2992)
+[22Dec2024 21:13:53.634] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_turn at (-697 | 24 | -2992)
+[22Dec2024 21:13:53.635] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_turn at (-697 | 24 | -2992)
+[22Dec2024 21:13:54.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> son manticoras
+[22Dec2024 21:13:55.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> si hay que ir en bote
+[22Dec2024 21:13:58.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> se generra en las costas
+[22Dec2024 21:14:10.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> crees que en esa torre haya lana?
+[22Dec2024 21:14:14.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> dijiste que necesitabas
+[22Dec2024 21:14:22.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no hay en sas xd
+[22Dec2024 21:14:29.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> que podemos hacer
+[22Dec2024 21:14:36.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> estamos a 400 metros
+[22Dec2024 21:14:39.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> podemos seguir sin caballo
+[22Dec2024 21:14:42.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> o volver hasta tener uno
+[22Dec2024 21:14:47.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> un barco grande
+[22Dec2024 21:14:54.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Como se tiene un barco grande?
+[22Dec2024 21:15:05.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hay que fabricar las velas y eso
+[22Dec2024 21:15:31.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Mmmm
+[22Dec2024 21:15:41.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya se
+[22Dec2024 21:16:50.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> te quedaras aqui
+[22Dec2024 21:16:55.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> katee yo puedo seguir solo
+[22Dec2024 21:17:19.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> bueno
+[22Dec2024 21:17:30.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> yo debo construir puentes
+[22Dec2024 21:17:39.502] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[22Dec2024 21:17:39.504] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[22Dec2024 21:17:39.504] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[22Dec2024 21:17:39.505] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[22Dec2024 21:17:39.506] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[22Dec2024 21:17:39.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 21:17:39.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 21:18:07.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 has made the advancement [A Seedy Place]
+[22Dec2024 21:18:13.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> puse un marcador
