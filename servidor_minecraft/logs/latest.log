@@ -1515,3 +1515,74 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Dec2024 20:57:24.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> hay muchos mobs
 [22Dec2024 20:57:26.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> y pirañas
 [22Dec2024 20:57:46.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> espera
+[22Dec2024 20:58:01.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> pasame la mesa
+[22Dec2024 20:58:04.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> de crafteo
+[22Dec2024 20:58:24.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Mi caballo tiene mas vida
+[22Dec2024 20:58:30.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> sera porque le di una manzana de oro?
+[22Dec2024 20:58:57.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> necesito lana
+[22Dec2024 20:59:15.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> eso s no tengo
+[22Dec2024 20:59:17.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> creo que vamos a tener que seguir sin los caballos
+[22Dec2024 20:59:25.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Porque no intentamos rodear?
+[22Dec2024 20:59:27.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> sigueme
+[22Dec2024 21:00:11.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> vamos a tener que hacer un puente
+[22Dec2024 21:00:23.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> paremos esta noche
+[22Dec2024 21:00:25.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noltem> pasenme coords pe
+[22Dec2024 21:00:32.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noltem> estoy aislado del mundo creo
+[22Dec2024 21:00:37.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Mira
+[22Dec2024 21:00:40.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> un pez leon
+[22Dec2024 21:00:47.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> A no
+[22Dec2024 21:00:54.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cuidado
+[22Dec2024 21:01:23.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ojala hubiera puesto lo de las tiendas de acampar
+[22Dec2024 21:01:31.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> me salgo ?
+[22Dec2024 21:01:33.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> No
+[22Dec2024 21:01:37.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> noltem no dormira
+[22Dec2024 21:01:37.919] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[22Dec2024 21:01:37.968] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[22Dec2024 21:01:41.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> xd
+[22Dec2024 21:01:48.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> creo que vamos a tener que aguantar
+[22Dec2024 21:01:53.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cudiar a los caballos
+[22Dec2024 21:01:55.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> rezar a los dioses no servira denuevo
+[22Dec2024 21:02:00.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> tiene un limite
+[22Dec2024 21:02:05.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> no pueden simplemente hacer una base improvisada ?
+[22Dec2024 21:02:13.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> bajo tierra
+[22Dec2024 21:02:14.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no XD
+[22Dec2024 21:02:17.983] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[22Dec2024 21:02:21.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> si
+[22Dec2024 21:02:22.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> rodea a los caballos
+[22Dec2024 21:02:37.184] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[22Dec2024 21:02:45.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ten
+[22Dec2024 21:02:46.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hob
+[22Dec2024 21:02:57.621] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[22Dec2024 21:02:58.460] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[22Dec2024 21:03:05.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ese pico que?
+[22Dec2024 21:03:07.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Getting an Upgrade]
+[22Dec2024 21:03:15.502] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-125, y=-56, z=60}
+[22Dec2024 21:03:15.507] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-126, y=-49, z=65}
+[22Dec2024 21:03:48.873] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond 32
+[22Dec2024 21:03:48.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no hay mucho viento
+[22Dec2024 21:03:55.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> en invierno habra tormentas de nieve por todo el mundo
+[22Dec2024 21:04:04.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> los cultivos se van a sercar
+[22Dec2024 21:04:04.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Ok
+[22Dec2024 21:04:10.158] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[22Dec2024 21:04:10.252] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[22Dec2024 21:04:12.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> yo vivo en una sabana dudo que me afecte xd
+[22Dec2024 21:04:13.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> a mi no me afecta estoy en un desierto
+[22Dec2024 21:04:16.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> pero a ustedes si
+[22Dec2024 21:05:11.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> caballos protegidos
+[22Dec2024 21:05:28.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> hice una escalera de cabezas
+[22Dec2024 21:05:53.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noltem has reached the goal [Exorcism]
+[22Dec2024 21:06:08.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aun todo bien
+[22Dec2024 21:06:18.961] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[22Dec2024 21:06:19.036] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[22Dec2024 21:06:19.227] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[22Dec2024 21:06:19.527] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[22Dec2024 21:06:19.615] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[22Dec2024 21:06:21.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> espero los aldeanos esten bien
+[22Dec2024 21:06:40.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> deberia ir haciendo el puente
+[22Dec2024 21:06:46.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> tienes bloques?
+[22Dec2024 21:06:46.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> yo lo hago
+[22Dec2024 21:06:46.926] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:ancient_debris 01
+[22Dec2024 21:06:50.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no
+[22Dec2024 21:06:50.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Bueno
+[22Dec2024 21:06:55.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> buscare bloques
+[22Dec2024 21:07:28.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no vayas mucho por alla

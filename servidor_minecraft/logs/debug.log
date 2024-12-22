@@ -12992,3 +12992,372 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Dec2024 20:57:39.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Dec2024 20:57:39.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Dec2024 20:57:46.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> espera
+[22Dec2024 20:58:01.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> pasame la mesa
+[22Dec2024 20:58:04.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> de crafteo
+[22Dec2024 20:58:24.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Mi caballo tiene mas vida
+[22Dec2024 20:58:30.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> sera porque le di una manzana de oro?
+[22Dec2024 20:58:57.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> necesito lana
+[22Dec2024 20:59:15.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> eso s no tengo
+[22Dec2024 20:59:17.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> creo que vamos a tener que seguir sin los caballos
+[22Dec2024 20:59:25.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Porque no intentamos rodear?
+[22Dec2024 20:59:27.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> sigueme
+[22Dec2024 20:59:42.785] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_tower
+[22Dec2024 20:59:47.300] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[22Dec2024 20:59:55.338] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[22Dec2024 21:00:04.870] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[22Dec2024 21:00:04.871] [IO-Worker-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
+[22Dec2024 21:00:11.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> vamos a tener que hacer un puente
+[22Dec2024 21:00:23.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> paremos esta noche
+[22Dec2024 21:00:25.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noltem> pasenme coords pe
+[22Dec2024 21:00:32.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noltem> estoy aislado del mundo creo
+[22Dec2024 21:00:37.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Mira
+[22Dec2024 21:00:40.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> un pez leon
+[22Dec2024 21:00:42.744] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village/common/animals/cows_1 is being run through DFU (hash 68d5fbafe70bc655556f98c6d0b120ced1c186cb64983e4b626a15f94c8352e3), this will cause launch time delays
+[22Dec2024 21:00:43.048] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/animals/pigs_1
+[22Dec2024 21:00:47.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> A no
+[22Dec2024 21:00:54.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cuidado
+[22Dec2024 21:01:12.469] [IO-Worker-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[22Dec2024 21:01:13.970] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-991 | 10 | 697)
+[22Dec2024 21:01:13.973] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-991 | 10 | 697)
+[22Dec2024 21:01:14.312] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (-977 | 33 | 684)
+[22Dec2024 21:01:14.312] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (-977 | 33 | 684)
+[22Dec2024 21:01:14.312] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-978 | 28 | 690)
+[22Dec2024 21:01:14.312] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-978 | 28 | 690)
+[22Dec2024 21:01:14.313] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-982 | 28 | 683)
+[22Dec2024 21:01:14.314] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-982 | 28 | 683)
+[22Dec2024 21:01:14.315] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-983 | 28 | 678)
+[22Dec2024 21:01:14.315] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-983 | 28 | 678)
+[22Dec2024 21:01:14.315] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (-977 | 24 | 693)
+[22Dec2024 21:01:14.315] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (-977 | 24 | 693)
+[22Dec2024 21:01:14.315] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-977 | 24 | 693)
+[22Dec2024 21:01:14.315] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-977 | 24 | 693)
+[22Dec2024 21:01:14.315] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-983 | 19 | 688)
+[22Dec2024 21:01:14.316] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-983 | 19 | 688)
+[22Dec2024 21:01:14.316] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-983 | 19 | 688)
+[22Dec2024 21:01:14.316] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-983 | 19 | 688)
+[22Dec2024 21:01:14.317] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-978 | 19 | 699)
+[22Dec2024 21:01:14.317] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-978 | 19 | 699)
+[22Dec2024 21:01:14.318] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-978 | 19 | 699)
+[22Dec2024 21:01:14.318] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-978 | 19 | 699)
+[22Dec2024 21:01:14.318] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-982 | 19 | 692)
+[22Dec2024 21:01:14.318] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-982 | 19 | 692)
+[22Dec2024 21:01:14.319] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-982 | 19 | 692)
+[22Dec2024 21:01:14.319] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (-982 | 19 | 692)
+[22Dec2024 21:01:14.319] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-983 | 19 | 687)
+[22Dec2024 21:01:14.319] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-983 | 19 | 687)
+[22Dec2024 21:01:14.319] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-983 | 19 | 687)
+[22Dec2024 21:01:14.320] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-983 | 19 | 687)
+[22Dec2024 21:01:14.320] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-988 | 10 | 682)
+[22Dec2024 21:01:14.320] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-988 | 10 | 682)
+[22Dec2024 21:01:14.320] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-986 | 10 | 696)
+[22Dec2024 21:01:14.320] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-986 | 10 | 696)
+[22Dec2024 21:01:14.320] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-987 | 10 | 691)
+[22Dec2024 21:01:14.320] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-987 | 10 | 691)
+[22Dec2024 21:01:14.320] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-991 | 10 | 697)
+[22Dec2024 21:01:14.322] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (-991 | 10 | 697)
+[22Dec2024 21:01:14.322] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (-979 | 10 | 683)
+[22Dec2024 21:01:14.322] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (-979 | 10 | 683)
+[22Dec2024 21:01:14.466] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (-977 | 33 | 684)
+[22Dec2024 21:01:14.466] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (-977 | 33 | 684)
+[22Dec2024 21:01:14.466] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-982 | 28 | 683)
+[22Dec2024 21:01:14.466] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-982 | 28 | 683)
+[22Dec2024 21:01:14.467] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation COUNTERCLOCKWISE_90 at (-977 | 28 | 682)
+[22Dec2024 21:01:14.467] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation COUNTERCLOCKWISE_90 at (-977 | 28 | 682)
+[22Dec2024 21:01:14.468] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-983 | 28 | 678)
+[22Dec2024 21:01:14.468] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-983 | 28 | 678)
+[22Dec2024 21:01:14.468] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (-978 | 19 | 677)
+[22Dec2024 21:01:14.468] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (-978 | 19 | 677)
+[22Dec2024 21:01:14.468] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (-978 | 19 | 677)
+[22Dec2024 21:01:14.468] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (-978 | 19 | 677)
+[22Dec2024 21:01:14.468] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation COUNTERCLOCKWISE_90 at (-983 | 18 | 660)
+[22Dec2024 21:01:14.468] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation COUNTERCLOCKWISE_90 at (-983 | 18 | 660)
+[22Dec2024 21:01:14.468] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_straight at (-983 | 18 | 660)
+[22Dec2024 21:01:14.469] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_straight at (-983 | 18 | 660)
+[22Dec2024 21:01:14.469] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-978 | 19 | 682)
+[22Dec2024 21:01:14.469] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-978 | 19 | 682)
+[22Dec2024 21:01:14.469] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-978 | 19 | 682)
+[22Dec2024 21:01:14.469] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-978 | 19 | 682)
+[22Dec2024 21:01:14.469] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-983 | 19 | 687)
+[22Dec2024 21:01:14.469] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-983 | 19 | 687)
+[22Dec2024 21:01:14.469] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-983 | 19 | 687)
+[22Dec2024 21:01:14.469] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-983 | 19 | 687)
+[22Dec2024 21:01:14.469] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-986 | 10 | 676)
+[22Dec2024 21:01:14.469] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-986 | 10 | 676)
+[22Dec2024 21:01:14.469] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-987 | 10 | 677)
+[22Dec2024 21:01:14.469] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-987 | 10 | 677)
+[22Dec2024 21:01:14.469] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (-991 | 10 | 661)
+[22Dec2024 21:01:14.470] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (-991 | 10 | 661)
+[22Dec2024 21:01:14.470] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-988 | 10 | 682)
+[22Dec2024 21:01:14.471] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-988 | 10 | 682)
+[22Dec2024 21:01:14.471] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (-979 | 10 | 683)
+[22Dec2024 21:01:14.471] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (-979 | 10 | 683)
+[22Dec2024 21:01:14.541] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation COUNTERCLOCKWISE_90 at (-977 | 25 | 666)
+[22Dec2024 21:01:14.541] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation COUNTERCLOCKWISE_90 at (-977 | 25 | 666)
+[22Dec2024 21:01:14.541] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-977 | 25 | 666)
+[22Dec2024 21:01:14.541] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-977 | 25 | 666)
+[22Dec2024 21:01:14.541] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-977 | 19 | 655)
+[22Dec2024 21:01:14.541] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-977 | 19 | 655)
+[22Dec2024 21:01:14.541] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-977 | 19 | 655)
+[22Dec2024 21:01:14.541] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-977 | 19 | 655)
+[22Dec2024 21:01:14.542] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation COUNTERCLOCKWISE_90 at (-983 | 18 | 660)
+[22Dec2024 21:01:14.542] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation COUNTERCLOCKWISE_90 at (-983 | 18 | 660)
+[22Dec2024 21:01:14.542] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_straight at (-983 | 18 | 660)
+[22Dec2024 21:01:14.542] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_straight at (-983 | 18 | 660)
+[22Dec2024 21:01:14.542] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-986 | 10 | 660)
+[22Dec2024 21:01:14.543] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-986 | 10 | 660)
+[22Dec2024 21:01:14.543] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-987 | 10 | 655)
+[22Dec2024 21:01:14.543] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-987 | 10 | 655)
+[22Dec2024 21:01:14.543] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (-991 | 10 | 661)
+[22Dec2024 21:01:14.543] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (-991 | 10 | 661)
+[22Dec2024 21:01:14.614] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (-986 | 33 | 639)
+[22Dec2024 21:01:14.614] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (-986 | 33 | 639)
+[22Dec2024 21:01:14.614] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (-981 | 28 | 645)
+[22Dec2024 21:01:14.614] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (-981 | 28 | 645)
+[22Dec2024 21:01:14.614] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-987 | 28 | 645)
+[22Dec2024 21:01:14.614] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-987 | 28 | 645)
+[22Dec2024 21:01:14.615] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-991 | 28 | 638)
+[22Dec2024 21:01:14.615] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-991 | 28 | 638)
+[22Dec2024 21:01:14.616] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-992 | 28 | 633)
+[22Dec2024 21:01:14.617] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-992 | 28 | 633)
+[22Dec2024 21:01:14.617] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-979 | 19 | 637)
+[22Dec2024 21:01:14.617] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-979 | 19 | 637)
+[22Dec2024 21:01:14.617] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (-979 | 19 | 637)
+[22Dec2024 21:01:14.617] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (-979 | 19 | 637)
+[22Dec2024 21:01:14.617] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation COUNTERCLOCKWISE_90 at (-982 | 19 | 648)
+[22Dec2024 21:01:14.618] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation COUNTERCLOCKWISE_90 at (-982 | 19 | 648)
+[22Dec2024 21:01:14.618] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/spawner_room at (-982 | 19 | 648)
+[22Dec2024 21:01:14.618] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/spawner_room at (-982 | 19 | 648)
+[22Dec2024 21:01:14.618] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-978 | 19 | 646)
+[22Dec2024 21:01:14.618] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-978 | 19 | 646)
+[22Dec2024 21:01:14.618] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (-978 | 19 | 646)
+[22Dec2024 21:01:14.618] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (-978 | 19 | 646)
+[22Dec2024 21:01:14.618] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-977 | 19 | 655)
+[22Dec2024 21:01:14.618] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-977 | 19 | 655)
+[22Dec2024 21:01:14.618] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-977 | 19 | 655)
+[22Dec2024 21:01:14.618] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-977 | 19 | 655)
+[22Dec2024 21:01:14.618] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-986 | 10 | 649)
+[22Dec2024 21:01:14.618] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-986 | 10 | 649)
+[22Dec2024 21:01:14.618] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-987 | 10 | 650)
+[22Dec2024 21:01:14.618] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-987 | 10 | 650)
+[22Dec2024 21:01:14.618] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (-991 | 10 | 634)
+[22Dec2024 21:01:14.619] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (-991 | 10 | 634)
+[22Dec2024 21:01:14.619] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-987 | 10 | 655)
+[22Dec2024 21:01:14.619] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-987 | 10 | 655)
+[22Dec2024 21:01:14.685] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (-986 | 33 | 639)
+[22Dec2024 21:01:14.685] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (-986 | 33 | 639)
+[22Dec2024 21:01:14.685] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-981 | 28 | 633)
+[22Dec2024 21:01:14.685] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-981 | 28 | 633)
+[22Dec2024 21:01:14.685] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-991 | 28 | 638)
+[22Dec2024 21:01:14.686] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-991 | 28 | 638)
+[22Dec2024 21:01:14.687] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-987 | 28 | 634)
+[22Dec2024 21:01:14.687] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-987 | 28 | 634)
+[22Dec2024 21:01:14.687] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-992 | 28 | 633)
+[22Dec2024 21:01:14.687] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-992 | 28 | 633)
+[22Dec2024 21:01:14.687] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-979 | 19 | 637)
+[22Dec2024 21:01:14.687] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-979 | 19 | 637)
+[22Dec2024 21:01:14.688] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (-979 | 19 | 637)
+[22Dec2024 21:01:14.688] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (-979 | 19 | 637)
+[22Dec2024 21:01:14.688] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (-991 | 10 | 634)
+[22Dec2024 21:01:14.688] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (-991 | 10 | 634)
+[22Dec2024 21:01:23.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ojala hubiera puesto lo de las tiendas de acampar
+[22Dec2024 21:01:31.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> me salgo ?
+[22Dec2024 21:01:33.416] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_4
+[22Dec2024 21:01:33.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> No
+[22Dec2024 21:01:37.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> noltem no dormira
+[22Dec2024 21:01:37.919] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[22Dec2024 21:01:37.968] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[22Dec2024 21:01:41.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> xd
+[22Dec2024 21:01:48.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> creo que vamos a tener que aguantar
+[22Dec2024 21:01:53.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cudiar a los caballos
+[22Dec2024 21:01:55.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> rezar a los dioses no servira denuevo
+[22Dec2024 21:01:59.815] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/portalroom
+[22Dec2024 21:01:59.820] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room6
+[22Dec2024 21:01:59.821] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway1
+[22Dec2024 21:01:59.822] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway5
+[22Dec2024 21:01:59.823] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway3
+[22Dec2024 21:01:59.824] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway6
+[22Dec2024 21:01:59.825] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway2
+[22Dec2024 21:01:59.827] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway4
+[22Dec2024 21:01:59.834] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room8
+[22Dec2024 21:01:59.836] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/smeltery
+[22Dec2024 21:01:59.837] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room1
+[22Dec2024 21:01:59.839] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room2
+[22Dec2024 21:01:59.841] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room3
+[22Dec2024 21:01:59.842] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room4
+[22Dec2024 21:01:59.845] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room9
+[22Dec2024 21:01:59.846] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room5
+[22Dec2024 21:01:59.848] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/library
+[22Dec2024 21:01:59.852] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room10
+[22Dec2024 21:01:59.856] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room7
+[22Dec2024 21:02:00.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> tiene un limite
+[22Dec2024 21:02:03.295] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_snowy
+[22Dec2024 21:02:03.296] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_oak
+[22Dec2024 21:02:03.297] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_jungle
+[22Dec2024 21:02:03.298] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_acacia
+[22Dec2024 21:02:03.298] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_spruce
+[22Dec2024 21:02:03.298] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_trader
+[22Dec2024 21:02:03.300] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_birch
+[22Dec2024 21:02:03.301] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_cherry
+[22Dec2024 21:02:03.301] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[22Dec2024 21:02:03.302] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_acacia
+[22Dec2024 21:02:03.303] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_mangrove
+[22Dec2024 21:02:03.304] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_swamp
+[22Dec2024 21:02:03.305] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_mangrove
+[22Dec2024 21:02:03.305] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_jungle
+[22Dec2024 21:02:03.306] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[22Dec2024 21:02:03.306] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_dark_oak
+[22Dec2024 21:02:03.307] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_snowy
+[22Dec2024 21:02:03.307] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_dark_oak
+[22Dec2024 21:02:03.308] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[22Dec2024 21:02:03.308] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_dark_oak
+[22Dec2024 21:02:03.309] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[22Dec2024 21:02:03.309] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_jungle
+[22Dec2024 21:02:03.310] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_snowy
+[22Dec2024 21:02:03.310] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_jungle
+[22Dec2024 21:02:03.311] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_swamp
+[22Dec2024 21:02:03.311] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_cherry
+[22Dec2024 21:02:03.312] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_mangrove
+[22Dec2024 21:02:03.313] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_swamp
+[22Dec2024 21:02:03.313] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_oak
+[22Dec2024 21:02:03.314] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_dark_oak
+[22Dec2024 21:02:03.315] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_oak
+[22Dec2024 21:02:03.315] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_birch
+[22Dec2024 21:02:03.316] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_dark_oak
+[22Dec2024 21:02:03.317] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_cherry
+[22Dec2024 21:02:03.317] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_smithing_table
+[22Dec2024 21:02:03.318] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_spruce
+[22Dec2024 21:02:03.318] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[22Dec2024 21:02:03.319] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[22Dec2024 21:02:03.319] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_spruce
+[22Dec2024 21:02:03.320] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[22Dec2024 21:02:03.320] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[22Dec2024 21:02:03.321] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_acacia
+[22Dec2024 21:02:03.321] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_acacia
+[22Dec2024 21:02:03.322] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_acacia
+[22Dec2024 21:02:03.322] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_acacia
+[22Dec2024 21:02:03.323] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_acacia
+[22Dec2024 21:02:03.323] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_birch
+[22Dec2024 21:02:03.324] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_birch
+[22Dec2024 21:02:03.324] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_birch
+[22Dec2024 21:02:03.324] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_birch
+[22Dec2024 21:02:03.325] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_birch
+[22Dec2024 21:02:03.325] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_birch
+[22Dec2024 21:02:03.325] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_birch
+[22Dec2024 21:02:03.326] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[22Dec2024 21:02:03.326] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_desert
+[22Dec2024 21:02:03.326] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_desert
+[22Dec2024 21:02:03.327] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_desert
+[22Dec2024 21:02:03.327] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[22Dec2024 21:02:03.327] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_mangrove
+[22Dec2024 21:02:03.328] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_mangrove
+[22Dec2024 21:02:03.328] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_mangrove
+[22Dec2024 21:02:03.328] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_mangrove
+[22Dec2024 21:02:03.329] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_mangrove
+[22Dec2024 21:02:03.329] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_mangrove
+[22Dec2024 21:02:03.330] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_dark_oak
+[22Dec2024 21:02:03.330] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_dark_oak
+[22Dec2024 21:02:03.331] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_dark_oak
+[22Dec2024 21:02:03.331] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_dark_oak
+[22Dec2024 21:02:03.331] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_dark_oak
+[22Dec2024 21:02:03.332] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_oak
+[22Dec2024 21:02:03.332] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_oak
+[22Dec2024 21:02:03.333] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_oak
+[22Dec2024 21:02:03.333] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_oak
+[22Dec2024 21:02:03.334] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_oak
+[22Dec2024 21:02:03.334] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_oak
+[22Dec2024 21:02:03.335] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_cherry
+[22Dec2024 21:02:03.335] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_cherry
+[22Dec2024 21:02:03.336] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_cherry
+[22Dec2024 21:02:03.336] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_cherry
+[22Dec2024 21:02:03.336] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_cherry
+[22Dec2024 21:02:03.337] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_cherry
+[22Dec2024 21:02:03.337] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_swamp
+[22Dec2024 21:02:03.338] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_swamp
+[22Dec2024 21:02:03.338] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_swamp
+[22Dec2024 21:02:03.338] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_swamp
+[22Dec2024 21:02:03.339] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_jungle
+[22Dec2024 21:02:03.340] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_jungle
+[22Dec2024 21:02:03.340] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_jungle
+[22Dec2024 21:02:03.340] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_jungle
+[22Dec2024 21:02:03.341] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_jungle
+[22Dec2024 21:02:03.341] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_snowy
+[22Dec2024 21:02:03.341] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_snowy
+[22Dec2024 21:02:03.342] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_snowy
+[22Dec2024 21:02:03.342] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_snowy
+[22Dec2024 21:02:03.343] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_snowy
+[22Dec2024 21:02:03.343] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_snowy
+[22Dec2024 21:02:03.344] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cartographer
+[22Dec2024 21:02:03.344] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cleric
+[22Dec2024 21:02:03.344] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_farmer
+[22Dec2024 21:02:03.345] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fisher
+[22Dec2024 21:02:03.345] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fletcher
+[22Dec2024 21:02:03.346] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_grindstone
+[22Dec2024 21:02:03.346] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_leather_worker
+[22Dec2024 21:02:03.346] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_librarian
+[22Dec2024 21:02:03.347] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_loom
+[22Dec2024 21:02:03.347] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_stonecutter
+[22Dec2024 21:02:03.348] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_armorer
+[22Dec2024 21:02:03.348] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_butcher
+[22Dec2024 21:02:03.349] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_villager
+[22Dec2024 21:02:05.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> no pueden simplemente hacer una base improvisada ?
+[22Dec2024 21:02:13.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> bajo tierra
+[22Dec2024 21:02:14.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no XD
+[22Dec2024 21:02:17.983] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[22Dec2024 21:02:21.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> si
+[22Dec2024 21:02:22.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> rodea a los caballos
+[22Dec2024 21:02:30.428] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[22Dec2024 21:02:37.184] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[22Dec2024 21:02:39.510] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
+[22Dec2024 21:02:39.512] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
+[22Dec2024 21:02:39.512] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[22Dec2024 21:02:39.514] [IO-Worker-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[22Dec2024 21:02:39.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 21:02:39.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 21:02:45.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ten
+[22Dec2024 21:02:46.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hob
+[22Dec2024 21:02:56.877] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/derelict_grass_tower_bottom
+[22Dec2024 21:02:56.883] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/waystone_derelict_grass_tower_top
+[22Dec2024 21:02:57.621] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[22Dec2024 21:02:58.460] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[22Dec2024 21:03:05.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ese pico que?
+[22Dec2024 21:03:07.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Getting an Upgrade]
+[22Dec2024 21:03:15.502] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-125, y=-56, z=60}
+[22Dec2024 21:03:15.507] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-126, y=-49, z=65}
+[22Dec2024 21:03:48.873] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond 32
+[22Dec2024 21:03:48.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no hay mucho viento
+[22Dec2024 21:03:55.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> en invierno habra tormentas de nieve por todo el mundo
+[22Dec2024 21:04:04.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> los cultivos se van a sercar
+[22Dec2024 21:04:04.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Ok
+[22Dec2024 21:04:10.158] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[22Dec2024 21:04:10.252] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[22Dec2024 21:04:12.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> yo vivo en una sabana dudo que me afecte xd
+[22Dec2024 21:04:13.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> a mi no me afecta estoy en un desierto
+[22Dec2024 21:04:16.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> pero a ustedes si
+[22Dec2024 21:05:11.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> caballos protegidos
+[22Dec2024 21:05:17.554] [IO-Worker-99/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[22Dec2024 21:05:28.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> hice una escalera de cabezas
+[22Dec2024 21:05:53.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noltem has reached the goal [Exorcism]
+[22Dec2024 21:06:08.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aun todo bien
+[22Dec2024 21:06:18.421] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_27
+[22Dec2024 21:06:18.961] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[22Dec2024 21:06:19.036] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[22Dec2024 21:06:19.227] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[22Dec2024 21:06:19.527] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[22Dec2024 21:06:19.615] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[22Dec2024 21:06:21.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> espero los aldeanos esten bien
+[22Dec2024 21:06:40.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> deberia ir haciendo el puente
+[22Dec2024 21:06:46.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> tienes bloques?
+[22Dec2024 21:06:46.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> yo lo hago
+[22Dec2024 21:06:46.926] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:ancient_debris 01
+[22Dec2024 21:06:50.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no
+[22Dec2024 21:06:50.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Bueno
+[22Dec2024 21:06:55.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> buscare bloques
+[22Dec2024 21:07:28.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no vayas mucho por alla
+[22Dec2024 21:07:36.194] [IO-Worker-99/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[22Dec2024 21:07:36.195] [IO-Worker-99/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[22Dec2024 21:07:39.514] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[22Dec2024 21:07:39.515] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[22Dec2024 21:07:39.516] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[22Dec2024 21:07:39.537] [IO-Worker-99/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[22Dec2024 21:07:39.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 21:07:39.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
