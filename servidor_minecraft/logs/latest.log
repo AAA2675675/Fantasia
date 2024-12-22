@@ -1656,3 +1656,284 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Dec2024 21:17:30.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> yo debo construir puentes
 [22Dec2024 21:18:07.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 has made the advancement [A Seedy Place]
 [22Dec2024 21:18:13.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> puse un marcador
+[22Dec2024 21:18:25.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> como van ?
+[22Dec2024 21:18:26.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> cerca
+[22Dec2024 21:18:27.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> todavia vas a venir?
+[22Dec2024 21:18:31.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> si cerca
+[22Dec2024 21:18:42.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> si voy a seguir
+[22Dec2024 21:18:46.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Bien
+[22Dec2024 21:18:51.089] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:emerald 10
+[22Dec2024 21:18:52.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> te recomiendo que dejes tu caballo ahi
+[22Dec2024 21:18:55.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> para ponerle techo
+[22Dec2024 21:19:57.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> listo
+[22Dec2024 21:20:06.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> tienes madera?
+[22Dec2024 21:20:20.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> se hace de noche
+[22Dec2024 21:20:25.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> podemos seguir en el mar
+[22Dec2024 21:20:29.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es mejor
+[22Dec2024 21:20:31.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> no hay tantos peligros como en la superficio
+[22Dec2024 21:20:35.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noltem has made the advancement [Bark Off]
+[22Dec2024 21:20:47.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 6.302144998319989,-6.868106083857128E-11,-8.25646446226665
+[22Dec2024 21:20:47.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 6.549849031834185,-6.916422989888815E-11,-8.570407993633125
+[22Dec2024 21:20:47.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 6.797708109679604,-6.956213383091381E-11,-8.884241690368526
+[22Dec2024 21:20:47.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 7.045709726278119,-6.986766720729065E-11,-9.197974148027242
+[22Dec2024 21:20:47.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 7.293842626609717,-7.007372460066108E-11,-9.511613098883117
+[22Dec2024 21:20:47.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 7.542093682297946,-7.01945168657403E-11,-9.825167893618982
+[22Dec2024 21:20:47.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 7.790454076663025,-7.02371494298859E-11,-10.138644559937347
+[22Dec2024 21:20:47.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 8.038912875834683,-7.02158331478131E-11,-10.452050910681919
+[22Dec2024 21:20:47.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 8.287463240051181,-7.015188430159469E-11,-10.765391585775433
+[22Dec2024 21:20:47.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 8.5360960128059,-7.005951374594588E-11,-11.078673152784631
+[22Dec2024 21:20:47.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 8.784805950239104,-6.995293233558186E-11,-11.391899130882848
+[22Dec2024 21:20:47.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 9.033585335881128,-6.984635092521785E-11,-11.705075078962636
+[22Dec2024 21:20:47.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 9.282427224909384,-6.974687494221143E-11,-12.018206000027021
+[22Dec2024 21:20:47.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 9.531328365842455,-6.966160981392022E-11,-12.331294005141899
+[22Dec2024 21:20:47.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 9.780282833488457,-6.959766096770181E-11,-12.64434338590354
+[22Dec2024 21:20:47.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 10.029285295174873,-6.95479229761986E-11,-12.95735800474813
+[22Dec2024 21:20:47.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 10.278330951496457,-6.95195012667682E-11,-13.270341337868558
+[22Dec2024 21:20:47.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 10.527418479984703,-6.9505290412053E-11,-13.583294122201096
+[22Dec2024 21:20:47.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 10.776543693421957,-6.9505290412053E-11,-13.896219412625669
+[22Dec2024 21:20:47.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 11.025702823312429,-6.95123958394106E-11,-14.209119958533392
+[22Dec2024 21:20:47.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 11.274892478010031,-6.95266066941258E-11,-14.521998234376497
+[22Dec2024 21:20:47.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 11.524109605033289,-6.95479229761986E-11,-14.834856467162354
+[22Dec2024 21:20:47.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 11.773351457148976,-6.956923925827141E-11,-15.147696661196733
+[22Dec2024 21:20:47.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 12.02261556184726,-6.959055554034421E-11,-15.46052062035551
+[22Dec2024 21:20:47.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2361ms or 47 ticks behind
+[22Dec2024 21:20:47.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:20:47.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! -6.46659494511681,1.4779288903810084E-12,8.143722224221165
+[22Dec2024 21:21:11.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya
+[22Dec2024 21:21:26.395] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-57, z=15}
+[22Dec2024 21:21:31.728] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.8740077f,range:8,source:{pos:[I;-110,-47,220],type:"minecraft:block"}}]
+[22Dec2024 21:21:33.399] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.3484693f,range:8,source:{pos:[I;-110,-47,208],type:"minecraft:block"}}]
+[22Dec2024 21:21:33.400] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:5.802439f,range:8,source:{pos:[I;-110,-47,214],type:"minecraft:block"}}]
+[22Dec2024 21:21:36.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> llegaron ?
+[22Dec2024 21:21:36.448] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.1622777f,range:8,source:{pos:[I;-171,-59,114],type:"minecraft:block"}}]
+[22Dec2024 21:21:36.449] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:1.4142135f,range:8,source:{pos:[I;-176,-57,125],type:"minecraft:block"}}]
+[22Dec2024 21:21:36.454] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.4607882f,range:8,source:{pos:[I;-110,-47,196],type:"minecraft:block"}}]
+[22Dec2024 21:21:44.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> estoy bajo tierra
+[22Dec2024 21:21:47.173] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-57, z=15}
+[22Dec2024 21:21:56.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noltem> oye kate
+[22Dec2024 21:22:03.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noltem> habilita el tp de waypoints pe
+[22Dec2024 21:22:05.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 has made the advancement [Blindfolded]
+[22Dec2024 21:22:11.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noltem> estoy en la mierda y uqiero dejar mis cosas
+[22Dec2024 21:22:34.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Woow
+[22Dec2024 21:22:40.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es aqui?
+[22Dec2024 21:23:12.090] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond_boots{Enchantments:[{id:"minecraft:protection",lvl:1}]} 01
+[22Dec2024 21:23:16.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> llegaron ?
+[22Dec2024 21:23:34.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> que bonita aldea habandonada
+[22Dec2024 21:23:41.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> creo que teneos un
+[22Dec2024 21:23:46.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> pueblo vecino
+[22Dec2024 21:23:51.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> alejate
+[22Dec2024 21:23:52.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ese no
+[22Dec2024 21:24:49.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> hob como va la travesia ?
+[22Dec2024 21:24:56.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> estamos a 40 metros
+[22Dec2024 21:25:04.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> el no
+[22Dec2024 21:25:05.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es fuerte
+[22Dec2024 21:25:19.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> dare a lucir mi nueva arma
+[22Dec2024 21:26:06.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> puedes usar click derecho para apuntae
+[22Dec2024 21:26:11.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> si
+[22Dec2024 21:26:18.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> en el modo pvp
+[22Dec2024 21:26:47.684] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Alžběta'/28176, l='ServerLevel[world]', x=-238.72, y=142.00, z=-3180.47] died, message: 'Alžběta was slain by Vindicator'
+[22Dec2024 21:26:51.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> CORRE
+[22Dec2024 21:26:54.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> CREEPER
+[22Dec2024 21:27:11.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> sybamos
+[22Dec2024 21:27:17.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> llegaron
+[22Dec2024 21:27:21.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> ?
+[22Dec2024 21:29:44.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> este sitio
+[22Dec2024 21:29:47.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> no tiene nada bueno
+[22Dec2024 21:29:48.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> sigamos
+[22Dec2024 21:30:27.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> esto
+[22Dec2024 21:30:36.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es de vaqueros
+[22Dec2024 21:30:37.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> como les va en el viaje
+[22Dec2024 21:30:46.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> estas eran las antiguas cordenadas
+[22Dec2024 21:30:49.611] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[22Dec2024 21:30:49.741] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[22Dec2024 21:30:49.784] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[22Dec2024 21:30:49.785] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[22Dec2024 21:30:49.871] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[22Dec2024 21:30:49.890] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[22Dec2024 21:30:49.890] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[22Dec2024 21:30:50.002] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[22Dec2024 21:30:50.003] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[22Dec2024 21:30:50.130] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[22Dec2024 21:30:50.131] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[22Dec2024 21:30:50.132] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[22Dec2024 21:30:50.971] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[22Dec2024 21:30:50.972] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[22Dec2024 21:30:50.974] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[22Dec2024 21:30:50.982] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[22Dec2024 21:30:53.515] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotRealSamX07[/127.38.224.96:36549] logged in with entity id 31106 at (-1526.1681315847748, 82.0, -2211.503539247025)
+[22Dec2024 21:30:53.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 joined the game
+[22Dec2024 21:30:53.612] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NotRealSamX07
+[22Dec2024 21:30:55.642] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NotRealSamX07
+[22Dec2024 21:30:57.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> las nuevaas
+[22Dec2024 21:31:01.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> se conecto en el peor momento
+[22Dec2024 21:31:04.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Se metio mi copia
+[22Dec2024 21:31:16.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> esta por arriba sigueme
+[22Dec2024 21:31:18.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no me avisaron...
+[22Dec2024 21:31:23.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam
+[22Dec2024 21:31:27.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hay aldeanos vivos?
+[22Dec2024 21:31:33.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> si
+[22Dec2024 21:31:37.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ok
+[22Dec2024 21:31:38.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cuidalos
+[22Dec2024 21:31:40.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> estamos en un viaje
+[22Dec2024 21:31:44.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> exacto
+[22Dec2024 21:31:47.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> mueranse
+[22Dec2024 21:31:52.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> tengo cosas para ti sam
+[22Dec2024 21:31:57.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no se mueran
+[22Dec2024 21:32:01.121] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-125, y=-56, z=60}
+[22Dec2024 21:32:01.123] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-126, y=-49, z=65}
+[22Dec2024 21:32:14.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hay viento aca arriba
+[22Dec2024 21:32:14.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> deja marco en el mapa
+[22Dec2024 21:32:38.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ahora es
+[22Dec2024 21:32:48.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> arriba ven
+[22Dec2024 21:33:50.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> necesitare mas espacio en mi mochila
+[22Dec2024 21:34:22.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> uuff
+[22Dec2024 21:34:25.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> tenemos netherite
+[22Dec2024 21:34:28.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> esperen como se hacen las mochilas necesito una
+[22Dec2024 21:34:37.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> gabo
+[22Dec2024 21:34:41.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> actualiza coordenadas porfa
+[22Dec2024 21:34:49.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> a que se refiern
+[22Dec2024 21:34:55.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> donde ests
+[22Dec2024 21:34:58.915] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[22Dec2024 21:35:17.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> -226 53 418
+[22Dec2024 21:35:27.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> perdon 63
+[22Dec2024 21:35:33.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hob
+[22Dec2024 21:35:37.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> esto es un viaje de mas de un dia
+[22Dec2024 21:35:47.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ...
+[22Dec2024 21:35:51.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> donde estas tu ?
+[22Dec2024 21:35:53.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> no me habia dado cuenta
+[22Dec2024 21:36:04.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> -296 197 3274
+[22Dec2024 21:36:06.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> si empezamos ahora estaremos 4 o 5 dias caminando
+[22Dec2024 21:36:16.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Uuuuuh
+[22Dec2024 21:36:18.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> vamos
+[22Dec2024 21:36:20.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> pero te dare las coordenadas de mi base
+[22Dec2024 21:36:27.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> katee
+[22Dec2024 21:36:33.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> no es por aqui..
+[22Dec2024 21:36:41.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> era por alla
+[22Dec2024 21:36:43.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> -200 64 452
+[22Dec2024 21:36:44.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> estamos a -3282
+[22Dec2024 21:36:47.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> pense que ibamos a ir a tu aldea hob
+[22Dec2024 21:36:49.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> y el esta a 452
+[22Dec2024 21:36:52.619] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.395869f,range:8,source:{pos:[I;-110,-47,184],type:"minecraft:block"}}]
+[22Dec2024 21:36:56.133] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[22Dec2024 21:36:56.242] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[22Dec2024 21:37:15.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mira
+[22Dec2024 21:37:15.784] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[22Dec2024 21:37:15.882] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[22Dec2024 21:37:15.982] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[22Dec2024 21:37:16.081] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[22Dec2024 21:37:18.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> nos hacemos rp al desierto llegaremos mas rapido desde ahi no?
+[22Dec2024 21:37:31.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Goblin's Tyranny]
+[22Dec2024 21:37:32.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 has made the advancement [Goblin's Tyranny]
+[22Dec2024 21:37:37.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es la cabaña de duendes
+[22Dec2024 21:37:53.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> no tengo hongos
+[22Dec2024 21:37:53.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> para cambiar con ellos se necesitan hongos
+[22Dec2024 21:37:59.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> al menos
+[22Dec2024 21:38:01.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mira esta vista
+[22Dec2024 21:38:04.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es preciosa
+[22Dec2024 21:38:09.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Tienes razon
+[22Dec2024 21:38:18.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> podria vivir viajando con vistas asi xd
+[22Dec2024 21:38:34.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Que hacemos?
+[22Dec2024 21:38:41.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> voy a volver
+[22Dec2024 21:38:42.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Que susto
+[22Dec2024 21:38:54.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> luego continuamos el viaje
+[22Dec2024 21:38:59.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Vale
+[22Dec2024 21:39:00.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> parece que hay mucho viento de ese lado
+[22Dec2024 21:39:04.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> debe haber tormenta
+[22Dec2024 21:39:24.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> por lo menos descubrimos mucho el mapa, no?
+[22Dec2024 21:39:26.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> luego nos traemos un waystone
+[22Dec2024 21:39:32.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> para el tp
+[22Dec2024 21:39:54.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> oh no, tormenta de arena
+[22Dec2024 21:39:54.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> la piramide
+[22Dec2024 21:39:55.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no llegaremos antes de la mañana
+[22Dec2024 21:40:01.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Noltem) moved too quickly! 10.452992678217015,0.0,-0.18668401345360053
+[22Dec2024 21:40:01.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Noltem) moved too quickly! 10.95047337324877,0.0,-0.2103744190198995
+[22Dec2024 21:40:01.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Noltem) moved too quickly! 11.447940815248558,0.0,-0.2343458371192355
+[22Dec2024 21:40:11.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> habra que acampar de nuevo
+[22Dec2024 21:40:15.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Noltem) moved wrongly! 0.2771130902870027
+[22Dec2024 21:40:15.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Noltem) moved wrongly! 0.6139196262472708
+[22Dec2024 21:40:15.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Noltem) moved wrongly! 1.0286320375056102
+[22Dec2024 21:40:15.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Noltem) moved wrongly! 1.495115533809133
+[22Dec2024 21:40:18.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> necesitamos amatista
+[22Dec2024 21:40:24.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> para el waystone
+[22Dec2024 21:40:28.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no hace falta
+[22Dec2024 21:40:31.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> se donde conseguir
+[22Dec2024 21:40:35.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aparecen en todos lados
+[22Dec2024 21:40:37.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> verdad sam
+[22Dec2024 21:40:41.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> y obsidiana
+[22Dec2024 21:40:46.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> algo me sigue
+[22Dec2024 21:40:50.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> eso dice el chat
+[22Dec2024 21:41:02.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> "sientes que alguien te esta siguiendo"
+[22Dec2024 21:41:06.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es el hombre lobo
+[22Dec2024 21:41:16.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> eso pone cuando esta a punto de aparecer
+[22Dec2024 21:41:17.532] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[22Dec2024 21:41:20.733] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[22Dec2024 21:41:20.848] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 17 ms
+[22Dec2024 21:41:20.993] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 7 ms
+[22Dec2024 21:41:23.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cuidado
+[22Dec2024 21:41:59.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> noche
+[22Dec2024 21:42:02.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> menos mal tenemos una piramide
+[22Dec2024 21:42:23.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> dormiran o pasaran despiertos
+[22Dec2024 21:42:30.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no hay camas
+[22Dec2024 21:42:32.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> debemos salirnos
+[22Dec2024 21:42:35.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> y noltem no duerme
+[22Dec2024 21:42:40.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ni se sale
+[22Dec2024 21:42:57.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> ni habla
+[22Dec2024 21:43:00.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 moved wrongly!
+[22Dec2024 21:43:09.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam
+[22Dec2024 21:43:12.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> protege la aldea
+[22Dec2024 21:43:17.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> si tu estas ahi iran los mobs
+[22Dec2024 21:43:21.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> y morira gente-
+[22Dec2024 21:43:22.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> 3 libros de habilidades
+[22Dec2024 21:43:28.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> si me salgo no iran los mobs?
+[22Dec2024 21:43:35.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no
+[22Dec2024 21:43:36.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noltem has reached the goal [Fighting Nightmares]
+[22Dec2024 21:43:39.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> osea
+[22Dec2024 21:43:42.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no de no importa
+[22Dec2024 21:43:45.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> iran de todos modos
+[22Dec2024 21:43:57.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> se supone que deje golems
+[22Dec2024 21:44:00.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> pero seguro murieron
+[22Dec2024 21:44:02.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no hay
+[22Dec2024 21:44:06.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> si murieron
+[22Dec2024 21:44:29.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> debo organizar mi mochila
+[22Dec2024 21:44:38.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Noltem) moved wrongly! 2.156476206494972
+[22Dec2024 21:44:38.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Noltem) moved wrongly! 2.259988897364792
+[22Dec2024 21:44:38.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Noltem) moved wrongly! 2.325727743679181
+[22Dec2024 21:44:38.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Noltem) moved wrongly! 2.4878663393817533
+[22Dec2024 21:44:38.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Noltem) moved wrongly! 2.6781361601172193
+[22Dec2024 21:45:21.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was slain by Door Knight
+[22Dec2024 21:45:33.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Skeleton
+[22Dec2024 21:45:37.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> los npc causaron mi muerte-
+[22Dec2024 21:45:46.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> lol
+[22Dec2024 21:45:52.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Aaaaaa
+[22Dec2024 21:45:58.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> faltan 5 horas para el amanecer
+[22Dec2024 21:46:06.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> si pusieron la config del xeros que les dije se ve
+[22Dec2024 21:46:45.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> bueno
+[22Dec2024 21:46:53.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> le iva llevar un regalo a mi copia pero
+[22Dec2024 21:46:57.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya no sera posible
+[22Dec2024 21:47:41.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 has made the advancement [Hot Stuff]
+[22Dec2024 21:47:41.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was slain by Fallen Chaos Knight
+[22Dec2024 21:48:04.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Dec2024 21:48:04.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wadawda<--[HERE]
+[22Dec2024 21:48:32.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has reached the goal [Fighting Nightmares]
