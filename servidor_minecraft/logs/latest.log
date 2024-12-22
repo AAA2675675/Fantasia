@@ -2127,3 +2127,63 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Dec2024 02:40:23.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Sí
 [22Dec2024 02:40:23.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> esta cen
 [22Dec2024 02:40:25.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> arregla tu sv
+[22Dec2024 02:40:46.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 was slain by Spider
+[22Dec2024 02:41:03.961] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:gold_ingot 08
+[22Dec2024 02:41:14.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> nice
+[22Dec2024 02:42:21.345] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:iron_block 05
+[22Dec2024 02:42:39.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> vamos nivel 1
+[22Dec2024 02:42:44.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cuidado
+[22Dec2024 02:42:58.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> eh matado entidades gigantes
+[22Dec2024 02:43:04.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: don_eoatxd was slain by Spirit Guide
+[22Dec2024 02:43:06.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> criaturas enormes
+[22Dec2024 02:43:09.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 has made the advancement [Getting an Upgrade]
+[22Dec2024 02:43:14.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> magnificas cosas magicas
+[22Dec2024 02:43:18.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Y AUN ASI SOY LVL 0
+[22Dec2024 02:43:54.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mira
+[22Dec2024 02:44:01.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> katana
+[22Dec2024 02:44:01.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> otro bioma yeey
+[22Dec2024 02:44:36.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: don_eoatxd was slain by Skeleton
+[22Dec2024 02:44:40.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 was slain by Skeleton
+[22Dec2024 02:44:45.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> JAJA
+[22Dec2024 02:44:59.282] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-52, z=-18}
+[22Dec2024 02:45:00.745] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond 01
+[22Dec2024 02:45:11.798] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-41, z=-30}
+[22Dec2024 02:45:14.757] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=62, y=-52, z=-33}
+[22Dec2024 02:45:14.757] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=61, y=-52, z=-35}
+[22Dec2024 02:45:25.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Zombie Bruiser
+[22Dec2024 02:45:31.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> . . .
+[22Dec2024 02:45:36.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> volvi a la misma sabana
+[22Dec2024 02:45:38.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> matenme
+[22Dec2024 02:45:50.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Nightmare Stalker
+[22Dec2024 02:45:53.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> AAAAAAAAAAAAAAAAAAA
+[22Dec2024 02:45:56.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> NOOOOOOOOOOOOO DENUEVO
+[22Dec2024 02:46:00.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Nightmare Stalker
+[22Dec2024 02:46:07.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> UN ESQUELETO MARIACHI!
+[22Dec2024 02:46:07.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Nightmare Stalker
+[22Dec2024 02:46:28.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Fallen Chaos Knight
+[22Dec2024 02:46:44.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Sin salida
+[22Dec2024 02:46:49.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Nightmare Stalker
+[22Dec2024 02:46:58.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Nightmare Stalker
+[22Dec2024 02:47:06.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Kate
+[22Dec2024 02:47:10.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> ven
+[22Dec2024 02:47:18.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Nightmare Stalker
+[22Dec2024 02:47:26.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Esto es imposible
+[22Dec2024 02:47:29.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> por donde
+[22Dec2024 02:47:44.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> AYUDAA
+[22Dec2024 02:47:58.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> espera
+[22Dec2024 02:48:02.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> apartate
+[22Dec2024 02:48:05.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> AAAAAAAAAAAA
+[22Dec2024 02:48:15.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Siamese Skeleton
+[22Dec2024 02:48:17.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> pasa
+[22Dec2024 02:48:19.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ya
+[22Dec2024 02:48:22.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> tya
+[22Dec2024 02:48:24.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> rompelo
+[22Dec2024 02:48:33.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was blown up by Creeper
+[22Dec2024 02:48:37.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> SUBE
+[22Dec2024 02:48:38.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> AAA
+[22Dec2024 02:49:08.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aca
+[22Dec2024 02:49:12.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> baja
+[22Dec2024 02:49:30.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> estoy viviendo en el purgatorio
+[22Dec2024 02:49:50.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Skeleton
+[22Dec2024 02:50:09.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 was slain by Zombie
+[22Dec2024 02:50:16.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> 🥲🥲🥲
