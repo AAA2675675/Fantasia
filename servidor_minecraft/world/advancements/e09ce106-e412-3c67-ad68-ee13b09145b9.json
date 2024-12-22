@@ -102,6 +102,7 @@
       "minecraft:spider": "2024-12-22 01:35:50 +0000",
       "minecraft:creeper": "2024-12-22 01:23:09 +0000",
       "minecraft:husk": "2024-12-21 23:03:17 +0000",
+      "minecraft:stray": "2024-12-22 03:07:44 +0000",
       "minecraft:zombie": "2024-12-22 02:39:11 +0000"
     },
     "done": false
@@ -865,6 +866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-22 03:04:00 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/acacia_cog": {
     "criteria": {
       "in_water": "2024-12-22 02:10:08 +0000"
@@ -904,6 +911,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-22 01:24:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-22 03:15:13 +0000"
     },
     "done": true
   },
@@ -979,6 +992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-22 03:04:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-22 02:53:35 +0000"
@@ -988,6 +1007,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-22 01:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-22 03:15:13 +0000"
     },
     "done": true
   },
@@ -1225,6 +1250,12 @@
     },
     "done": true
   },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2024-12-22 03:06:21 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/mangrove_galley": {
     "criteria": {
       "in_water": "2024-12-22 02:10:08 +0000"
@@ -1375,6 +1406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-22 03:04:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2024-12-22 01:40:24 +0000"
@@ -1468,6 +1505,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-22 01:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2024-12-22 03:06:21 +0000"
     },
     "done": true
   },

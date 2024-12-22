@@ -1246,6 +1246,7 @@
       "minecraft:creeper": "2024-12-22 02:39:08 +0000",
       "minecraft:witch": "2024-12-22 02:41:39 +0000",
       "minecraft:husk": "2024-12-22 02:00:27 +0000",
+      "minecraft:stray": "2024-12-22 03:07:35 +0000",
       "minecraft:zombie": "2024-12-22 02:39:26 +0000"
     },
     "done": false
@@ -1823,6 +1824,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-22 02:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-22 03:01:47 +0000"
     },
     "done": true
   },
