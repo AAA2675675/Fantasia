@@ -103,9 +103,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-22 21:54:46 +0000",
       "minecraft:skeleton": "2024-12-22 01:28:09 +0000",
+      "minecraft:vindicator": "2024-12-22 21:54:55 +0000",
       "minecraft:spider": "2024-12-22 01:35:50 +0000",
       "minecraft:creeper": "2024-12-22 01:23:09 +0000",
+      "minecraft:phantom": "2024-12-22 22:45:17 +0000",
       "minecraft:wither_skeleton": "2024-12-22 03:44:44 +0000",
       "minecraft:husk": "2024-12-21 23:03:17 +0000",
       "minecraft:cave_spider": "2024-12-22 03:45:37 +0000",
@@ -2009,6 +2012,8 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
+      "sandy_dirt": "2024-12-22 22:25:14 +0000",
+      "dirt": "2024-12-22 22:51:37 +0000",
       "earthen_clay": "2024-12-22 05:29:48 +0000"
     },
     "done": false
@@ -2055,9 +2060,27 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-12-22 21:54:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-22 21:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-22 22:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-22 22:49:31 +0000"
     },
     "done": true
   },
@@ -2127,6 +2150,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-22 22:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-22 22:49:31 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
       "dismantledto_bones_0": "2024-12-22 20:30:27 +0000"
@@ -2148,6 +2183,12 @@
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-22 21:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-22 22:23:25 +0000"
     },
     "done": true
   },
@@ -2181,15 +2222,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-22 22:15:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-22 20:25:10 +0000"
     },
     "done": true
   },
+  "immersive_weathering:recipes/moss_block": {
+    "criteria": {
+      "has_copper_block": "2024-12-22 22:15:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2024-12-22 21:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-22 22:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-22 22:31:23 +0000"
     },
     "done": true
   },
@@ -2211,9 +2276,21 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/moss_clump": {
+    "criteria": {
+      "has_copper_block": "2024-12-22 22:15:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-22 21:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-22 22:49:31 +0000"
     },
     "done": true
   },
@@ -2247,6 +2324,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-22 22:49:31 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/night_sky_stalkers": {
+    "criteria": {
+      "sleep_deprivation": "2024-12-22 22:45:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-22 21:34:14 +0000"
@@ -2256,6 +2345,18 @@
   "stellarity:adventure/anger_enderman": {
     "criteria": {
       "anger_enderman": "2024-12-22 21:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-22 22:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-22 22:49:31 +0000"
     },
     "done": true
   },
@@ -2274,6 +2375,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-12-22 20:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-22 22:15:17 +0000"
     },
     "done": true
   },
@@ -2310,6 +2417,12 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-22 21:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-22 22:15:17 +0000"
     },
     "done": true
   },
