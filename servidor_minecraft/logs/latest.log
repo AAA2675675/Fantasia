@@ -1047,3 +1047,379 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Dec2024 01:19:11.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Claro
 [22Dec2024 01:19:18.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] el server te ordena responder.....
 [22Dec2024 01:19:25.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Sisi
+[22Dec2024 01:19:35.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MateXD110 lost connection: Disconnected
+[22Dec2024 01:19:35.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MateXD110 left the game
+[22Dec2024 01:20:03.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gamerule keepInventory is now set to: true
+[22Dec2024 01:20:07.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> listo
+[22Dec2024 01:20:12.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> pero
+[22Dec2024 01:20:19.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cuando se mueran hay probabilidad de que pierdan cosas
+[22Dec2024 01:20:19.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Diamonds!]
+[22Dec2024 01:20:24.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> para que asi no se mueran a lo pen-
+[22Dec2024 01:20:26.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Acquire Hardware]
+[22Dec2024 01:20:42.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Diamantes
+[22Dec2024 01:20:51.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam sigueme
+[22Dec2024 01:20:56.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> este server es precioso
+[22Dec2024 01:20:56.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> subiste tus stats?
+[22Dec2024 01:21:00.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es en la p
+[22Dec2024 01:21:24.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> ya
+[22Dec2024 01:21:26.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Bark Off]
+[22Dec2024 01:21:41.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> en la punta de la piramide hay
+[22Dec2024 01:21:43.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cosas
+[22Dec2024 01:21:48.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no subas
+[22Dec2024 01:21:50.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es una trampa
+[22Dec2024 01:21:53.059] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[22Dec2024 01:21:53.249] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[22Dec2024 01:21:53.249] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[22Dec2024 01:21:53.249] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[22Dec2024 01:21:53.250] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[22Dec2024 01:21:53.438] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[22Dec2024 01:21:53.439] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[22Dec2024 01:21:53.439] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[22Dec2024 01:21:53.440] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[22Dec2024 01:21:53.626] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[22Dec2024 01:21:53.626] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[22Dec2024 01:21:53.662] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[22Dec2024 01:21:55.824] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[22Dec2024 01:21:55.843] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[22Dec2024 01:21:55.844] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[22Dec2024 01:21:56.116] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[22Dec2024 01:21:57.072] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: don_eoatxd[/127.128.90.200:37041] logged in with entity id 2211 at (-227.56044963444376, 63.0, 413.4337768134643)
+[22Dec2024 01:21:57.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: don_eoatxd joined the game
+[22Dec2024 01:21:57.125] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to don_eoatxd
+[22Dec2024 01:21:58.040] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from don_eoatxd
+[22Dec2024 01:22:15.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> debemos subir por abajo
+[22Dec2024 01:22:19.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> y abrir algo
+[22Dec2024 01:22:25.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> creeper
+[22Dec2024 01:22:32.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> ok
+[22Dec2024 01:22:38.454] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[22Dec2024 01:22:38.454] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[22Dec2024 01:22:38.454] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[22Dec2024 01:22:38.454] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[22Dec2024 01:22:38.454] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[22Dec2024 01:22:38.454] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[22Dec2024 01:22:38.454] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[22Dec2024 01:23:06.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> hora de explorar
+[22Dec2024 01:23:25.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cuantos bloques seran
+[22Dec2024 01:23:33.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 was slain by NotRealSamX07
+[22Dec2024 01:23:34.252] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5fdf36e5[id=<null>,name=Franxd2,properties={},legacy=false] (/127.156.145.241:37331) lost connection: Disconnected
+[22Dec2024 01:23:45.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> fui victima de not real sam...
+[22Dec2024 01:23:45.820] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[22Dec2024 01:23:45.862] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[22Dec2024 01:23:45.863] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[22Dec2024 01:23:45.863] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[22Dec2024 01:23:45.863] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[22Dec2024 01:23:46.015] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[22Dec2024 01:23:46.018] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[22Dec2024 01:23:46.018] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[22Dec2024 01:23:46.019] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[22Dec2024 01:23:46.021] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[22Dec2024 01:23:46.022] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[22Dec2024 01:23:46.076] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[22Dec2024 01:23:50.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Kate
+[22Dec2024 01:23:51.529] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[22Dec2024 01:23:51.570] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[22Dec2024 01:23:51.570] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[22Dec2024 01:23:52.479] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[22Dec2024 01:23:52.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> dime
+[22Dec2024 01:23:56.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MateXD110[/127.63.188.38:49955] logged in with entity id 3104 at (-207.56863247460467, 61.0, 330.60790499155286)
+[22Dec2024 01:23:56.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MateXD110 joined the game
+[22Dec2024 01:23:56.551] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to MateXD110
+[22Dec2024 01:23:58.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Isn't It Iron Pick]
+[22Dec2024 01:24:00.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> me tepeas?-
+[22Dec2024 01:24:05.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> donde estas?
+[22Dec2024 01:24:11.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> en sabana
+[22Dec2024 01:24:13.762] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from MateXD110
+[22Dec2024 01:24:14.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> don siempre diciendo si le hacen tp zd
+[22Dec2024 01:24:28.253] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:iron_axe 01
+[22Dec2024 01:24:28.254] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:iron_ingot 16
+[22Dec2024 01:24:29.449] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:lapis_lazuli 32
+[22Dec2024 01:24:31.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> me morí antes
+[22Dec2024 01:24:38.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aaa
+[22Dec2024 01:24:42.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> pero eres de nuestro pueblo
+[22Dec2024 01:24:43.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ?
+[22Dec2024 01:24:47.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Sí
+[22Dec2024 01:24:57.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> MATE?!
+[22Dec2024 01:24:57.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Suit Up]
+[22Dec2024 01:24:58.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Dec2024 01:24:58.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: top don_ecatxd Katee555<--[HERE]
+[22Dec2024 01:25:19.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[22Dec2024 01:25:20.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MateXD110> sali de mis tierras
+[22Dec2024 01:25:23.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MateXD110> indigena
+[22Dec2024 01:25:24.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> ...
+[22Dec2024 01:25:26.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was slain by Husk
+[22Dec2024 01:25:30.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported don_eoatxd to Katee555
+[22Dec2024 01:25:31.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MateXD110> :speaking_head:
+[22Dec2024 01:25:32.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MateXD110> era mentira
+[22Dec2024 01:25:32.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MateXD110> imbecil
+[22Dec2024 01:25:37.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Hello
+[22Dec2024 01:25:38.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 was slain by Husk
+[22Dec2024 01:25:47.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> que
+[22Dec2024 01:26:00.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MateXD110 to MrHob
+[22Dec2024 01:26:01.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MateXD110 has made the advancement [Minecraft Comes Alive]
+[22Dec2024 01:26:06.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MateXD110> para donde
+[22Dec2024 01:26:07.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mate
+[22Dec2024 01:26:09.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MateXD110> me hacen tp
+[22Dec2024 01:26:09.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> consigue una cama
+[22Dec2024 01:26:11.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> rapido
+[22Dec2024 01:26:13.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> y duermete
+[22Dec2024 01:26:20.647] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[22Dec2024 01:26:20.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> aqui te distraes un segundo y te re cagan
+[22Dec2024 01:26:20.812] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[22Dec2024 01:26:20.812] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[22Dec2024 01:26:20.822] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[22Dec2024 01:26:20.823] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[22Dec2024 01:26:20.998] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[22Dec2024 01:26:20.999] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[22Dec2024 01:26:21.009] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[22Dec2024 01:26:21.175] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[22Dec2024 01:26:21.218] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[22Dec2024 01:26:21.219] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[22Dec2024 01:26:21.219] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[22Dec2024 01:26:22.302] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[22Dec2024 01:26:22.309] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[22Dec2024 01:26:22.317] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[22Dec2024 01:26:22.341] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[22Dec2024 01:26:24.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Franxd2[/127.156.145.241:40253] logged in with entity id 3660 at (-268.1580943473742, 138.0, 785.7777116607203)
+[22Dec2024 01:26:24.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 joined the game
+[22Dec2024 01:26:24.530] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Franxd2
+[22Dec2024 01:26:26.092] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Franxd2
+[22Dec2024 01:26:45.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> verg
+[22Dec2024 01:26:47.009] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:gold_ingot 08
+[22Dec2024 01:26:48.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 was slain by Skeleton
+[22Dec2024 01:26:52.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam creo que necesitas bloques tu
+[22Dec2024 01:26:54.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> tienes pico?
+[22Dec2024 01:26:54.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> donde estoy
+[22Dec2024 01:27:00.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> kate
+[22Dec2024 01:27:05.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> por que me dejaste en el desierto de sahara
+[22Dec2024 01:27:06.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> si
+[22Dec2024 01:27:07.756] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_immunity] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:27:07.757] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_particles] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:27:07.757] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_land] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:27:07.757] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_channel_sound] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:27:18.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> nice
+[22Dec2024 01:27:21.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> mejorando poderes
+[22Dec2024 01:27:28.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Franxd2 to MateXD110
+[22Dec2024 01:27:31.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> q
+[22Dec2024 01:27:34.328] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:iron_pickaxe 01
+[22Dec2024 01:27:35.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> espera
+[22Dec2024 01:27:38.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ACA ES DONDE MORI
+[22Dec2024 01:27:43.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> esta aldea esta re op
+[22Dec2024 01:27:43.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> solo q
+[22Dec2024 01:27:49.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> tienen cosas?
+[22Dec2024 01:27:59.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> yo si
+[22Dec2024 01:28:01.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MateXD110> donde estan
+[22Dec2024 01:28:03.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> me das
+[22Dec2024 01:28:32.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> espera
+[22Dec2024 01:28:33.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> volvamos
+[22Dec2024 01:28:36.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> mate
+[22Dec2024 01:28:38.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> mira
+[22Dec2024 01:28:39.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hacemos la raid con don
+[22Dec2024 01:28:41.870] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_immunity] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:28:41.870] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_particles] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:28:41.870] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_land] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:28:41.870] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_channel_sound] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:28:42.286] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[22Dec2024 01:28:42.287] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[22Dec2024 01:28:42.287] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[22Dec2024 01:28:46.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> UN MAPACHE
+[22Dec2024 01:28:48.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MateXD110> no veo nada
+[22Dec2024 01:28:49.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MateXD110> sali
+[22Dec2024 01:28:50.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> para
+[22Dec2024 01:28:54.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> como dejo de apuntarte xd
+[22Dec2024 01:28:56.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> donde
+[22Dec2024 01:28:58.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> don
+[22Dec2024 01:29:07.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> anochece
+[22Dec2024 01:29:08.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> ?
+[22Dec2024 01:29:09.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MateXD110 lost connection: Disconnected
+[22Dec2024 01:29:09.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MateXD110 left the game
+[22Dec2024 01:29:10.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> PARA
+[22Dec2024 01:29:13.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ESTA ES MI ISLA
+[22Dec2024 01:29:17.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Dec2024 01:29:17.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdawdada<--[HERE]
+[22Dec2024 01:29:21.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> don
+[22Dec2024 01:29:25.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> suban
+[22Dec2024 01:29:28.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hay camas arriba
+[22Dec2024 01:29:33.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> kate
+[22Dec2024 01:29:36.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> estan en mi isla donde mori
+[22Dec2024 01:29:36.586] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[22Dec2024 01:29:57.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sube
+[22Dec2024 01:30:02.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> esta anocheciendo
+[22Dec2024 01:30:03.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> oh oh
+[22Dec2024 01:30:11.761] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_immunity] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:30:11.761] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_particles] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:30:11.762] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_land] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:30:11.762] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_channel_sound] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:30:15.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> duerman q yo me tengo que salir
+[22Dec2024 01:30:19.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cat duerme
+[22Dec2024 01:30:22.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> esta gente esta loca
+[22Dec2024 01:30:25.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Stone Age]
+[22Dec2024 01:30:30.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> hice un pa abajo
+[22Dec2024 01:30:32.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> DUERMAN
+[22Dec2024 01:30:34.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ya va
+[22Dec2024 01:30:49.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> dormidos todos
+[22Dec2024 01:30:50.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> YA
+[22Dec2024 01:30:52.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Sweet Dreams]
+[22Dec2024 01:30:53.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> si tranquilo fran
+[22Dec2024 01:31:00.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> estoy recuperadno mis cosa
+[22Dec2024 01:31:00.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no es como si fueramos a morir en cualqueir momento
+[22Dec2024 01:31:01.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> shimmy shimmy yah
+[22Dec2024 01:31:08.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> quien falta
+[22Dec2024 01:31:09.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> DORMID
+[22Dec2024 01:31:11.999] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_immunity] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:31:11.999] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_particles] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:31:11.999] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_land] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:31:11.999] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_channel_sound] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:31:17.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> DUERMAN
+[22Dec2024 01:31:20.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> falta alguien pa q me salga yo
+[22Dec2024 01:31:22.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> DUERMAN
+[22Dec2024 01:31:26.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> PERO SAM
+[22Dec2024 01:31:31.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> DUERME ARRIBA
+[22Dec2024 01:31:32.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 was slain by Zombie
+[22Dec2024 01:31:33.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> NO HAY NADIE MAS
+[22Dec2024 01:31:34.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
+[22Dec2024 01:31:34.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
+[22Dec2024 01:31:37.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> XD
+[22Dec2024 01:31:37.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> boe
+[22Dec2024 01:31:38.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> XDDD
+[22Dec2024 01:31:39.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> XD?
+[22Dec2024 01:31:42.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Dec2024 01:31:42.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XDDSDA<--[HERE]
+[22Dec2024 01:31:43.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ejem
+[22Dec2024 01:31:46.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> tienen cañones
+[22Dec2024 01:31:56.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> kate donde andan
+[22Dec2024 01:32:14.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> cuantos mobs que miedo
+[22Dec2024 01:32:21.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> eu qn me tpeo a mate
+[22Dec2024 01:32:23.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> POR FIN
+[22Dec2024 01:32:26.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> DORMIMOS POR PRIMERA VEZ
+[22Dec2024 01:32:28.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> GOOODD
+[22Dec2024 01:32:57.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> don ven aca
+[22Dec2024 01:33:03.003] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_immunity] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:33:03.003] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_particles] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:33:03.004] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_land] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:33:03.004] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_channel_sound] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:33:09.029] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[22Dec2024 01:33:09.159] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[22Dec2024 01:33:09.161] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[22Dec2024 01:33:09.288] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[22Dec2024 01:33:09.289] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[22Dec2024 01:33:09.289] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[22Dec2024 01:33:09.421] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[22Dec2024 01:33:09.421] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[22Dec2024 01:33:09.549] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[22Dec2024 01:33:09.594] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[22Dec2024 01:33:09.595] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[22Dec2024 01:33:09.647] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[22Dec2024 01:33:10.339] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[22Dec2024 01:33:10.340] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[22Dec2024 01:33:10.340] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[22Dec2024 01:33:10.346] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[22Dec2024 01:33:12.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotRealSamX07[/127.38.224.96:60851] logged in with entity id 5859 at (-1559.300000011921, 83.0, -2178.699999988079)
+[22Dec2024 01:33:12.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 joined the game
+[22Dec2024 01:33:13.043] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NotRealSamX07
+[22Dec2024 01:33:14.399] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NotRealSamX07
+[22Dec2024 01:33:17.131] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[22Dec2024 01:33:20.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> NO MAMES UNA TORRE
+[22Dec2024 01:33:20.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no me avisaron..
+[22Dec2024 01:33:29.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam don esta saqueando a los pobres
+[22Dec2024 01:33:30.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> SI
+[22Dec2024 01:33:31.688] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-125, y=-56, z=60}
+[22Dec2024 01:33:31.693] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-126, y=-49, z=65}
+[22Dec2024 01:33:32.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> MIS COSASAA
+[22Dec2024 01:33:39.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> matalo
+[22Dec2024 01:33:42.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Sam
+[22Dec2024 01:33:46.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> ven
+[22Dec2024 01:33:57.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> a donde
+[22Dec2024 01:33:58.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam don se cree assassins creed
+[22Dec2024 01:34:00.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> shhh
+[22Dec2024 01:34:12.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> q vrg
+[22Dec2024 01:34:23.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> esto es tan solitario
+[22Dec2024 01:34:29.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> como mi vida
+[22Dec2024 01:34:33.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> XD
+[22Dec2024 01:34:33.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> XDDD
+[22Dec2024 01:34:38.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> puta
+[22Dec2024 01:34:40.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> toronacio
+[22Dec2024 01:34:47.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> vamos
+[22Dec2024 01:34:51.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> por la torre
+[22Dec2024 01:34:58.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> help
+[22Dec2024 01:34:58.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> vengan
+[22Dec2024 01:35:00.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> me sigue un toro
+[22Dec2024 01:35:02.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> don
+[22Dec2024 01:35:04.619] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond 01
+[22Dec2024 01:35:09.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> poder univ
+[22Dec2024 01:35:12.204] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_immunity] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:35:12.204] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_particles] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:35:12.204] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_land] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:35:12.204] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_channel_sound] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[22Dec2024 01:35:12.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> DON
+[22Dec2024 01:35:16.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam
+[22Dec2024 01:35:20.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no vamos a limpiar esto de dos
+[22Dec2024 01:35:33.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Que yo que?
+[22Dec2024 01:35:36.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> MORDECAI
+[22Dec2024 01:35:43.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was slain by Spider
+[22Dec2024 01:35:47.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> a bue
+[22Dec2024 01:35:49.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Hay alguien aqui?
+[22Dec2024 01:35:53.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> no
+[22Dec2024 01:35:57.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Franxd2 moved too quickly! 0.43462606612263244,0.5009966402674877,10.097074965322918
+[22Dec2024 01:35:57.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2731ms or 54 ticks behind
+[22Dec2024 01:36:01.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> se me re lageo todo cuando entre ahi
+[22Dec2024 01:36:06.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> XD
+[22Dec2024 01:36:10.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> x2
+[22Dec2024 01:36:12.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> y eso q toy lejos
+[22Dec2024 01:36:19.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> DON
+[22Dec2024 01:36:20.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> DONDE ESTAS
+[22Dec2024 01:36:21.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> OJO
+[22Dec2024 01:36:23.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> UNA TORRE
+[22Dec2024 01:36:25.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> en la aldea
+[22Dec2024 01:36:27.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> gente pedazo de torre me encontre
+[22Dec2024 01:36:28.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> VEN
+[22Dec2024 01:36:30.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> TE NECESITAMOS
+[22Dec2024 01:36:30.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> aldea
+[22Dec2024 01:36:35.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ALDEA Y TORREEE
+[22Dec2024 01:36:41.156] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.395869f,range:8,source:{pos:[I;-110,-47,184],type:"minecraft:block"}}]
+[22Dec2024 01:36:46.993] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.1622777f,range:8,source:{pos:[I;-171,-59,114],type:"minecraft:block"}}]
+[22Dec2024 01:36:46.994] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:1.4142135f,range:8,source:{pos:[I;-176,-57,125],type:"minecraft:block"}}]
+[22Dec2024 01:36:47.000] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.4607882f,range:8,source:{pos:[I;-110,-47,196],type:"minecraft:block"}}]
+[22Dec2024 01:36:47.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> soy nivel 10
+[22Dec2024 01:36:48.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 has made the advancement [Intruder Alert]
+[22Dec2024 01:36:48.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ez
+[22Dec2024 01:36:51.022] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.3484693f,range:8,source:{pos:[I;-110,-47,208],type:"minecraft:block"}}]
+[22Dec2024 01:36:51.022] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:5.802439f,range:8,source:{pos:[I;-110,-47,214],type:"minecraft:block"}}]
+[22Dec2024 01:36:53.722] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.8740077f,range:8,source:{pos:[I;-110,-47,220],type:"minecraft:block"}}]
+[22Dec2024 01:36:58.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> don
+[22Dec2024 01:36:58.012] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-57, z=15}
+[22Dec2024 01:37:00.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> tenemo pan
+[22Dec2024 01:37:00.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> tienes arma?
+[22Dec2024 01:37:06.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> torre
+[22Dec2024 01:37:07.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> hacha
+[22Dec2024 01:37:07.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> le diste r?
+[22Dec2024 01:37:10.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> A LLA MRD
+[22Dec2024 01:37:12.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ok
+[22Dec2024 01:37:13.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> 2 BLOQUES DE ESMERALDA
+[22Dec2024 01:37:17.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> hay eco
+[22Dec2024 01:37:26.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> MAGIAA LIBRO
+[22Dec2024 01:37:27.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> busquen bloques
+[22Dec2024 01:37:28.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> vamos a subir
+[22Dec2024 01:37:32.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> arriba hay cofres
+[22Dec2024 01:37:36.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es una dungeon
+[22Dec2024 01:37:44.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cuidado
+[22Dec2024 01:37:46.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam
+[22Dec2024 01:37:48.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hay trampas
+[22Dec2024 01:38:04.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> HACHA DE DIAMANTE
+[22Dec2024 01:38:08.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ez
+[22Dec2024 01:38:10.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> EZ
+[22Dec2024 01:38:22.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 has made the advancement [Suit Up]
+[22Dec2024 01:38:28.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> espera
+[22Dec2024 01:38:29.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> don
+[22Dec2024 01:38:31.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ez
+[22Dec2024 01:38:31.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> arriba esta lleno
+[22Dec2024 01:38:32.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ez
+[22Dec2024 01:38:43.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> kate
+[22Dec2024 01:38:46.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> soy millonario
+[22Dec2024 01:38:50.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> don me robo la exp
+[22Dec2024 01:38:55.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> eu
+[22Dec2024 01:38:58.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ocmo pongo mis stats
+[22Dec2024 01:39:05.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> SUBE SAM
+[22Dec2024 01:39:08.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> YA
+[22Dec2024 01:39:11.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Sam
+[22Dec2024 01:39:32.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> de este lado
+[22Dec2024 01:39:35.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aca no hay tantos
