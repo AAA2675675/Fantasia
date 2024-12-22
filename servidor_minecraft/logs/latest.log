@@ -2922,3 +2922,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Dec2024 05:00:47.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3480ms or 69 ticks behind
 [22Dec2024 05:01:15.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [22Dec2024 05:01:15.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: awdawdad<--[HERE]
+[22Dec2024 05:04:02.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ohno
+[22Dec2024 05:04:04.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> tormenta
+[22Dec2024 05:04:07.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> XD
+[22Dec2024 05:04:40.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> trabajaba en medio de una tormenta
+[22Dec2024 05:04:45.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> XD
+[22Dec2024 05:07:15.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Nooo se llena todo de arena
+[22Dec2024 05:07:22.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> duerme
+[22Dec2024 05:07:28.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> este pueblo se llena de arena xd
+[22Dec2024 05:08:05.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> hay monstruos
+[22Dec2024 05:08:06.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> duerme
+[22Dec2024 05:08:31.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cambiamos de estacion xd
+[22Dec2024 05:08:41.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> invierno?
+[22Dec2024 05:08:44.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no
+[22Dec2024 05:08:48.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> y cual
+[22Dec2024 05:08:52.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aun no llegamos a otoño
+[22Dec2024 05:08:56.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es el final del verano
+[22Dec2024 05:09:09.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ok
+[22Dec2024 05:10:01.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> habra que ponerle domo a los cultivos y rancho
+[22Dec2024 05:10:07.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> para que no se llenen de arena
+[22Dec2024 05:10:19.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> a los cuervos les atrae las semillas
+[22Dec2024 05:10:28.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ok
+[22Dec2024 05:10:30.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hay forma de domesticarlos para que cultiven pos nosotros
+[22Dec2024 05:10:53.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ???
+[22Dec2024 05:10:58.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> XD
+[22Dec2024 05:12:06.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> le ponemos un nombre a nuestro pueblo o usamos el defailt?
+[22Dec2024 05:12:13.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> default-
+[22Dec2024 05:12:19.044] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:totem_of_undying 01
+[22Dec2024 05:12:30.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrHob lost connection: Disconnected
+[22Dec2024 05:12:30.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob left the game
