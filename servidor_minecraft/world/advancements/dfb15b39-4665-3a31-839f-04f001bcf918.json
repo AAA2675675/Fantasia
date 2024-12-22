@@ -859,77 +859,29 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
+      "bread": "2024-12-21 23:22:16 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
+      "has_log": "2024-12-21 23:23:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
+      "has_logs": "2024-12-21 23:23:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
+      "has_log": "2024-12-21 23:23:15 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
@@ -940,12 +892,6 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-21 23:23:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2024-12-21 23:32:34 +0000"
     },
     "done": true
   },
@@ -967,12 +913,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2024-12-21 23:32:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-21 23:23:27 +0000"
@@ -991,12 +931,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-12-21 23:23:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-21 23:23:27 +0000"
@@ -1009,33 +943,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2024-12-21 23:23:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-21 23:23:27 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2024-12-21 23:22:16 +0000"
-    },
-    "done": false
-  },
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2024-12-21 23:23:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-21 23:23:15 +0000"
     },
     "done": true
   },
@@ -1044,6 +960,90 @@
       "crafting_table": "2024-12-21 23:23:29 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-21 23:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-21 23:32:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 01:13:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 01:13:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 01:13:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 01:13:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 01:13:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 01:13:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 01:13:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 01:13:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 01:13:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 01:13:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 01:13:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 01:13:04 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

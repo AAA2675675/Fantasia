@@ -1,33 +1,166 @@
 {
-  "minecraft:recipes/misc/melon_seeds": {
+  "stellarity:cursed_tome/root": {
     "criteria": {
-      "has_melon": "2024-12-21 23:17:10 +0000"
+      "requirement": "2024-12-21 22:51:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_stick": "2024-12-21 23:32:34 +0000"
+      "unlock_right_away": "2024-12-21 22:51:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_leggings": {
+  "mowziesmobs:root": {
     "criteria": {
-      "has_iron_ingot": "2024-12-21 23:26:24 +0000"
+      "custom_test_name": "2024-12-21 22:51:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
+  "eeeabsmobs:eeeabsmobs/root": {
     "criteria": {
-      "has_diamond": "2024-12-21 23:33:29 +0000"
+      "requirement": "2024-12-21 22:51:53 +0000"
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "cataclysm:root": {
     "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
+      "custom_test_name": "2024-12-21 22:51:53 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-12-21 22:51:53 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-12-21 22:51:53 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:root": {
+    "criteria": {
+      "sample_trigger": "2024-12-21 22:51:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-12-21 22:51:53 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-21 22:51:54 +0000"
     },
     "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-21 22:51:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-21 22:51:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2024-12-21 22:51:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-21 22:51:54 +0000"
+    },
+    "done": false
+  },
+  "mca:root": {
+    "criteria": {
+      "village_desert": "2024-12-21 22:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-21 23:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:husk": "2024-12-21 23:03:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-21 23:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:husk": "2024-12-21 23:03:17 +0000"
+    },
+    "done": true
+  },
+  "memory_of_the_past:first_level_up": {
+    "criteria": {
+      "first_level_up_0": "2024-12-21 23:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-21 23:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-12-21 23:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-21 23:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-21 23:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-21 23:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-21 23:34:47 +0000",
+      "beetroot": "2024-12-21 23:13:49 +0000"
+    },
+    "done": false
+  },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2024-12-21 23:13:57 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
@@ -35,15 +168,57 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
+      "has_iron_axe": "2024-12-21 23:14:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/tools/golden_axe": {
+  "minecraft:recipes/redstone/target": {
     "criteria": {
-      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
+      "has_hay_block": "2024-12-21 23:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-21 23:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-21 23:17:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-21 23:17:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-21 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-21 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-21 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-21 23:26:24 +0000"
     },
     "done": true
   },
@@ -59,39 +234,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2024-12-21 23:32:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 23:26:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2024-12-21 23:33:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2024-12-21 23:33:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
     },
     "done": true
   },
@@ -107,27 +252,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2024-12-21 23:33:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 23:26:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2024-12-21 23:13:44 +0000"
     },
     "done": true
   },
@@ -137,69 +264,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2024-12-21 23:27:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2024-12-21 23:27:47 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2024-12-21 23:32:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/root": {
-    "criteria": {
-      "requirement": "2024-12-21 22:51:53 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
-    },
-    "done": false
-  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-21 23:26:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2024-12-21 22:51:53 +0000"
     },
     "done": true
   },
@@ -215,51 +282,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2024-12-21 23:32:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2024-12-21 23:27:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-21 23:02:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2024-12-21 23:33:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:husk": "2024-12-21 23:03:17 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 23:26:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2024-12-21 23:27:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
     },
     "done": true
   },
@@ -269,39 +294,9 @@
     },
     "done": true
   },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2024-12-21 22:51:53 +0000"
-    },
-    "done": true
-  },
-  "memory_of_the_past:first_level_up": {
-    "criteria": {
-      "first_level_up_0": "2024-12-21 23:03:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2024-12-21 23:26:41 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 23:26:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2024-12-21 23:32:34 +0000"
     },
     "done": true
   },
@@ -317,129 +312,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2024-12-21 23:17:07 +0000"
-    },
-    "done": true
-  },
-  "eeeabsmobs:eeeabsmobs/root": {
-    "criteria": {
-      "requirement": "2024-12-21 22:51:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2024-12-21 23:32:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2024-12-21 23:27:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2024-12-21 23:17:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_hay_block": "2024-12-21 23:17:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-21 23:13:49 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2024-12-21 23:33:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2024-12-21 23:33:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2024-12-21 23:03:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2024-12-21 22:51:53 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2024-12-21 23:26:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2024-12-21 23:27:47 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/new_player": {
-    "criteria": {
-      "requirement": "2024-12-21 22:51:53 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-21 23:32:46 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-21 23:32:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2024-12-21 23:33:29 +0000"
     },
     "done": true
   },
@@ -452,12 +327,6 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 23:26:24 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
-    "criteria": {
-      "rat_upgrade_basic": "2024-12-21 23:27:21 +0000"
     },
     "done": true
   },
@@ -479,42 +348,6 @@
     },
     "done": true
   },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 22:51:54 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2024-12-21 23:17:10 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/root": {
-    "criteria": {
-      "requirement": "2024-12-21 22:51:53 +0000"
-    },
-    "done": true
-  },
-  "totw_modded:root": {
-    "criteria": {
-      "sample_trigger": "2024-12-21 22:51:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2024-12-21 23:27:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2024-12-21 23:32:34 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2024-12-21 23:26:24 +0000"
@@ -527,45 +360,165 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 22:51:54 +0000"
-    },
-    "done": false
-  },
-  "stellarity:events/on_death": {
-    "criteria": {
-      "requirement": "2024-12-21 23:13:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 23:26:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
+  "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
-      "has_coal": "2024-12-21 23:03:23 +0000"
+      "has_iron_ingot": "2024-12-21 23:26:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
+  "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
-      "has_beetroot": "2024-12-21 23:13:44 +0000"
+      "has_iron_ingot": "2024-12-21 23:26:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
+  "minecraft:recipes/tools/iron_axe": {
     "criteria": {
-      "has_planks": "2024-12-21 23:32:46 +0000"
+      "has_iron_ingot": "2024-12-21 23:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-21 23:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-21 23:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-21 23:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-21 23:26:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_4": "2024-12-21 23:26:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-21 23:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-21 23:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-21 23:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-21 23:27:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2024-12-21 23:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-21 23:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-21 23:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-21 23:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-21 23:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-21 23:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-21 23:27:47 +0000"
+    },
+    "done": true
+  },
+  "weather2:recipes/misc/weather_item": {
+    "criteria": {
+      "has_redstone": "2024-12-21 23:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-21 23:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-21 23:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-21 23:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-21 23:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-21 23:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-21 23:32:34 +0000"
     },
     "done": true
   },
@@ -587,111 +540,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-21 23:26:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2024-12-21 23:33:29 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/jungle_sign": {
-    "criteria": {
-      "has_planks": "2024-12-21 23:32:46 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:squireofthe_dark_lord": {
-    "criteria": {
-      "squireofthe_dark_lord_4": "2024-12-21 23:26:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2024-12-21 23:27:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_door": {
-    "criteria": {
-      "has_planks": "2024-12-21 23:32:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2024-12-21 23:17:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-21 23:32:34 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 22:51:54 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/iron_trapdoor": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-21 23:26:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-12-21 23:03:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_fence": {
-    "criteria": {
-      "has_planks": "2024-12-21 23:32:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2024-12-21 23:27:47 +0000"
-    },
-    "done": true
-  },
-  "mca:root": {
-    "criteria": {
-      "village_desert": "2024-12-21 22:57:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-21 23:32:46 +0000"
     },
     "done": true
   },
@@ -701,45 +552,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_axe": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
-      "has_iron_ingot": "2024-12-21 23:26:24 +0000"
+      "has_planks": "2024-12-21 23:32:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/crossbow": {
+  "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
-      "has_iron_ingot": "2024-12-21 23:26:24 +0000"
+      "has_planks": "2024-12-21 23:32:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+  "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
-      "has_porkchop": "2024-12-21 23:27:06 +0000"
+      "has_planks": "2024-12-21 23:32:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+  "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
-      "has_iron_axe": "2024-12-21 23:14:15 +0000"
+      "has_planks": "2024-12-21 23:32:46 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
-      "minecraft:husk": "2024-12-21 23:03:17 +0000"
+      "has_planks": "2024-12-21 23:32:46 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
-      "minecraft:desert": "2024-12-21 22:51:54 +0000"
+      "has_planks": "2024-12-21 23:32:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "weather2:recipes/misc/weather_item": {
+  "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
-      "has_redstone": "2024-12-21 23:27:47 +0000"
+      "has_planks": "2024-12-21 23:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:32:46 +0000"
     },
     "done": true
   },
@@ -749,64 +612,9 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2024-12-21 23:33:29 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 23:34:13 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2024-12-21 23:17:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2024-12-21 23:34:47 +0000",
-      "beetroot": "2024-12-21 23:13:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-21 22:51:54 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2024-12-21 22:51:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2024-12-21 23:33:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2024-12-21 23:33:29 +0000"
+      "has_planks": "2024-12-21 23:32:46 +0000"
     },
     "done": true
   },
@@ -822,21 +630,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_slab": {
+  "minecraft:recipes/tools/golden_axe": {
     "criteria": {
-      "has_planks": "2024-12-21 23:32:46 +0000"
+      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/iron_door": {
+  "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
-      "has_iron_ingot": "2024-12-21 23:26:24 +0000"
+      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+  "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
-      "has_iron_ingot": "2024-12-21 23:26:24 +0000"
+      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 23:33:26 +0000"
     },
     "done": true
   },
@@ -846,9 +708,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
-      "has_redstone": "2024-12-21 23:27:47 +0000"
+      "has_diamond": "2024-12-21 23:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-21 23:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:33:29 +0000"
     },
     "done": true
   },
