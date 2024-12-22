@@ -674,6 +674,7 @@
       "potato": "2024-12-22 01:25:31 +0000",
       "pumpkin_pie": "2024-12-22 01:28:35 +0000",
       "golden_apple": "2024-12-22 03:18:41 +0000",
+      "bread": "2024-12-22 20:10:06 +0000",
       "melon_slice": "2024-12-22 04:30:25 +0000",
       "beetroot": "2024-12-22 03:08:18 +0000",
       "golden_carrot": "2024-12-22 04:06:28 +0000",
@@ -2038,9 +2039,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-22 20:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-22 20:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-22 19:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-22 20:07:49 +0000"
     },
     "done": true
   },
@@ -2050,9 +2069,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-22 20:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-22 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-22 20:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-22 20:04:37 +0000"
     },
     "done": true
   },
@@ -2062,15 +2099,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-22 20:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-22 20:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-22 19:59:22 +0000"
     },
     "done": true
   },
+  "weather2:recipes/misc/weather_item": {
+    "criteria": {
+      "has_redstone": "2024-12-22 20:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-12-22 20:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-22 20:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-22 20:04:37 +0000"
     },
     "done": true
   },
