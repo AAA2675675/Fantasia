@@ -1042,7 +1042,8 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
-      "dirt": "2024-12-22 01:55:39 +0000"
+      "dirt": "2024-12-22 01:55:39 +0000",
+      "earthen_clay": "2024-12-22 04:50:14 +0000"
     },
     "done": false
   },
