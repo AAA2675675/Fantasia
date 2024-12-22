@@ -2187,3 +2187,105 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Dec2024 02:49:50.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Skeleton
 [22Dec2024 02:50:09.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 was slain by Zombie
 [22Dec2024 02:50:16.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> 🥲🥲🥲
+[22Dec2024 02:50:48.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: don_eoatxd was slain by Spider
+[22Dec2024 02:51:06.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> traigan a mate
+[22Dec2024 02:51:12.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cambio de estacion
+[22Dec2024 02:51:16.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ya debe ser otoño
+[22Dec2024 02:51:18.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> me canse de estar solo
+[22Dec2024 02:52:02.019] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:lapis_lazuli 32
+[22Dec2024 02:52:05.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya no quiero vivir
+[22Dec2024 02:52:14.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> este juego me desarrollo depresion
+[22Dec2024 02:52:44.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mira esto xd
+[22Dec2024 02:52:49.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob drowned
+[22Dec2024 02:54:09.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> te ves como mi bisabuela
+[22Dec2024 02:54:14.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> fea y arrugada
+[22Dec2024 02:54:16.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> XD
+[22Dec2024 02:54:19.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> matenme
+[22Dec2024 02:54:20.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Drowned
+[22Dec2024 02:54:21.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hala la palanca
+[22Dec2024 02:54:24.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aca
+[22Dec2024 02:54:29.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrHob lost connection: Disconnected
+[22Dec2024 02:54:29.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob left the game
+[22Dec2024 02:55:06.442] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c9d32d0[id=<null>,name=MrHob,properties={},legacy=false] (/127.131.136.135:49163) lost connection: Disconnected
+[22Dec2024 02:55:39.919] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[22Dec2024 02:55:39.995] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[22Dec2024 02:55:40.070] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[22Dec2024 02:55:40.074] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[22Dec2024 02:55:40.145] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[22Dec2024 02:55:40.220] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[22Dec2024 02:55:40.220] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[22Dec2024 02:55:40.294] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[22Dec2024 02:55:40.370] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[22Dec2024 02:55:40.370] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[22Dec2024 02:55:40.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> afk
+[22Dec2024 02:55:40.445] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[22Dec2024 02:55:40.515] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[22Dec2024 02:55:41.147] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[22Dec2024 02:55:41.148] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[22Dec2024 02:55:41.148] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[22Dec2024 02:55:41.151] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[22Dec2024 02:55:43.863] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrHob[/127.131.136.135:50937] logged in with entity id 37075 at (-134.61997494570215, 47.0, 351.1283254322608)
+[22Dec2024 02:55:43.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob joined the game
+[22Dec2024 02:55:43.931] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to MrHob
+[22Dec2024 02:55:44.123] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from MrHob
+[22Dec2024 02:55:55.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> odio todo
+[22Dec2024 02:55:58.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> XD
+[22Dec2024 02:56:08.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> pa que se iba de la aldea xd
+[22Dec2024 02:56:17.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> los estaba buscando para no estar solo
+[22Dec2024 02:56:26.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> pero luego llego mate
+[22Dec2024 02:56:30.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> asi que me iva a devolver
+[22Dec2024 02:56:32.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> y se fue
+[22Dec2024 02:56:42.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ven
+[22Dec2024 02:56:44.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hob
+[22Dec2024 02:57:23.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Como
+[22Dec2024 02:57:23.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aca
+[22Dec2024 02:57:28.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cat
+[22Dec2024 02:57:31.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> la palanca
+[22Dec2024 02:57:34.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no se si es trampa
+[22Dec2024 02:57:36.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> jalala tu
+[22Dec2024 02:57:41.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> a
+[22Dec2024 02:57:50.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> esper
+[22Dec2024 02:58:01.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MrHob to Katee555
+[22Dec2024 02:58:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> si sobrevives te quedas
+[22Dec2024 02:58:09.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Hob?
+[22Dec2024 02:58:10.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Perdon la costumbre
+[22Dec2024 02:58:17.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Gente
+[22Dec2024 02:58:23.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Estoy socializando
+[22Dec2024 02:58:35.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> la bajada
+[22Dec2024 02:58:59.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> vamos al siguiente nivel
+[22Dec2024 02:59:04.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> les traje un regalo
+[22Dec2024 02:59:12.574] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[22Dec2024 02:59:12.622] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[22Dec2024 02:59:12.710] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[22Dec2024 02:59:12.743] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[22Dec2024 02:59:12.812] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[22Dec2024 02:59:12.813] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[22Dec2024 02:59:12.901] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[22Dec2024 02:59:12.942] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[22Dec2024 02:59:12.989] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[22Dec2024 02:59:12.992] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[22Dec2024 02:59:13.077] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[22Dec2024 02:59:13.138] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[22Dec2024 02:59:14.357] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[22Dec2024 02:59:14.391] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[22Dec2024 02:59:14.391] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[22Dec2024 02:59:14.392] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[22Dec2024 02:59:16.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aca empieza lo dificil
+[22Dec2024 02:59:16.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabriel2011992[/127.59.111.131:57549] logged in with entity id 37542 at (-98.5, 64.0, 263.5)
+[22Dec2024 02:59:16.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 joined the game
+[22Dec2024 02:59:16.554] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Gabriel2011992
+[22Dec2024 02:59:17.586] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Gabriel2011992
+[22Dec2024 02:59:23.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> creo que son 9 niveles
+[22Dec2024 02:59:26.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> eso es lo que consegui en mi aventura
+[22Dec2024 03:00:02.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> quien es gabriel?
+[22Dec2024 03:00:03.753] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:gold_block 03
+[22Dec2024 03:00:07.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no se
+[22Dec2024 03:00:26.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Kate
+[22Dec2024 03:00:34.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Hob y yo nos perdimos
+[22Dec2024 03:00:39.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> ah hola
+[22Dec2024 03:00:42.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> donde empezamos
+[22Dec2024 03:00:48.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no
+[22Dec2024 03:00:50.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aca no
+[22Dec2024 03:00:54.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aca
+[22Dec2024 03:00:56.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mejor no
+[22Dec2024 03:00:58.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aca
