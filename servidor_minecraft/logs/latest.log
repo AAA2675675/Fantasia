@@ -3026,3 +3026,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Dec2024 05:29:42.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
 [22Dec2024 05:39:41.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
 [22Dec2024 05:39:46.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[22Dec2024 05:47:58.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Dec2024 05:47:58.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdadawd<--[HERE]
+[22Dec2024 05:50:13.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 has made the advancement [A Seedy Place]
+[22Dec2024 05:50:26.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[22Dec2024 05:51:18.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Survival Mode
