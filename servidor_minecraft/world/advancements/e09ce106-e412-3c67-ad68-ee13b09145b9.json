@@ -1822,6 +1822,12 @@
     },
     "done": true
   },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "earthen_clay": "2024-12-22 05:29:48 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-22 01:55:48 +0000"

@@ -3020,3 +3020,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Dec2024 05:17:21.646] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 10 ms
 [22Dec2024 05:17:23.594] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 7 ms
 [22Dec2024 05:17:23.763] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 7 ms
+[22Dec2024 05:24:29.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Dec2024 05:24:29.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dwada<--[HERE]
+[22Dec2024 05:24:40.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Creative Mode
+[22Dec2024 05:29:42.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
