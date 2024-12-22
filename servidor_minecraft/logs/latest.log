@@ -3024,3 +3024,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Dec2024 05:24:29.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dwada<--[HERE]
 [22Dec2024 05:24:40.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Creative Mode
 [22Dec2024 05:29:42.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[22Dec2024 05:39:41.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
+[22Dec2024 05:39:46.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
