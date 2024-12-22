@@ -162,6 +162,7 @@
     "criteria": {
       "cooked_beef": "2024-12-22 02:49:29 +0000",
       "bread": "2024-12-21 23:34:47 +0000",
+      "golden_apple": "2024-12-22 03:56:24 +0000",
       "melon_slice": "2024-12-22 01:28:27 +0000",
       "beetroot": "2024-12-21 23:13:49 +0000"
     },
@@ -1424,6 +1425,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2024-12-22 02:05:28 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/vitrified_sand": {
+    "criteria": {
+      "has_copper_block": "2024-12-22 03:50:15 +0000"
     },
     "done": true
   },
