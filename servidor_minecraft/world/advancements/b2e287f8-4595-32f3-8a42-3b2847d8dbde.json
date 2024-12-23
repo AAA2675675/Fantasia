@@ -2061,6 +2061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-23 00:05:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-12-22 23:36:24 +0000"
@@ -2100,6 +2106,18 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-22 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2024-12-23 00:10:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-12-23 00:10:12 +0000"
     },
     "done": true
   },
@@ -2154,6 +2172,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-12-22 20:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-23 00:10:12 +0000"
     },
     "done": true
   },
@@ -2559,6 +2583,18 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-23 00:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-23 00:14:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-22 23:36:24 +0000"
@@ -2610,6 +2646,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-22 20:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-23 00:14:17 +0000"
     },
     "done": true
   },
@@ -2733,6 +2775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-23 00:14:17 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_foliaath": {
     "criteria": {
       "foliaath": "2024-12-22 23:07:28 +0000"
@@ -2760,6 +2808,12 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-22 21:16:15 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/crying_obsidian_with_popped_chorus": {
+    "criteria": {
+      "has_item1": "2024-12-23 00:14:17 +0000"
     },
     "done": true
   },
