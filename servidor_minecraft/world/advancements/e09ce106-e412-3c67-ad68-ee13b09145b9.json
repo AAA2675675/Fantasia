@@ -2438,5 +2438,29 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2024-12-23 00:45:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-23 00:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-23 00:31:51 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2024-12-23 00:27:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

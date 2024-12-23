@@ -88,6 +88,7 @@
       "minecraft:ocean": "2024-12-22 02:27:08 +0000",
       "minecraft:warm_ocean": "2024-12-21 23:21:27 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-21 23:25:17 +0000",
+      "minecraft:flower_forest": "2024-12-23 00:44:38 +0000",
       "minecraft:frozen_peaks": "2024-12-22 01:49:31 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-22 02:20:38 +0000",
       "minecraft:meadow": "2024-12-21 23:06:59 +0000",
@@ -133,6 +134,7 @@
       "potato": "2024-12-21 22:58:47 +0000",
       "pumpkin_pie": "2024-12-21 23:02:04 +0000",
       "bread": "2024-12-22 01:49:32 +0000",
+      "melon_slice": "2024-12-23 00:43:11 +0000",
       "beetroot": "2024-12-22 01:35:21 +0000"
     },
     "done": false
@@ -1842,77 +1844,125 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 00:15:50 +0000"
+      "has_melon": "2024-12-23 00:38:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 00:15:50 +0000"
+      "has_planks": "2024-12-23 00:47:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 00:15:50 +0000"
+      "has_mutton": "2024-12-23 00:43:47 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 00:15:50 +0000"
+      "has_planks": "2024-12-23 00:47:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 00:15:50 +0000"
+      "has_planks": "2024-12-23 00:47:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 00:15:50 +0000"
+      "has_planks": "2024-12-23 00:47:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 00:15:50 +0000"
+      "has_planks": "2024-12-23 00:47:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 00:15:50 +0000"
+      "has_planks": "2024-12-23 00:47:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 00:15:50 +0000"
+      "has_planks": "2024-12-23 00:47:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "nova_structures:root": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 00:15:50 +0000"
+      "nova_structures:adventure/find_tavern": "2024-12-23 00:38:21 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 00:15:50 +0000"
+      "has_planks": "2024-12-23 00:47:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 00:15:50 +0000"
+      "has_melon": "2024-12-23 00:38:46 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-12-23 00:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-23 00:43:47 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_acacia": "2024-12-23 00:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-23 00:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-23 00:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-23 00:43:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2024-12-23 00:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-23 00:47:03 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
