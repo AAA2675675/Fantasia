@@ -75,13 +75,16 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-22 02:08:33 +0000",
       "minecraft:taiga": "2024-12-22 01:50:10 +0000",
+      "minecraft:cherry_grove": "2024-12-23 01:06:53 +0000",
       "minecraft:birch_forest": "2024-12-22 02:19:32 +0000",
+      "minecraft:savanna_plateau": "2024-12-23 01:01:25 +0000",
       "minecraft:beach": "2024-12-21 23:17:26 +0000",
       "minecraft:lukewarm_ocean": "2024-12-21 23:18:24 +0000",
       "minecraft:river": "2024-12-21 22:58:14 +0000",
       "minecraft:snowy_plains": "2024-12-21 22:46:11 +0000",
       "minecraft:stony_shore": "2024-12-21 23:20:22 +0000",
       "minecraft:grove": "2024-12-22 01:49:01 +0000",
+      "minecraft:jagged_peaks": "2024-12-23 01:03:45 +0000",
       "minecraft:forest": "2024-12-21 22:45:09 +0000",
       "minecraft:desert": "2024-12-21 22:44:00 +0000",
       "minecraft:jungle": "2024-12-21 23:34:35 +0000",
@@ -1874,6 +1877,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2024-12-23 00:48:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-23 00:47:03 +0000"
@@ -1910,6 +1919,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by_head": "2024-12-23 01:07:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2024-12-23 00:38:46 +0000"
@@ -1940,6 +1955,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-23 01:16:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2024-12-23 00:38:46 +0000"
@@ -1952,6 +1973,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2024-12-23 00:49:35 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2024-12-23 00:42:50 +0000"
@@ -1961,6 +1988,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-12-23 00:47:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-23 01:16:53 +0000"
     },
     "done": true
   },
