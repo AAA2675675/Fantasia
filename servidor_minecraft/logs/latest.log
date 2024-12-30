@@ -9984,3 +9984,106 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 23:15:31.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> en la piramide
 [30Dec2024 23:15:44.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> te dije que salieras ven a esta aldea en la saban
 [30Dec2024 23:15:47.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya va
+[30Dec2024 23:16:54.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 23:16:54.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hghj<--[HERE]
+[30Dec2024 23:17:27.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya estoy saliendo
+[30Dec2024 23:18:53.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> y la salida
+[30Dec2024 23:19:24.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> alfin
+[30Dec2024 23:19:45.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> y el otro bioma
+[30Dec2024 23:19:59.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> ven a las coordenadas
+[30Dec2024 23:20:04.405] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Dec2024 23:20:04.434] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Dec2024 23:20:04.469] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Dec2024 23:20:04.470] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Dec2024 23:20:04.470] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Dec2024 23:20:04.512] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Dec2024 23:20:04.512] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Dec2024 23:20:04.512] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Dec2024 23:20:04.552] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Dec2024 23:20:04.553] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Dec2024 23:20:04.553] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Dec2024 23:20:04.553] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Dec2024 23:20:05.977] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Dec2024 23:20:06.008] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Dec2024 23:20:06.008] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Dec2024 23:20:06.049] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30Dec2024 23:20:08.420] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Katee555[/127.157.207.16:59735] logged in with entity id 35231 at (-1541.0446472033018, 79.25220334025373, -2155.1631962625133)
+[30Dec2024 23:20:08.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 joined the game
+[30Dec2024 23:20:08.485] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Katee555
+[30Dec2024 23:20:08.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 23:20:08.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ghjg4<--[HERE]
+[30Dec2024 23:20:09.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> 1367 82 3875
+[30Dec2024 23:20:12.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Hot Stuff]
+[30Dec2024 23:20:14.318] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Katee555
+[30Dec2024 23:20:20.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 was kicked for floating too long!
+[30Dec2024 23:20:20.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 lost connection: Flying is not enabled on this server
+[30Dec2024 23:20:20.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 left the game
+[30Dec2024 23:20:28.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> xd
+[30Dec2024 23:20:41.553] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Valdemar'/31782, l='ServerLevel[world]', x=-1367.77, y=82.06, z=-3875.33] died, message: 'Valdemar was slain by Zombie'
+[30Dec2024 23:20:41.554] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Valdemar'/31782, l='ServerLevel[world]', x=-1367.77, y=82.06, z=-3875.33] died: Valdemar was slain by Zombie
+[30Dec2024 23:20:46.411] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Dec2024 23:20:46.515] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Dec2024 23:20:46.516] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Dec2024 23:20:46.619] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Dec2024 23:20:46.619] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Dec2024 23:20:46.724] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Dec2024 23:20:46.724] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Dec2024 23:20:46.826] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Dec2024 23:20:46.854] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Dec2024 23:20:46.929] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Dec2024 23:20:46.929] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Dec2024 23:20:47.008] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Dec2024 23:20:47.608] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Dec2024 23:20:47.608] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Dec2024 23:20:47.648] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Dec2024 23:20:47.649] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30Dec2024 23:20:50.418] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Katee555[/127.157.207.16:51815] logged in with entity id 35928 at (-1541.0446472033018, 79.25220334025373, -2155.1631962625133)
+[30Dec2024 23:20:50.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 joined the game
+[30Dec2024 23:20:50.611] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Katee555
+[30Dec2024 23:20:52.199] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mirja'/31783, l='ServerLevel[world]', x=-1373.04, y=82.00, z=-3882.97] died, message: 'Mirja was slain by Elephant'
+[30Dec2024 23:20:52.200] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mirja'/31783, l='ServerLevel[world]', x=-1373.04, y=82.00, z=-3882.97] died: Mirja was slain by Elephant
+[30Dec2024 23:20:52.693] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Katee555
+[30Dec2024 23:21:06.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 23:21:06.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jkj<--[HERE]
+[30Dec2024 23:21:08.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> s
+[30Dec2024 23:21:08.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> samuel
+[30Dec2024 23:21:11.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Qu
+[30Dec2024 23:21:21.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> te falta mucho
+[30Dec2024 23:21:24.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> no
+[30Dec2024 23:21:27.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> no quiere avanzar sin ti
+[30Dec2024 23:21:42.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Nightmare Stalker
+[30Dec2024 23:21:46.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrHob lost connection: Disconnected
+[30Dec2024 23:21:46.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob left the game
+[30Dec2024 23:21:48.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> diablazo
+[30Dec2024 23:22:07.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> bonita cabeza kate
+[30Dec2024 23:23:12.538] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/36941, l='ServerLevel[world]', x=-1533.27, y=79.00, z=-2141.20] died: Desert Blaze was slain by Katee555
+[30Dec2024 23:23:33.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> si una abisma del infierno sale por ese portal va a spawnear un boss
+[30Dec2024 23:23:51.544] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Aku'/31780, l='ServerLevel[world]', x=-1368.61, y=85.51, z=-3878.51] died, message: 'Aku was slain by Elephant'
+[30Dec2024 23:23:51.544] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Aku'/31780, l='ServerLevel[world]', x=-1368.61, y=85.51, z=-3878.51] died: Aku was slain by Elephant
+[30Dec2024 23:24:16.499] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e509c78[id=<null>,name=MrHob,properties={},legacy=false] (/127.47.144.244:39865) lost connection: Disconnected
+[30Dec2024 23:24:26.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> NOOO EL PORTAL
+[30Dec2024 23:24:35.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> XD
+[30Dec2024 23:24:35.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was burnt to a crisp whilst fighting Desert Blaze
+[30Dec2024 23:24:45.874] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Dec2024 23:24:45.876] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Dec2024 23:24:45.876] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Dec2024 23:24:45.881] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Dec2024 23:24:45.888] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Dec2024 23:24:45.894] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Dec2024 23:24:45.936] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Dec2024 23:24:45.937] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Dec2024 23:24:45.937] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Dec2024 23:24:45.937] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Dec2024 23:24:45.937] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Dec2024 23:24:45.937] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Dec2024 23:24:47.296] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Dec2024 23:24:47.300] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Dec2024 23:24:47.340] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Dec2024 23:24:47.341] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30Dec2024 23:24:49.211] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrHob[/127.47.144.244:42357] logged in with entity id 37496 at (-1371.641561001372, 73.0, -3573.059157749038)
+[30Dec2024 23:24:49.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob joined the game
+[30Dec2024 23:24:49.267] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to MrHob
+[30Dec2024 23:24:50.624] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from MrHob
+[30Dec2024 23:25:07.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> se apago del otro lado
+[30Dec2024 23:26:12.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> volvi
+[30Dec2024 23:26:34.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> como que 7 lingotes de netherite

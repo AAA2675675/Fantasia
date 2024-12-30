@@ -2438,9 +2438,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+  "cataclysm:find_cursed_pyramid": {
     "criteria": {
-      "has_magnet_upgrade": "2024-12-23 00:45:01 +0000"
+      "pyramid": "2024-12-23 00:27:44 +0000"
     },
     "done": true
   },
@@ -2456,9 +2456,9 @@
     },
     "done": false
   },
-  "cataclysm:find_cursed_pyramid": {
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
     "criteria": {
-      "pyramid": "2024-12-23 00:27:44 +0000"
+      "has_magnet_upgrade": "2024-12-23 00:45:01 +0000"
     },
     "done": true
   },
