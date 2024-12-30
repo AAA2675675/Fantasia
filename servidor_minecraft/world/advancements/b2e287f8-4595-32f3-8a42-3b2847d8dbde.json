@@ -127,7 +127,8 @@
       "minecraft:husk": "2024-12-22 04:06:40 +0000",
       "minecraft:enderman": "2024-12-22 02:14:39 +0000",
       "minecraft:stray": "2024-12-22 03:18:45 +0000",
-      "minecraft:zombie": "2024-12-22 01:15:21 +0000"
+      "minecraft:zombie": "2024-12-22 01:15:21 +0000",
+      "minecraft:zombie_villager": "2024-12-30 21:20:03 +0000"
     },
     "done": false
   },
@@ -684,6 +685,7 @@
       "melon_slice": "2024-12-22 04:30:25 +0000",
       "beetroot": "2024-12-22 03:08:18 +0000",
       "golden_carrot": "2024-12-22 04:06:28 +0000",
+      "enchanted_golden_apple": "2024-12-30 21:20:39 +0000",
       "carrot": "2024-12-22 02:21:13 +0000"
     },
     "done": false
@@ -2970,6 +2972,13 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2024-12-30 21:21:09 +0000",
+      "charm_collector_3": "2024-12-30 21:21:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-30 21:11:58 +0000"
@@ -3027,6 +3036,18 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 21:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-30 21:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-30 21:15:21 +0000"
     },
     "done": true
   },
@@ -3120,6 +3141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-30 21:21:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 21:07:46 +0000"
@@ -3174,6 +3201,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2024-12-30 21:21:08 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/dune_blaze": {
     "criteria": {
       "requirement": "2024-12-30 20:51:13 +0000"
@@ -3195,6 +3228,12 @@
   "minecraft:recipes/decorations/red_sandstone_wall": {
     "criteria": {
       "has_red_sandstone": "2024-12-30 20:54:16 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-12-30 21:19:58 +0000"
     },
     "done": true
   },

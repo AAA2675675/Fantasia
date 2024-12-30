@@ -9183,3 +9183,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 21:15:23.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Que
 [30Dec2024 21:15:29.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ESTAN RAIDEANDO LA BASE
 [30Dec2024 21:15:36.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> AY NO JODA
+[30Dec2024 21:16:05.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 21:16:05.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: swd<--[HERE]
+[30Dec2024 21:16:35.293] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 21:16:35.395] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 21:16:44.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> mr no me muero
+[30Dec2024 21:17:26.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> parece que no iniciado la raid
+[30Dec2024 21:17:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> cuantos diamantes quieres cariño ?
+[30Dec2024 21:17:34.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> es que esta aldea esta muerta
+[30Dec2024 21:17:58.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> cuantos diamantes quieres ?
+[30Dec2024 21:18:04.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> todos los que sea
+[30Dec2024 21:18:15.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> a cambio te mostrare algo
+[30Dec2024 21:18:24.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> que
+[30Dec2024 21:18:31.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> un stack
+[30Dec2024 21:18:34.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> tranquilo
+[30Dec2024 21:18:59.064] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/9323, l='ServerLevel[world]', x=-1482.49, y=4.00, z=-2197.88]
+[30Dec2024 21:19:01.699] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/9325, l='ServerLevel[world]', x=-1482.10, y=4.00, z=-2196.53]
+[30Dec2024 21:19:04.201] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/9326, l='ServerLevel[world]', x=-1482.43, y=4.00, z=-2197.84]
+[30Dec2024 21:19:06.704] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/9337, l='ServerLevel[world]', x=-1482.02, y=4.00, z=-2195.21]
+[30Dec2024 21:19:09.907] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/9367, l='ServerLevel[world]', x=-1482.66, y=4.00, z=-2198.07]
+[30Dec2024 21:19:13.610] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/9381, l='ServerLevel[world]', x=-1474.06, y=6.23, z=-2197.16]
+[30Dec2024 21:19:23.054] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/9439, l='ServerLevel[world]', x=-1479.65, y=7.00, z=-2199.88]
+[30Dec2024 21:19:42.558] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/9499, l='ServerLevel[world]', x=-1477.88, y=6.00, z=-2194.19]
+[30Dec2024 21:19:45.158] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/9510, l='ServerLevel[world]', x=-1477.93, y=6.00, z=-2193.38]
+[30Dec2024 21:19:58.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Junior Summoner]
+[30Dec2024 21:20:14.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 21:20:14.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdawdaw<--[HERE]
+[30Dec2024 21:20:42.353] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond_leggings{Enchantments:[{id:"minecraft:protection",lvl:1}]} 01
+[30Dec2024 21:20:42.355] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:totem_of_undying 01
+[30Dec2024 21:21:08.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has reached the goal [Dark Creator]
+[30Dec2024 21:21:11.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> gg
+[30Dec2024 21:21:17.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> que hiciste
+[30Dec2024 21:21:22.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> mate un boss raro
+[30Dec2024 21:22:01.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> ya voy a llevarte los diamantes querido
+[30Dec2024 21:22:07.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 tried to swim in lava
+[30Dec2024 21:22:14.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> INICIO LA RAID
+[30Dec2024 21:22:19.046] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/10239, l='ServerLevel[world]', x=-1480.72, y=5.00, z=-2194.97]
+[30Dec2024 21:22:50.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 has made the advancement [Voluntary Exile]
+[30Dec2024 21:22:54.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Deceived Hopes]
+[30Dec2024 21:23:14.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> mira lo que consegui
+[30Dec2024 21:23:47.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> por cierto te traje 25 diamantes
+[30Dec2024 21:23:54.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> guardalos en mi cofre
+[30Dec2024 21:23:59.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> gracias
+[30Dec2024 21:24:03.012] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:ancient_debris 01
+[30Dec2024 21:25:09.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> nos estan haciendo una raid ?
+[30Dec2024 21:25:16.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> si

@@ -390,6 +390,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-12-30 20:57:09 +0000",
+      "minecraft:pillager": "2024-12-30 21:22:42 +0000",
       "minecraft:skeleton": "2024-12-22 03:09:10 +0000",
       "minecraft:spider": "2024-12-22 22:49:51 +0000",
       "minecraft:creeper": "2024-12-22 23:09:03 +0000",
