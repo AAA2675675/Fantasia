@@ -1092,3 +1092,78 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 20:23:18.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> parate
 [30Dec2024 20:23:26.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Xdddd
 [30Dec2024 20:23:47.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> vengo ahora
+[30Dec2024 20:25:31.107] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d51f462[id=<null>,name=Kaoz3432,properties={},legacy=false] (/127.197.235.156:59069) lost connection: Disconnected
+[30Dec2024 20:25:31.300] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 9 ms
+[30Dec2024 20:25:36.072] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Dec2024 20:25:36.085] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Dec2024 20:25:36.092] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Dec2024 20:25:36.097] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Dec2024 20:25:36.102] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Dec2024 20:25:36.231] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Dec2024 20:25:36.267] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Dec2024 20:25:36.267] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Dec2024 20:25:36.425] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Dec2024 20:25:36.432] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Dec2024 20:25:36.444] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Dec2024 20:25:36.465] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Dec2024 20:25:36.498] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 8 ms
+[30Dec2024 20:25:36.656] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 39 ms
+[30Dec2024 20:25:37.701] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Dec2024 20:25:37.702] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Dec2024 20:25:37.710] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Dec2024 20:25:37.731] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30Dec2024 20:25:39.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kaoz3432[/127.197.235.156:36825] logged in with entity id 2114 at (-87.5, 66.0, 267.5)
+[30Dec2024 20:25:40.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kaoz3432 joined the game
+[30Dec2024 20:25:40.084] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Kaoz3432
+[30Dec2024 20:25:42.178] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Kaoz3432
+[30Dec2024 20:26:02.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kaoz3432 lost connection: Disconnected
+[30Dec2024 20:26:02.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kaoz3432 left the game
+[30Dec2024 20:26:02.698] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 8 ms
+[30Dec2024 20:26:02.829] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 31 ms
+[30Dec2024 20:26:02.911] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 9 ms
+[30Dec2024 20:26:03.247] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 7 ms
+[30Dec2024 20:26:03.383] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 21 ms
+[30Dec2024 20:26:03.470] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 9 ms
+[30Dec2024 20:26:03.552] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 11 ms
+[30Dec2024 20:26:04.114] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 24 ms
+[30Dec2024 20:26:09.418] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 10 ms
+[30Dec2024 20:26:25.898] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 7 ms
+[30Dec2024 20:26:25.996] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 6 ms
+[30Dec2024 20:26:26.099] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 10 ms
+[30Dec2024 20:26:26.200] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 9 ms
+[30Dec2024 20:27:57.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> . . .
+[30Dec2024 20:28:41.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> sigues igual de pobre
+[30Dec2024 20:28:57.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ten
+[30Dec2024 20:29:00.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> hasta el dia que te re contra cague
+[30Dec2024 20:29:09.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> un regalo
+[30Dec2024 20:29:32.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> te lo regalo
+[30Dec2024 20:29:43.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Hidden in the Depths]
+[30Dec2024 20:29:53.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> cuando fueron al nether?
+[30Dec2024 20:30:01.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> cuando me mandaste a morir
+[30Dec2024 20:30:56.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> mira
+[30Dec2024 20:31:01.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> y cuando vamos de nuevo
+[30Dec2024 20:31:07.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> nose
+[30Dec2024 20:31:12.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> que presumes, ni armadura de netherite tienes
+[30Dec2024 20:31:18.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> eeehh...
+[30Dec2024 20:31:26.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> te regale un bloque
+[30Dec2024 20:31:30.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> no te quejes
+[30Dec2024 20:31:37.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 20:31:37.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdadawd<--[HERE]
+[30Dec2024 20:31:45.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> estoy estancado, necesito ir al nether
+[30Dec2024 20:31:50.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> necesitamos
+[30Dec2024 20:31:54.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ok
+[30Dec2024 20:32:01.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> tienen portal hecho?
+[30Dec2024 20:32:02.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Mi amigo tiene obsidiana
+[30Dec2024 20:33:20.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> este sitio es una mrd, no spawnean animales
+[30Dec2024 20:33:35.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> necesito hacerme otra mochila
+[30Dec2024 20:33:58.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> xd
+[30Dec2024 20:34:10.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> estas mochilas son de otro mod
+[30Dec2024 20:34:16.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> como te hiciste la de diamante?
+[30Dec2024 20:34:26.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Eeee
+[30Dec2024 20:34:29.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> No la hice
+[30Dec2024 20:34:33.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> te la dieron
+[30Dec2024 20:34:37.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Me la encontre en el templo de la jungla
+[30Dec2024 20:34:42.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> y despues andas presumiendo
+[30Dec2024 20:34:50.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Auch?
+[30Dec2024 20:34:57.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> volvi
+[30Dec2024 20:35:03.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> tenes obsidiana?
