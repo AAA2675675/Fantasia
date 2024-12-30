@@ -10186,3 +10186,125 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 23:46:29.098] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@57bb5a[id=<null>,name=NotRealSamX07,properties={},legacy=false] (/127.99.128.5:58459) lost connection: Disconnected
 [30Dec2024 23:46:33.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> kate
 [30Dec2024 23:46:34.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ayuda
+[30Dec2024 23:47:08.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> se oyen los pajaritos
+[30Dec2024 23:47:12.652] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_immunity] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[30Dec2024 23:47:12.653] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_particles] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[30Dec2024 23:47:12.653] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_land] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[30Dec2024 23:47:12.653] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_channel_sound] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[30Dec2024 23:47:16.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 fell from a high place
+[30Dec2024 23:47:19.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> q
+[30Dec2024 23:47:19.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> mañana seguiremos el viajes hacia el norte
+[30Dec2024 23:47:23.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> hob
+[30Dec2024 23:47:25.053] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e287450[id=<null>,name=NotRealSamX07,properties={},legacy=false] (/127.99.128.5:38601) lost connection: Disconnected
+[30Dec2024 23:47:25.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> me hacen tp?
+[30Dec2024 23:47:28.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> aaaah
+[30Dec2024 23:47:28.994] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Dec2024 23:47:29.123] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Dec2024 23:47:29.123] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Dec2024 23:47:29.253] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Dec2024 23:47:29.256] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Dec2024 23:47:29.300] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Dec2024 23:47:29.382] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Dec2024 23:47:29.401] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Dec2024 23:47:29.512] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Dec2024 23:47:29.514] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Dec2024 23:47:29.515] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Dec2024 23:47:29.582] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Dec2024 23:47:30.296] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Dec2024 23:47:30.297] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Dec2024 23:47:30.297] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Dec2024 23:47:30.299] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30Dec2024 23:47:32.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> yo no puedo hacer tp pero
+[30Dec2024 23:47:32.912] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotRealSamX07[/127.99.128.5:41921] logged in with entity id 41421 at (-1529.8137652370847, 79.0, -2144.513946992649)
+[30Dec2024 23:47:32.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 joined the game
+[30Dec2024 23:47:32.999] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NotRealSamX07
+[30Dec2024 23:47:34.300] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NotRealSamX07
+[30Dec2024 23:47:36.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> sam
+[30Dec2024 23:47:40.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> tengo otra idea
+[30Dec2024 23:47:42.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> por que estoy en un barrio chino?
+[30Dec2024 23:47:46.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> espera un momento fran
+[30Dec2024 23:47:47.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> eee
+[30Dec2024 23:47:48.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> bn
+[30Dec2024 23:48:14.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> fran mira
+[30Dec2024 23:48:26.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> quie
+[30Dec2024 23:48:30.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> espera
+[30Dec2024 23:48:48.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Ooooh grandes dioses del servidor
+[30Dec2024 23:48:55.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Escuchad mis plegarias
+[30Dec2024 23:49:07.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> calla
+[30Dec2024 23:49:07.902] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_immunity] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[30Dec2024 23:49:07.902] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_particles] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[30Dec2024 23:49:07.902] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_land] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[30Dec2024 23:49:07.902] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_channel_sound] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[30Dec2024 23:49:10.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Les pido que traigan al usuario MrHob
+[30Dec2024 23:49:14.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Digo
+[30Dec2024 23:49:16.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Franxd2
+[30Dec2024 23:49:24.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Hacia mi
+[30Dec2024 23:49:30.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Ofrezco este sacrificio
+[30Dec2024 23:49:35.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Mi diamante y una manzana dorada
+[30Dec2024 23:49:46.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Escuchad mis plegarias dioses
+[30Dec2024 23:49:53.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> hob
+[30Dec2024 23:49:57.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> nose como tengo esa suerte
+[30Dec2024 23:49:59.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> soy rico
+[30Dec2024 23:50:00.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Ya eh sacrificado mis item
+[30Dec2024 23:50:03.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ok
+[30Dec2024 23:50:13.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Porfavor traigan al usuario Franxd2
+[30Dec2024 23:50:24.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> y kate?
+[30Dec2024 23:50:28.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> fatherine?
+[30Dec2024 23:50:29.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ...
+[30Dec2024 23:50:44.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> la otra vez funcionaron
+[30Dec2024 23:50:52.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> debere dar algo mas
+[30Dec2024 23:51:02.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Grandes dioses sacrificare mi lingote de netherite
+[30Dec2024 23:51:13.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> para que traigan a Franxd2
+[30Dec2024 23:51:27.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Porfavor dioses
+[30Dec2024 23:51:57.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Bueno fran ahora solo a esperar
+[30Dec2024 23:51:59.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> se
+[30Dec2024 23:52:06.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 6 [Netherite Ingot] to Katee555
+[30Dec2024 23:52:09.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> estoy viajando por el medio oceano oeste
+[30Dec2024 23:52:10.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> digo
+[30Dec2024 23:52:15.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> por el suroeste
+[30Dec2024 23:52:22.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> pasame tus coordenadas
+[30Dec2024 23:52:30.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> 690 62 1382
+[30Dec2024 23:52:37.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Uh
+[30Dec2024 23:52:37.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> estoy en medio de la nada oceno
+[30Dec2024 23:53:24.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> seguire
+[30Dec2024 23:53:26.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> con mi camino
+[30Dec2024 23:53:35.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> qq
+[30Dec2024 23:53:37.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> AUIDA
+[30Dec2024 23:53:41.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ME QIEREN VIOLAR
+[30Dec2024 23:53:59.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> AAAA
+[30Dec2024 23:54:01.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> BARCOS FANTASMAAASAS
+[30Dec2024 23:54:02.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> AKLSDKLASDAS
+[30Dec2024 23:54:04.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has reached the goal [Flowers of the Savanna]
+[30Dec2024 23:54:08.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ayudaaa
+[30Dec2024 23:54:11.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ME VIOLAAAN
+[30Dec2024 23:54:14.550] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44167, l='ServerLevel[world]', x=862.50, y=41.00, z=1616.50]
+[30Dec2024 23:54:16.745] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44192, l='ServerLevel[world]', x=841.50, y=42.00, z=1607.50]
+[30Dec2024 23:54:17.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> BURRO
+[30Dec2024 23:54:18.553] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44230, l='ServerLevel[world]', x=828.50, y=46.00, z=1654.50]
+[30Dec2024 23:54:19.395] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44239, l='ServerLevel[world]', x=818.50, y=43.00, z=1646.50]
+[30Dec2024 23:54:21.995] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44270, l='ServerLevel[world]', x=820.50, y=36.00, z=1650.50]
+[30Dec2024 23:54:22.154] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_immunity] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[30Dec2024 23:54:22.154] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_particles] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[30Dec2024 23:54:22.155] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_land] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[30Dec2024 23:54:22.155] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_channel_sound] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[30Dec2024 23:54:26.797] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44347, l='ServerLevel[world]', x=836.50, y=20.00, z=1616.50]
+[30Dec2024 23:54:26.800] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44349, l='ServerLevel[world]', x=831.50, y=23.00, z=1654.50]
+[30Dec2024 23:54:27.447] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44355, l='ServerLevel[world]', x=819.50, y=20.00, z=1647.50]
+[30Dec2024 23:54:27.692] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44360, l='ServerLevel[world]', x=821.50, y=27.00, z=1632.50]
+[30Dec2024 23:54:29.494] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44377, l='ServerLevel[world]', x=828.50, y=49.00, z=1635.50]
+[30Dec2024 23:54:31.046] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44390, l='ServerLevel[world]', x=854.50, y=50.00, z=1624.50]
+[30Dec2024 23:54:32.945] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44410, l='ServerLevel[world]', x=822.50, y=43.00, z=1638.50]
+[30Dec2024 23:54:32.946] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44412, l='ServerLevel[world]', x=837.50, y=36.00, z=1617.50]
+[30Dec2024 23:54:33.193] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44418, l='ServerLevel[world]', x=847.50, y=51.00, z=1650.50]
+[30Dec2024 23:54:54.593] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44536, l='ServerLevel[world]', x=816.50, y=29.00, z=1640.50]
+[30Dec2024 23:54:56.745] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44571, l='ServerLevel[world]', x=854.50, y=45.00, z=1645.50]
+[30Dec2024 23:55:00.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> adopte un burro
+[30Dec2024 23:55:02.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 drowned whilst trying to escape Skelewag
+[30Dec2024 23:55:05.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> VERGA
+[30Dec2024 23:55:13.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ahora estoy en 22 141 1421
+[30Dec2024 23:55:53.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> ahora vengo
+[30Dec2024 23:55:56.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Franxd2> necesito cambiar optins
+[30Dec2024 23:55:57.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Franxd2 lost connection: Disconnected
+[30Dec2024 23:55:57.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Franxd2 left the game
+[30Dec2024 23:56:10.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Duerman
+[30Dec2024 23:56:22.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> katee, sam duerman
