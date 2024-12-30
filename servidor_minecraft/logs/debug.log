@@ -6986,3 +6986,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 00:37:57.660] [IO-Worker-96/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
 [30Dec2024 00:37:57.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 00:37:57.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 00:39:07.017] [Worker-Main-88/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-88 shutdown
+[30Dec2024 00:39:13.489] [Worker-Main-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-101
+[30Dec2024 00:41:25.597] [IO-Worker-95/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[30Dec2024 00:41:46.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has reached the goal [Fighting Nightmares]
+[30Dec2024 00:42:57.417] [Worker-Main-79/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-79 shutdown
+[30Dec2024 00:42:57.648] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[30Dec2024 00:42:57.648] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[30Dec2024 00:42:57.651] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[30Dec2024 00:42:57.653] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[30Dec2024 00:42:57.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 00:42:57.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 00:43:19.945] [Worker-Main-101/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-107
+[30Dec2024 00:46:07.935] [IO-Worker-103/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[30Dec2024 00:46:07.936] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[30Dec2024 00:47:05.690] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Konstanty}[style={}] has been infected
+[30Dec2024 00:47:07.911] [Worker-Main-101/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-101 shutdown
+[30Dec2024 00:47:21.193] [Worker-Main-107/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-110
+[30Dec2024 00:47:57.648] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[30Dec2024 00:47:57.649] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[30Dec2024 00:47:57.653] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[30Dec2024 00:47:57.654] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[30Dec2024 00:47:57.656] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[30Dec2024 00:47:57.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 00:47:57.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
