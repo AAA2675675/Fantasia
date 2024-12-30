@@ -7087,3 +7087,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 01:17:57.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 01:17:57.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Dec2024 01:18:44.852] [Worker-Main-154/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-154 shutdown
+[30Dec2024 01:19:44.852] [Worker-Main-146/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-146 shutdown
+[30Dec2024 01:20:15.943] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-160
+[30Dec2024 01:20:15.944] [Worker-Main-160/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-161
+[30Dec2024 01:20:15.944] [Worker-Main-160/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-162
+[30Dec2024 01:20:50.535] [IO-Worker-158/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-163
+[30Dec2024 01:20:50.535] [IO-Worker-155/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-164
+[30Dec2024 01:21:45.048] [Worker-Main-162/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-162 shutdown
+[30Dec2024 01:22:40.104] [Worker-Main-161/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-165
+[30Dec2024 01:22:57.650] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-166
+[30Dec2024 01:22:57.650] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-167
+[30Dec2024 01:22:57.651] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-168
+[30Dec2024 01:22:57.651] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-169
+[30Dec2024 01:22:57.656] [IO-Worker-166/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-170
+[30Dec2024 01:22:57.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 01:22:57.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 01:23:22.839] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Cezary}[style={}] has been infected
+[30Dec2024 01:23:33.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 01:23:33.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdadadw<--[HERE]
+[30Dec2024 01:24:33.362] [IO-Worker-167/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-171
+[30Dec2024 01:25:10.888] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ryszarda'/1381, l='ServerLevel[world]', x=-1512.45, y=84.00, z=-2213.08] died, message: 'Ryszarda was slain by Zombie Clown'
+[30Dec2024 01:25:10.890] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ryszarda'/1381, l='ServerLevel[world]', x=-1512.45, y=84.00, z=-2213.08] died: Ryszarda was slain by Zombie Clown
+[30Dec2024 01:25:28.632] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/15363, l='ServerLevel[world]', x=-1528.16, y=78.00, z=-2164.96]
+[30Dec2024 01:25:33.241] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/15385, l='ServerLevel[world]', x=-1530.04, y=79.18, z=-2187.20]
+[30Dec2024 01:25:35.945] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/15391, l='ServerLevel[world]', x=-1534.93, y=80.00, z=-2194.93]
+[30Dec2024 01:25:38.442] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/15397, l='ServerLevel[world]', x=-1530.29, y=80.00, z=-2203.23]
+[30Dec2024 01:25:41.074] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/15403, l='ServerLevel[world]', x=-1533.03, y=80.00, z=-2202.31]
+[30Dec2024 01:25:43.977] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/15436, l='ServerLevel[world]', x=-1534.80, y=80.00, z=-2192.97]
+[30Dec2024 01:25:46.976] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/15442, l='ServerLevel[world]', x=-1525.85, y=81.00, z=-2190.52]
+[30Dec2024 01:25:50.792] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/15461, l='ServerLevel[world]', x=-1525.45, y=81.00, z=-2201.19]
+[30Dec2024 01:25:58.575] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/15494, l='ServerLevel[world]', x=-1489.29, y=82.00, z=-2204.42]
+[30Dec2024 01:26:01.628] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/15510, l='ServerLevel[world]', x=-1489.37, y=81.87, z=-2197.10]
+[30Dec2024 01:26:04.182] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/15522, l='ServerLevel[world]', x=-1480.95, y=80.00, z=-2192.15]
+[30Dec2024 01:26:07.390] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/15539, l='ServerLevel[world]', x=-1477.17, y=80.00, z=-2199.91]
+[30Dec2024 01:26:09.612] [IO-Worker-167/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-172
+[30Dec2024 01:26:09.613] [IO-Worker-169/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-173
+[30Dec2024 01:26:15.177] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/15564, l='ServerLevel[world]', x=-1475.65, y=80.00, z=-2192.94]
+[30Dec2024 01:27:11.605] [IO-Worker-173/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-174
+[30Dec2024 01:27:11.617] [IO-Worker-173/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-175
+[30Dec2024 01:27:14.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Junior Summoner]
+[30Dec2024 01:27:57.648] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-176
+[30Dec2024 01:27:57.650] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-177
+[30Dec2024 01:27:57.650] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-178
+[30Dec2024 01:27:57.651] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-179
+[30Dec2024 01:27:57.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 01:27:57.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
