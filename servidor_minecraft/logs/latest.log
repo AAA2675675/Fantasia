@@ -103,3 +103,32 @@
 [30Dec2024 01:26:15.177] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/15564, l='ServerLevel[world]', x=-1475.65, y=80.00, z=-2192.94]
 [30Dec2024 01:27:14.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Junior Summoner]
 [30Dec2024 01:37:35.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Enchanter]
+[30Dec2024 01:41:23.290] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Cezary'/8726, l='ServerLevel[world]', x=-1527.60, y=84.00, z=-2245.60] died, message: 'Cezary was slain by Door Knight'
+[30Dec2024 01:41:23.291] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Cezary'/8726, l='ServerLevel[world]', x=-1527.60, y=84.00, z=-2245.60] died: Cezary was slain by Door Knight
+[30Dec2024 01:42:01.025] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond_helmet{Enchantments:[{id:"minecraft:protection",lvl:1}]} 01
+[30Dec2024 01:42:28.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has reached the goal [Big Boy]
+[30Dec2024 01:42:30.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was slain by Dread Hound
+[30Dec2024 01:42:33.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
+[30Dec2024 01:42:33.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
+[30Dec2024 01:43:49.351] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Dec2024 01:43:49.486] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Dec2024 01:43:49.529] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Dec2024 01:43:49.529] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Dec2024 01:43:49.622] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Dec2024 01:43:49.635] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Dec2024 01:43:49.636] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Dec2024 01:43:49.756] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Dec2024 01:43:49.757] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Dec2024 01:43:49.889] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Dec2024 01:43:49.933] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Dec2024 01:43:49.933] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Dec2024 01:43:50.757] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Dec2024 01:43:50.758] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Dec2024 01:43:50.760] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Dec2024 01:43:50.766] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30Dec2024 01:43:53.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotRealSamX07[/127.99.128.5:33519] logged in with entity id 18463 at (-1494.9198231891692, 77.0, -2146.5320629579355)
+[30Dec2024 01:43:53.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 joined the game
+[30Dec2024 01:43:53.336] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NotRealSamX07
+[30Dec2024 01:43:55.307] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NotRealSamX07
+[30Dec2024 01:46:40.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
+[30Dec2024 01:46:40.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
