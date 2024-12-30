@@ -102,3 +102,4 @@
 [30Dec2024 01:26:07.390] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/15539, l='ServerLevel[world]', x=-1477.17, y=80.00, z=-2199.91]
 [30Dec2024 01:26:15.177] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/15564, l='ServerLevel[world]', x=-1475.65, y=80.00, z=-2192.94]
 [30Dec2024 01:27:14.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Junior Summoner]
+[30Dec2024 01:37:35.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Enchanter]
