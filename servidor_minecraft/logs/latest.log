@@ -77,3 +77,5 @@
 [30Dec2024 00:35:50.943] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 6 ms
 [30Dec2024 00:41:46.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has reached the goal [Fighting Nightmares]
 [30Dec2024 00:47:05.690] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Konstanty}[style={}] has been infected
+[30Dec2024 00:56:12.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 00:56:12.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dwdwadaw<--[HERE]
