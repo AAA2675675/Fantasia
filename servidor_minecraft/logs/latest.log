@@ -9304,3 +9304,683 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 21:35:30.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> espera
 [30Dec2024 21:35:34.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> no mires
 [30Dec2024 21:35:37.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> oki
+[30Dec2024 21:36:00.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> me avisas
+[30Dec2024 21:36:37.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ten
+[30Dec2024 21:36:46.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> no mires
+[30Dec2024 21:36:48.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> gracias
+[30Dec2024 21:36:50.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ese es tu regalo
+[30Dec2024 21:36:51.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> espera
+[30Dec2024 21:36:53.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> damelo
+[30Dec2024 21:37:01.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> no llegue a ver nada
+[30Dec2024 21:37:54.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya ten
+[30Dec2024 21:38:04.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> una mochila para ti
+[30Dec2024 21:38:08.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> gracias por la mochila
+[30Dec2024 21:38:12.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> se equipa
+[30Dec2024 21:38:19.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> tu ves cuando abres el inventario
+[30Dec2024 21:38:20.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> arriba de ti
+[30Dec2024 21:38:24.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> hay una cosa rara
+[30Dec2024 21:38:27.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> de color blanco
+[30Dec2024 21:38:29.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> un circulo
+[30Dec2024 21:38:30.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> dale
+[30Dec2024 21:38:43.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> lo viste
+[30Dec2024 21:38:55.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 21:38:55.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdawda<--[HERE]
+[30Dec2024 21:38:57.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> no
+[30Dec2024 21:39:00.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> abre tu inv
+[30Dec2024 21:39:04.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> aja
+[30Dec2024 21:39:08.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> y dale al circulo blanco arriba de ti
+[30Dec2024 21:39:16.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> y la mochila ponla en espalda
+[30Dec2024 21:39:27.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> ok ya
+[30Dec2024 21:39:34.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> para abrilra dale a B
+[30Dec2024 21:40:17.632] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/11891, l='ServerLevel[world]', x=-1587.82, y=12.00, z=-2191.32]
+[30Dec2024 21:40:26.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> yo tambien te tengo un regalo
+[30Dec2024 21:40:53.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> samuel
+[30Dec2024 21:40:55.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> samu
+[30Dec2024 21:41:07.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> este es mi regalo
+[30Dec2024 21:41:19.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> quieres ser mi esposo
+[30Dec2024 21:41:24.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> XD
+[30Dec2024 21:41:50.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> noooooooooooooooooooooooooooooooooooooo
+[30Dec2024 21:41:57.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> Pipipipi
+[30Dec2024 21:42:41.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> bueno cmabiano de tema que haremos ahora
+[30Dec2024 21:43:33.497] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 6 ms
+[30Dec2024 21:43:33.595] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[30Dec2024 21:43:33.894] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 21:43:33.993] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 21:43:34.092] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 21:43:46.047] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 21:43:46.144] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 21:43:46.243] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 21:43:46.343] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 3 ms
+[30Dec2024 21:43:46.443] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 3 ms
+[30Dec2024 21:44:20.596] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 21:44:20.693] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 3 ms
+[30Dec2024 21:44:20.794] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 3 ms
+[30Dec2024 21:44:20.893] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 3 ms
+[30Dec2024 21:44:20.985] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/12421, l='ServerLevel[world]', x=-1579.08, y=31.00, z=-2105.00]
+[30Dec2024 21:44:21.093] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 3 ms
+[30Dec2024 21:44:21.193] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 21:44:21.293] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 3 ms
+[30Dec2024 21:44:21.945] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[30Dec2024 21:44:22.045] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 21:44:22.143] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 3 ms
+[30Dec2024 21:44:23.038] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/12432, l='ServerLevel[world]', x=-1580.92, y=31.00, z=-2103.98]
+[30Dec2024 21:44:25.722] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/12434, l='ServerLevel[world]', x=-1582.58, y=31.00, z=-2108.18]
+[30Dec2024 21:44:28.645] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[30Dec2024 21:44:28.746] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 6 ms
+[30Dec2024 21:44:29.642] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 3 ms
+[30Dec2024 21:44:29.743] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 21:44:30.043] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 3 ms
+[30Dec2024 21:44:30.144] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 3 ms
+[30Dec2024 21:44:30.243] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 3 ms
+[30Dec2024 21:44:30.344] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 21:44:30.444] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 21:44:30.543] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 3 ms
+[30Dec2024 21:44:38.694] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 3 ms
+[30Dec2024 21:44:38.793] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 3 ms
+[30Dec2024 21:44:42.744] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 3 ms
+[30Dec2024 21:45:14.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 was slain by Skeleton Thrasher
+[30Dec2024 21:45:42.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> tengo 6 manzanas de notch
+[30Dec2024 21:45:43.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> gg
+[30Dec2024 21:45:49.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> samuel necesito algo muy importante
+[30Dec2024 21:45:59.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> que sera la clave de nuestro viaje
+[30Dec2024 21:45:59.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> que
+[30Dec2024 21:46:00.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> la escasez de diamantes aqui es muy real
+[30Dec2024 21:46:07.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> yo estoy preparandome
+[30Dec2024 21:46:14.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> eso es mentira yo me los encuentro cada 2 x 3
+[30Dec2024 21:46:21.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> capa?
+[30Dec2024 21:46:38.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> que capa
+[30Dec2024 21:46:39.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> INVASION
+[30Dec2024 21:46:43.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> la -53
+[30Dec2024 21:46:49.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> que decis
+[30Dec2024 21:47:02.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> en esa capa hay?
+[30Dec2024 21:47:08.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> un monton
+[30Dec2024 21:48:06.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 21:48:06.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhkj<--[HERE]
+[30Dec2024 21:48:09.093] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Aleksander'/5200, l='ServerLevel[world]', x=-1506.23, y=83.00, z=-2228.26] died, message: 'Aleksander was slain by Door Knight'
+[30Dec2024 21:48:09.094] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Aleksander'/5200, l='ServerLevel[world]', x=-1506.23, y=83.00, z=-2228.26] died: Aleksander was slain by Door Knight
+[30Dec2024 21:48:20.795] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/12959, l='ServerLevel[world]', x=-1605.50, y=2.00, z=-2166.50]
+[30Dec2024 21:48:23.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[30Dec2024 21:48:31.084] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond 32
+[30Dec2024 21:48:32.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has reached the goal [Horror Under the Mantle]
+[30Dec2024 21:48:56.134] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond 32
+[30Dec2024 21:49:01.981] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:ancient_debris 01
+[30Dec2024 21:49:06.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 has made the advancement [Double Trouble]
+[30Dec2024 21:49:54.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 moved wrongly!
+[30Dec2024 21:51:12.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has reached the goal [Arachnophobe's Nightmare]
+[30Dec2024 21:52:02.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> samuel me diste los diamantes nunca los tomaste xd
+[30Dec2024 21:54:05.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> genial, una mineshaft
+[30Dec2024 21:55:24.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 21:55:24.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdada<--[HERE]
+[30Dec2024 21:55:54.310] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/14032, l='ServerLevel[world]', x=-1638.56, y=-10.00, z=-2142.34]
+[30Dec2024 21:56:21.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> gabo vamonos
+[30Dec2024 21:56:34.214] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:totem_of_undying 01
+[30Dec2024 21:56:36.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> que ruta quieres a overworld o nether
+[30Dec2024 21:56:42.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> nether no
+[30Dec2024 21:56:46.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> no salimos de ahi
+[30Dec2024 21:57:13.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> ok pues dejame recoger entonces
+[30Dec2024 21:57:35.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> vamonos
+[30Dec2024 21:57:41.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya yo recogi todo
+[30Dec2024 21:57:48.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> xd ok
+[30Dec2024 21:57:50.173] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:ancient_debris 03
+[30Dec2024 21:57:54.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> vamows
+[30Dec2024 21:57:59.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> no mires tanto
+[30Dec2024 21:58:01.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> que ya me puse una cancion bakana
+[30Dec2024 21:58:16.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> como que no mire tanto ?
+[30Dec2024 21:58:17.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> xd
+[30Dec2024 21:58:18.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> agarra tu cama
+[30Dec2024 21:59:23.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Sam
+[30Dec2024 21:59:28.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Sam
+[30Dec2024 21:59:29.220] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/14398, l='ServerLevel[world]', x=-1622.88, y=-9.00, z=-2159.86]
+[30Dec2024 21:59:30.155] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/14399, l='ServerLevel[world]', x=-1622.88, y=-9.00, z=-2159.86]
+[30Dec2024 21:59:36.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> SAM
+[30Dec2024 22:00:11.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Bueno
+[30Dec2024 22:00:14.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> me avisas
+[30Dec2024 22:00:15.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Sam nos vemos
+[30Dec2024 22:00:23.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Gracias por acogernos
+[30Dec2024 22:00:32.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> saludanos a kate
+[30Dec2024 22:00:34.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> vamonos
+[30Dec2024 22:00:56.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> xd
+[30Dec2024 22:01:47.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 22:01:47.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dwadad<--[HERE]
+[30Dec2024 22:02:30.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> hey
+[30Dec2024 22:03:00.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> vamonos
+[30Dec2024 22:03:13.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> dale
+[30Dec2024 22:03:15.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> vamonos
+[30Dec2024 22:03:19.868] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/14609, l='ServerLevel[world]', x=-1624.22, y=-12.00, z=-2186.92]
+[30Dec2024 22:03:25.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> a donde vamos xd?
+[30Dec2024 22:03:34.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> bueno deberiamos ir al norte no 4
+[30Dec2024 22:03:37.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> vamos al norte
+[30Dec2024 22:03:44.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> ese es el sur
+[30Dec2024 22:03:55.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya se
+[30Dec2024 22:04:19.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved wrongly! 0.3355373981853518
+[30Dec2024 22:04:19.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved wrongly! 0.7171929646715398
+[30Dec2024 22:04:19.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved wrongly! 0.9856318428869599
+[30Dec2024 22:04:19.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved wrongly! 0.2666683696365908
+[30Dec2024 22:04:19.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved wrongly! 0.44218386527882103
+[30Dec2024 22:04:19.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved wrongly! 0.6223555871920325
+[30Dec2024 22:04:33.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> vamos alla
+[30Dec2024 22:04:35.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> no
+[30Dec2024 22:04:39.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya loteamos esa piramide
+[30Dec2024 22:04:47.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> no me referia a eso
+[30Dec2024 22:04:48.906] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.907] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.907] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.907] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.907] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.907] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.907] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.907] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30Dec2024 22:04:48.907] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.907] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.908] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.908] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.908] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.908] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.908] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.908] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.908] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.908] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.909] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.909] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30Dec2024 22:04:48.909] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.909] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.909] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30Dec2024 22:04:48.909] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.909] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30Dec2024 22:04:48.909] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30Dec2024 22:04:48.910] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.910] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.910] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.910] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.910] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.910] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.910] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.910] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.910] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.911] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:48.911] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 22:04:51.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> a que
+[30Dec2024 22:04:54.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 has made the advancement [Cursed Pyramid]
+[30Dec2024 22:04:55.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> olvidalo
+[30Dec2024 22:06:24.005] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[30Dec2024 22:06:24.006] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[30Dec2024 22:06:24.006] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[30Dec2024 22:07:17.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 has made the advancement [Chompy]
+[30Dec2024 22:07:20.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> agarra lana
+[30Dec2024 22:07:26.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> donde carajos estoy
+[30Dec2024 22:07:33.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> hay vegetacion en una mina
+[30Dec2024 22:07:46.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> xd
+[30Dec2024 22:07:51.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> hay que hacer un bote grande
+[30Dec2024 22:07:53.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> perfecto vamos a matar al ender dragon con camas
+[30Dec2024 22:07:54.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> pero no se como
+[30Dec2024 22:07:56.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> dame tu lana
+[30Dec2024 22:08:05.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 22:08:05.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wadwadad<--[HERE]
+[30Dec2024 22:08:28.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ok ya se
+[30Dec2024 22:09:42.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> que otras cosas tiene un barco
+[30Dec2024 22:09:45.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya hice la vela
+[30Dec2024 22:09:47.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> que mas
+[30Dec2024 22:09:56.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> mastil
+[30Dec2024 22:10:04.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> lo que usaspa conducir pues
+[30Dec2024 22:10:13.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> es que ese no est
+[30Dec2024 22:10:28.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> el mod se llama
+[30Dec2024 22:10:30.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> small ship
+[30Dec2024 22:10:32.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> samuel cual barco quieres hacer y yo te digo la reseta
+[30Dec2024 22:10:41.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 22:10:41.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdawdawd<--[HERE]
+[30Dec2024 22:11:10.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> consigue un barco cofres y 3 barcos mas
+[30Dec2024 22:11:13.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> a y hilo
+[30Dec2024 22:11:33.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> tienes los materiales
+[30Dec2024 22:11:57.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya se
+[30Dec2024 22:12:26.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> necesito cuerda
+[30Dec2024 22:12:33.503] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/16723, l='ServerLevel[world]', x=-1674.46, y=-10.00, z=-2193.17]
+[30Dec2024 22:12:41.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> osea slime
+[30Dec2024 22:12:56.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> tienes cuerdas o slime?
+[30Dec2024 22:13:06.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> no
+[30Dec2024 22:13:13.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> deje mi ultimo pedazo de cuerda
+[30Dec2024 22:13:35.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Uh
+[30Dec2024 22:13:45.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> solo me falta 1
+[30Dec2024 22:13:48.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> de cuerda
+[30Dec2024 22:14:05.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> sigamos mientras
+[30Dec2024 22:14:07.543] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:14:07.644] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 3 ms
+[30Dec2024 22:14:07.744] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 3 ms
+[30Dec2024 22:14:10.243] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 3 ms
+[30Dec2024 22:14:12.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> o dioses del server regalenos una cuerda
+[30Dec2024 22:15:16.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> mira
+[30Dec2024 22:15:21.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> deben haber cuerdas ahi
+[30Dec2024 22:15:25.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> que es eso
+[30Dec2024 22:15:40.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Take Aim]
+[30Dec2024 22:16:28.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 22:16:28.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdadwad<--[HERE]
+[30Dec2024 22:17:03.148] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/18217, l='ServerLevel[world]', x=-1733.81, y=-37.00, z=-2181.10]
+[30Dec2024 22:17:05.998] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/18226, l='ServerLevel[world]', x=-1732.48, y=-37.00, z=-2182.64]
+[30Dec2024 22:17:08.649] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/18229, l='ServerLevel[world]', x=-1735.14, y=-37.00, z=-2182.39]
+[30Dec2024 22:17:26.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> vamos
+[30Dec2024 22:17:40.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> dale
+[30Dec2024 22:18:12.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> el objetivo actual es conseguir caballos y una cuerda
+[30Dec2024 22:18:32.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 5.668390910776225,0.0,-8.596167587385025
+[30Dec2024 22:18:32.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 5.859526640824697,0.0,-8.94636919723871
+[30Dec2024 22:18:32.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 6.049762380192988,0.0,-9.297163347578135
+[30Dec2024 22:18:32.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 6.239167638874051,0.0,-9.648501256131112
+[30Dec2024 22:18:32.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 6.427808386362813,0.0,-10.000337264242717
+[30Dec2024 22:18:32.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 6.615743991478439,0.0,-10.352630271674116
+[30Dec2024 22:18:32.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 6.803031298522001,0.0,-10.705341541050075
+[30Dec2024 22:18:32.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 6.989721465500907,0.0,-11.058436201282802
+[30Dec2024 22:18:32.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 7.175863950711573,0.0,-11.411881124959109
+[30Dec2024 22:18:32.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 7.361499846803326,0.0,-11.765648233392312
+[30Dec2024 22:18:32.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 7.546672971204316,0.0,-12.119708780069686
+[30Dec2024 22:18:32.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 7.731419341645278,0.0,-12.474038625390222
+[30Dec2024 22:18:32.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 7.9157747920367,0.0,-12.828614307728913
+[30Dec2024 22:18:32.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 8.099771572897453,0.0,-13.183414711622845
+[30Dec2024 22:18:32.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MrHob) moved too quickly! 8.2834387096932,0.0,-13.538420829431288
+[30Dec2024 22:18:36.769] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
+[30Dec2024 22:18:36.770] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
+[30Dec2024 22:18:36.771] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
+[30Dec2024 22:18:36.771] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
+[30Dec2024 22:18:36.771] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
+[30Dec2024 22:18:36.771] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
+[30Dec2024 22:18:36.771] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
+[30Dec2024 22:18:36.771] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
+[30Dec2024 22:18:36.772] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
+[30Dec2024 22:18:41.257] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/19340, l='ServerLevel[world]', x=-1733.48, y=-37.00, z=-2177.72]
+[30Dec2024 22:18:43.787] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/19352, l='ServerLevel[world]', x=-1734.42, y=-37.00, z=-2180.59]
+[30Dec2024 22:18:57.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> una aldea
+[30Dec2024 22:19:08.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> bien
+[30Dec2024 22:19:21.408] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
+[30Dec2024 22:19:21.408] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
+[30Dec2024 22:19:21.408] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
+[30Dec2024 22:19:21.409] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
+[30Dec2024 22:19:21.409] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
+[30Dec2024 22:19:21.409] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
+[30Dec2024 22:19:21.409] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
+[30Dec2024 22:19:21.409] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
+[30Dec2024 22:19:21.409] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
+[30Dec2024 22:19:39.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Safe Haven]
+[30Dec2024 22:19:50.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 has made the advancement [Call For Adventure]
+[30Dec2024 22:20:01.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> guarda spawn por si acaso
+[30Dec2024 22:21:03.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> donde estas
+[30Dec2024 22:21:10.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> casi me mata un demonio
+[30Dec2024 22:21:27.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya consegui slime
+[30Dec2024 22:21:36.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> espera no guarde spawm
+[30Dec2024 22:21:49.497] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:ancient_debris 01
+[30Dec2024 22:21:55.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> dale semillas a este
+[30Dec2024 22:21:57.749] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/20483, l='ServerLevel[world]', x=-1750.01, y=-34.00, z=-2149.30]
+[30Dec2024 22:22:33.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 has made the advancement [Blindfolded]
+[30Dec2024 22:23:06.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> que hacemos con este bicho ?
+[30Dec2024 22:23:35.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> dios
+[30Dec2024 22:23:49.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has reached the goal [Sky's the Limit]
+[30Dec2024 22:23:54.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> que
+[30Dec2024 22:23:57.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> XD
+[30Dec2024 22:24:21.198] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/20822, l='ServerLevel[world]', x=-1750.26, y=-34.00, z=-2149.43]
+[30Dec2024 22:24:23.746] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/20824, l='ServerLevel[world]', x=-1749.64, y=-34.00, z=-2149.32]
+[30Dec2024 22:24:23.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> eso es proteina
+[30Dec2024 22:24:27.250] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/20826, l='ServerLevel[world]', x=-1750.30, y=-34.00, z=-2150.76]
+[30Dec2024 22:24:29.932] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/20833, l='ServerLevel[world]', x=-1750.70, y=-34.00, z=-2150.39]
+[30Dec2024 22:24:34.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> hare las cuerdas
+[30Dec2024 22:24:42.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> vamos haslo rapido este sitio me da miedito
+[30Dec2024 22:25:52.620] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-125, y=-56, z=60}
+[30Dec2024 22:25:52.625] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-126, y=-49, z=65}
+[30Dec2024 22:26:07.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya esta
+[30Dec2024 22:26:53.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> perdi la vela
+[30Dec2024 22:26:55.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> enserio
+[30Dec2024 22:27:01.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> la habias dejado en un cofre
+[30Dec2024 22:27:08.537] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/21293, l='ServerLevel[world]', x=-1767.53, y=-30.00, z=-2203.31]
+[30Dec2024 22:27:19.944] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:27:20.045] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:27:20.145] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:27:20.243] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:27:20.343] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:27:49.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> guardaste spawn?
+[30Dec2024 22:27:52.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> no
+[30Dec2024 22:27:54.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> perdi la cam
+[30Dec2024 22:27:55.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> guardalo
+[30Dec2024 22:28:03.376] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/21479, l='ServerLevel[world]', x=-1794.75, y=-34.00, z=-2228.00]
+[30Dec2024 22:28:09.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> ya
+[30Dec2024 22:28:13.795] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:28:13.994] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[30Dec2024 22:28:14.144] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:28:14.245] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:28:14.345] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:28:18.443] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:28:18.544] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:28:18.744] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:28:18.845] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:28:18.945] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:28:19.045] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:28:26.960] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/21549, l='ServerLevel[world]', x=-1776.19, y=-34.00, z=-2259.31]
+[30Dec2024 22:28:45.185] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/21554, l='ServerLevel[world]', x=-1776.99, y=-34.00, z=-2260.42]
+[30Dec2024 22:29:13.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> ya ?
+[30Dec2024 22:29:23.698] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/21601, l='ServerLevel[world]', x=-1774.68, y=-34.00, z=-2256.64]
+[30Dec2024 22:29:24.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> si
+[30Dec2024 22:29:26.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> mira
+[30Dec2024 22:30:12.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> mira
+[30Dec2024 22:30:44.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Como se pone
+[30Dec2024 22:30:48.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> damelo
+[30Dec2024 22:30:57.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> intenta
+[30Dec2024 22:31:12.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> hey
+[30Dec2024 22:31:20.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> bajate
+[30Dec2024 22:31:40.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> XD
+[30Dec2024 22:31:41.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> xd
+[30Dec2024 22:31:44.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> se subio una piraña
+[30Dec2024 22:32:08.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> ya dale xdddddd
+[30Dec2024 22:32:13.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> espera
+[30Dec2024 22:32:17.746] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[30Dec2024 22:32:17.844] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:32:17.945] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:32:18.144] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:32:18.244] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:32:18.344] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:32:18.445] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:32:18.544] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 22:32:57.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrHob lost connection: Timed out
+[30Dec2024 22:32:57.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob left the game
+[30Dec2024 22:32:57.750] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Dec2024 22:34:36.291] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Dec2024 22:34:36.377] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Dec2024 22:34:36.461] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Dec2024 22:34:36.462] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Dec2024 22:34:36.555] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Dec2024 22:34:36.555] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Dec2024 22:34:36.637] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Dec2024 22:34:36.637] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Dec2024 22:34:36.721] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Dec2024 22:34:36.805] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Dec2024 22:34:36.805] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Dec2024 22:34:36.888] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Dec2024 22:34:37.468] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Dec2024 22:34:37.468] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Dec2024 22:34:37.468] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Dec2024 22:34:37.514] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30Dec2024 22:34:40.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrHob[/127.47.144.244:36913] logged in with entity id 22225 at (-1218.5901979018731, 62.66388928890228, -3396.9881534436727)
+[30Dec2024 22:34:40.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob joined the game
+[30Dec2024 22:34:40.432] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to MrHob
+[30Dec2024 22:34:40.571] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from MrHob
+[30Dec2024 22:34:53.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> quepaso
+[30Dec2024 22:34:56.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> AYUDA
+[30Dec2024 22:35:04.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrHob lost connection: Disconnected
+[30Dec2024 22:35:04.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob left the game
+[30Dec2024 22:35:09.189] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Dec2024 22:35:09.276] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Dec2024 22:35:09.359] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Dec2024 22:35:09.360] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Dec2024 22:35:09.444] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Dec2024 22:35:09.444] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Dec2024 22:35:09.530] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Dec2024 22:35:09.620] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Dec2024 22:35:09.620] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Dec2024 22:35:09.715] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Dec2024 22:35:09.716] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Dec2024 22:35:09.813] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Dec2024 22:35:10.865] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Dec2024 22:35:10.866] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Dec2024 22:35:10.866] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Dec2024 22:35:39.098] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6bd53696[id=<null>,name=MrHob,properties={},legacy=false] (/127.47.144.244:51843): Took too long to log in
+[30Dec2024 22:35:39.100] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6bd53696[id=<null>,name=MrHob,properties={},legacy=false] (/127.47.144.244:51843) lost connection: Took too long to log in
+[30Dec2024 22:35:39.149] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Dec2024 22:36:19.398] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b401b25[id=<null>,name=MrHob,properties={},legacy=false] (/127.47.144.244:59219) lost connection: Disconnected
+[30Dec2024 22:40:26.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 has reached the goal [Fighting Nightmares]
+[30Dec2024 22:40:30.498] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c72f10b[id=<null>,name=MrHob,properties={},legacy=false] (/127.47.144.244:49181) lost connection: Disconnected
+[30Dec2024 22:40:43.584] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Dec2024 22:40:43.672] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Dec2024 22:40:43.756] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Dec2024 22:40:43.756] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Dec2024 22:40:43.842] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Dec2024 22:40:43.928] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Dec2024 22:40:43.928] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Dec2024 22:40:44.014] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Dec2024 22:40:44.014] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Dec2024 22:40:44.099] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Dec2024 22:40:44.100] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Dec2024 22:40:44.183] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Dec2024 22:40:44.712] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Dec2024 22:40:44.713] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Dec2024 22:40:44.714] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Dec2024 22:40:44.774] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30Dec2024 22:40:47.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrHob[/127.47.144.244:56835] logged in with entity id 23200 at (-1218.5901979018731, 57.81941104184539, -3396.9881534436727)
+[30Dec2024 22:40:47.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob joined the game
+[30Dec2024 22:40:48.047] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to MrHob
+[30Dec2024 22:40:48.356] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from MrHob
+[30Dec2024 22:41:33.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> gabo
+[30Dec2024 22:41:39.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> esperame
+[30Dec2024 22:41:43.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> bajate
+[30Dec2024 22:41:47.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> para conducir mientras
+[30Dec2024 22:42:43.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> ya vamos
+[30Dec2024 22:43:03.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> volvi
+[30Dec2024 22:43:05.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> hola
+[30Dec2024 22:43:16.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> samu
+[30Dec2024 22:44:23.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> sam parece npc
+[30Dec2024 22:44:32.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> posiblementelo sea
+[30Dec2024 22:44:54.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrHob moved wrongly!
+[30Dec2024 22:45:01.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Lifestealer
+[30Dec2024 22:45:19.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 withered away whilst fighting Corpse Fly
+[30Dec2024 22:45:36.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> samueldonde estas ?
+[30Dec2024 22:45:42.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> recuerdas
+[30Dec2024 22:45:44.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> la aldea
+[30Dec2024 22:45:51.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> donde hicimos el barco
+[30Dec2024 22:45:53.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> si yo tambien mori
+[30Dec2024 22:45:54.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ahi
+[30Dec2024 22:45:59.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> rompiste el barco ?
+[30Dec2024 22:46:00.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> NOOO
+[30Dec2024 22:46:04.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> perdimos el bote
+[30Dec2024 22:46:15.051] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:totem_of_undying 01
+[30Dec2024 22:46:23.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> que hacemos
+[30Dec2024 22:46:30.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> no tenemos los materiales
+[30Dec2024 22:46:32.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> para hacer
+[30Dec2024 22:46:35.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> seguir caminando
+[30Dec2024 22:46:48.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> o conseguir caballos
+[30Dec2024 22:46:49.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> vamos
+[30Dec2024 22:46:57.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> espera
+[30Dec2024 22:47:01.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> nos vamos a morir de hambre
+[30Dec2024 22:47:02.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> podemos ir a pie hasta el barcon
+[30Dec2024 22:47:07.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> bueno si
+[30Dec2024 22:47:08.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> antes que desaparezca
+[30Dec2024 22:47:18.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrHob lost connection: Timed out
+[30Dec2024 22:47:18.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob left the game
+[30Dec2024 22:48:07.249] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@11604f5f[id=<null>,name=MrHob,properties={},legacy=false] (/127.47.144.244:48937) lost connection: Disconnected
+[30Dec2024 22:48:39.326] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Dec2024 22:48:39.327] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Dec2024 22:48:39.327] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Dec2024 22:48:39.328] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Dec2024 22:48:39.328] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Dec2024 22:48:39.453] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Dec2024 22:48:39.460] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Dec2024 22:48:39.477] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Dec2024 22:48:39.512] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Dec2024 22:48:39.528] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Dec2024 22:48:39.531] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Dec2024 22:48:39.534] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Dec2024 22:48:44.951] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Dec2024 22:48:44.951] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Dec2024 22:48:44.989] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Dec2024 22:48:45.273] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30Dec2024 22:48:46.510] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrHob[/127.47.144.244:56465] logged in with entity id 25349 at (-1281.5299742529594, 69.0, -3532.080314295413)
+[30Dec2024 22:48:46.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob joined the game
+[30Dec2024 22:48:46.609] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to MrHob
+[30Dec2024 22:48:46.691] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from MrHob
+[30Dec2024 22:49:15.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> samuel
+[30Dec2024 22:49:36.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> gabo
+[30Dec2024 22:49:40.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> vamos a pie
+[30Dec2024 22:49:47.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> nos moriremos de hambre
+[30Dec2024 22:49:49.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> o paramos en esa piramide
+[30Dec2024 22:49:55.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> la piramide es peor
+[30Dec2024 22:49:58.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 has made the advancement [No Step on Snake]
+[30Dec2024 22:50:01.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ten
+[30Dec2024 22:50:24.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> yo tengo mucha sandia
+[30Dec2024 22:50:32.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> mi wifi va malisimo
+[30Dec2024 22:50:40.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> vamos a la piramide
+[30Dec2024 22:50:42.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> ya veo dale a tab
+[30Dec2024 22:50:53.491] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[30Dec2024 22:51:52.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> enserio entraste ?
+[30Dec2024 22:53:18.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 22:53:18.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdada<--[HERE]
+[30Dec2024 22:53:28.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> prioridad
+[30Dec2024 22:53:32.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> cuerdas:
+[30Dec2024 22:54:02.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> salgamos
+[30Dec2024 22:54:05.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> ok
+[30Dec2024 22:54:06.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> hay que buscar caballos
+[30Dec2024 22:54:42.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> wow
+[30Dec2024 22:54:51.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> samuel mira otro bioma
+[30Dec2024 22:54:55.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> porfin cambia el bioma
+[30Dec2024 22:54:57.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Hay otra piramide
+[30Dec2024 22:55:01.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> deberiamos seguire nesa dirrecion
+[30Dec2024 22:55:02.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> pero esa tiene boses
+[30Dec2024 22:55:06.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> al lado hay un campamento
+[30Dec2024 22:55:13.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> saquemos el campamentow
+[30Dec2024 22:55:17.301] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrHob lost connection: Timed out
+[30Dec2024 22:55:17.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob left the game
+[30Dec2024 22:55:29.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 has made the advancement [Rigged from the Start]
+[30Dec2024 22:55:30.536] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Dec2024 22:55:30.622] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Dec2024 22:55:30.705] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Dec2024 22:55:30.705] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Dec2024 22:55:30.786] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Dec2024 22:55:30.787] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Dec2024 22:55:30.867] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Dec2024 22:55:30.949] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Dec2024 22:55:30.952] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Dec2024 22:55:31.033] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Dec2024 22:55:31.114] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Dec2024 22:55:31.156] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Dec2024 22:55:31.668] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Dec2024 22:55:31.668] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Dec2024 22:55:31.669] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Dec2024 22:55:31.734] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30Dec2024 22:55:34.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrHob[/127.47.144.244:60617] logged in with entity id 27079 at (-1220.242015498288, 77.0, -3699.905620856017)
+[30Dec2024 22:55:34.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob joined the game
+[30Dec2024 22:55:34.588] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to MrHob
+[30Dec2024 22:55:34.691] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from MrHob
+[30Dec2024 22:55:55.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> mi wifi ya va mejor
+[30Dec2024 22:56:17.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> hay que entrar, adentro hay cuerdas
+[30Dec2024 22:56:47.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> no samuel no vayas
+[30Dec2024 22:56:53.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya sobrevivi a 1
+[30Dec2024 22:56:55.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> no es seugro
+[30Dec2024 22:56:59.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya yo e entrado
+[30Dec2024 22:57:02.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> sigamos aese otro bioma
+[30Dec2024 22:57:06.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> ta bien dale
+[30Dec2024 22:57:31.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> cuidado
+[30Dec2024 22:57:35.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> hay trampas de fuego
+[30Dec2024 22:57:41.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> activa el modo pvp para pelear
+[30Dec2024 22:57:43.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> en la R
+[30Dec2024 22:57:51.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> hay arenisca falta tambien
+[30Dec2024 22:58:01.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> diatre gabo
+[30Dec2024 22:58:08.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ten
+[30Dec2024 22:58:10.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> tienes lava
+[30Dec2024 22:58:34.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 was slain by Kobolediator
+[30Dec2024 22:58:38.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> bruh
+[30Dec2024 22:58:42.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> XD
+[30Dec2024 22:58:44.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> xd
+[30Dec2024 22:58:45.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ven
+[30Dec2024 22:58:53.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> solo habia que evitar a ese boss
+[30Dec2024 22:58:59.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 withered away whilst fighting Nightmare Stalker
+[30Dec2024 22:59:14.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> simplemente hay demasiados enemigos
+[30Dec2024 22:59:21.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 22:59:21.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gfgf{<--[HERE]
+[30Dec2024 22:59:23.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> llevate de mi habia que seguir al otro bioma
+[30Dec2024 22:59:28.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Atousa'/28072, l='ServerLevel[world]', x=-1342.86, y=72.00, z=-3485.14] died, message: 'Atousa was slain by Zombie Bruiser'
+[30Dec2024 22:59:28.307] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Atousa'/28072, l='ServerLevel[world]', x=-1342.86, y=72.00, z=-3485.14] died: Atousa was slain by Zombie Bruiser
+[30Dec2024 22:59:47.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 has reached the goal [Horror Under the Mantle]
+[30Dec2024 23:00:43.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Blindfolded]
+[30Dec2024 23:00:56.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> ya voy
+[30Dec2024 23:02:40.945] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:41.044] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:41.145] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:41.244] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:41.346] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:43.294] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:43.395] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:43.494] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:43.646] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:43.744] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:43.895] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:45.096] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:45.194] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:50.348] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 7 ms
+[30Dec2024 23:02:50.445] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:50.554] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:50.647] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 6 ms
+[30Dec2024 23:02:50.745] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:50.846] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 6 ms
+[30Dec2024 23:02:50.944] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:51.294] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:51.394] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:55.444] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:55.694] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:55.795] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:55.895] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:56.145] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:02:56.394] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:03:01.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> esta por ahi lo se
+[30Dec2024 23:03:14.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> con una manzana de notch
+[30Dec2024 23:03:16.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> me lo papeo
+[30Dec2024 23:03:24.245] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:03:24.345] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:03:24.445] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:03:24.543] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:03:27.346] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:03:27.445] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:03:27.544] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:03:28.595] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 4 ms
+[30Dec2024 23:03:46.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ez
+[30Dec2024 23:03:48.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 was slain by Kobolediator
+[30Dec2024 23:03:59.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> ME ONE SHOTEO
+[30Dec2024 23:04:11.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ez
+[30Dec2024 23:04:20.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> y me rompio media armadura
+[30Dec2024 23:04:30.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya lo mate
+[30Dec2024 23:05:17.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> samuel yo le voy a dar para el otro bioma como te dije me tiene harto esa cosa
+[30Dec2024 23:05:59.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 withered away
+[30Dec2024 23:06:45.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> xd
+[30Dec2024 23:07:41.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has reached the goal [Sky's the Limit]
+[30Dec2024 23:07:45.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> xD
+[30Dec2024 23:07:47.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> gabo
+[30Dec2024 23:07:47.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> xd
+[30Dec2024 23:07:50.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> te falta armadura
+[30Dec2024 23:07:59.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> el mastodonte la rompio
+[30Dec2024 23:08:04.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> de dos golpes
+[30Dec2024 23:08:09.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> gabo no mueras cada 5 segundos
+[30Dec2024 23:08:21.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> xd
+[30Dec2024 23:08:24.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> haste una armadura con eso
+[30Dec2024 23:09:10.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> ven sigueme
+[30Dec2024 23:09:13.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> salgamos de aqui
+[30Dec2024 23:09:13.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> espera
+[30Dec2024 23:09:18.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> vamos a vivr en la jungla?
+[30Dec2024 23:09:23.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> no
+[30Dec2024 23:09:24.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> mas alla
+[30Dec2024 23:09:35.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> despues de la jungla en algun momento encontraremos llanura
+[30Dec2024 23:09:46.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> pero es importante salir del desierto primero
+[30Dec2024 23:09:58.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> oigan
+[30Dec2024 23:10:02.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Diga
+[30Dec2024 23:10:05.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> al morir no se pierde nada de nada?
+[30Dec2024 23:10:09.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Nope
+[30Dec2024 23:10:14.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> hicimos un trato con el server
+[30Dec2024 23:10:22.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> entonces
+[30Dec2024 23:10:24.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 23:10:24.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vgfgh{<--[HERE]
+[30Dec2024 23:10:29.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> es mejor morir que subir a la superficie xd
+[30Dec2024 23:10:33.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> si
+[30Dec2024 23:10:38.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> a bueno
+[30Dec2024 23:10:40.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> donde estas samuel
+[30Dec2024 23:10:41.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> la exp se pierde
+[30Dec2024 23:10:53.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> pero nada mas
+[30Dec2024 23:10:56.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> no
+[30Dec2024 23:10:56.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel2011992 has made the advancement [Good Demoman]
+[30Dec2024 23:10:56.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> el nivel no, la exp
+[30Dec2024 23:11:00.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was impaled on a stalagmite
+[30Dec2024 23:11:02.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> si el nivel-
+[30Dec2024 23:11:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no
+[30Dec2024 23:11:09.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> el nivel no-
+[30Dec2024 23:11:30.552] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:ancient_debris 03
+[30Dec2024 23:11:48.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> samuel donde estas ?
+[30Dec2024 23:12:07.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> yo estoy lleando a la jungla
+[30Dec2024 23:14:18.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 23:14:18.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hghj<--[HERE]
+[30Dec2024 23:14:22.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> SA
+[30Dec2024 23:14:26.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya va
+[30Dec2024 23:15:10.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> NO ME LA CONTES
+[30Dec2024 23:15:16.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> que fue
+[30Dec2024 23:15:16.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> QUE HICIERON CON LA MESA DE ENCANTAMIENTOS
+[30Dec2024 23:15:23.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> que
+[30Dec2024 23:15:25.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> SAMUEL DONDE ESTAS
+[30Dec2024 23:15:31.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> en la piramide
+[30Dec2024 23:15:44.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel2011992> te dije que salieras ven a esta aldea en la saban
+[30Dec2024 23:15:47.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya va
