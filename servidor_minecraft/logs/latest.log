@@ -938,3 +938,54 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 23:46:08.794] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:redstone_block 10
 [29Dec2024 23:46:19.646] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 12 ms
 [29Dec2024 23:47:00.747] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[29Dec2024 23:48:20.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Dec2024 23:48:20.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dwadwa<--[HERE]
+[29Dec2024 23:48:45.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was slain by Dire Hound Leader
+[29Dec2024 23:48:48.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
+[29Dec2024 23:48:48.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
+[29Dec2024 23:49:38.253] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[29Dec2024 23:49:38.389] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[29Dec2024 23:49:38.429] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[29Dec2024 23:49:38.429] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[29Dec2024 23:49:38.529] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[29Dec2024 23:49:38.531] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[29Dec2024 23:49:38.532] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[29Dec2024 23:49:38.663] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[29Dec2024 23:49:38.685] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[29Dec2024 23:49:38.796] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[29Dec2024 23:49:38.837] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[29Dec2024 23:49:38.838] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[29Dec2024 23:49:39.647] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[29Dec2024 23:49:39.647] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[29Dec2024 23:49:39.648] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[29Dec2024 23:49:39.654] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[29Dec2024 23:49:42.218] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotRealSamX07[/127.99.128.5:39911] logged in with entity id 1356 at (-1436.6069699836573, 81.0, -2233.873185327249)
+[29Dec2024 23:49:42.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 joined the game
+[29Dec2024 23:49:42.293] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NotRealSamX07
+[29Dec2024 23:49:44.277] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NotRealSamX07
+[29Dec2024 23:50:25.594] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 8 ms
+[29Dec2024 23:50:25.745] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 10 ms
+[29Dec2024 23:51:55.688] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[29Dec2024 23:53:07.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Dec2024 23:53:07.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dwada<--[HERE]
+[29Dec2024 23:53:35.838] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[29Dec2024 23:53:35.939] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[29Dec2024 23:53:36.038] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[29Dec2024 23:53:39.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Dec2024 23:53:39.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dawdaw<--[HERE]
+[29Dec2024 23:57:38.489] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[29Dec2024 23:57:38.589] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[29Dec2024 23:57:38.688] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[29Dec2024 23:57:38.789] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[29Dec2024 23:57:38.892] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 8 ms
+[29Dec2024 23:57:38.987] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[29Dec2024 23:58:49.239] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[29Dec2024 23:58:49.339] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 6 ms
+[29Dec2024 23:58:49.440] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[29Dec2024 23:58:49.538] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[29Dec2024 23:58:49.639] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[29Dec2024 23:58:49.789] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[29Dec2024 23:58:49.889] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[29Dec2024 23:59:41.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Dec2024 23:59:41.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdwada<--[HERE]
+[29Dec2024 23:59:53.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] quien eres....
