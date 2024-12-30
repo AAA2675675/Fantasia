@@ -2634,6 +2634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-30 21:09:53 +0000"
+    },
+    "done": true
+  },
   "incendium:root": {
     "criteria": {
       "requirement": "2024-12-30 20:54:03 +0000"
