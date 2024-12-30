@@ -2,3 +2,7 @@
 [30Dec2024 00:10:11.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdawda<--[HERE]
 [30Dec2024 00:10:22.338] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
 [30Dec2024 00:10:22.439] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[30Dec2024 00:18:23.142] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[30Dec2024 00:18:28.389] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[30Dec2024 00:26:35.425] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:iron_block 05
+[30Dec2024 00:27:58.520] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:gold_block 03

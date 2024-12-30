@@ -6870,3 +6870,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 00:17:57.659] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
 [30Dec2024 00:17:57.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 00:17:57.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 00:18:23.142] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[30Dec2024 00:18:23.215] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[30Dec2024 00:18:28.389] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_savanna) took 5 ms
+[30Dec2024 00:21:29.892] [Worker-Main-66/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-66 shutdown
+[30Dec2024 00:22:29.892] [Worker-Main-68/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-68 shutdown
+[30Dec2024 00:22:57.646] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[30Dec2024 00:22:57.647] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[30Dec2024 00:22:57.647] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[30Dec2024 00:22:57.648] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[30Dec2024 00:22:57.651] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[30Dec2024 00:22:57.663] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[30Dec2024 00:22:57.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 00:22:57.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 00:23:29.892] [Worker-Main-67/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-67 shutdown
+[30Dec2024 00:24:39.838] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-78
+[30Dec2024 00:24:39.839] [Worker-Main-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-79
+[30Dec2024 00:24:39.839] [Worker-Main-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-80
+[30Dec2024 00:26:35.425] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:iron_block 05
+[30Dec2024 00:27:50.563] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[30Dec2024 00:27:50.563] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[30Dec2024 00:27:57.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 00:27:57.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 00:27:58.520] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:gold_block 03
