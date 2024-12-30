@@ -132,3 +132,16 @@
 [30Dec2024 01:43:55.307] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NotRealSamX07
 [30Dec2024 01:46:40.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
 [30Dec2024 01:46:40.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
+[30Dec2024 01:50:24.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Dec2024 01:50:24.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdawd<--[HERE]
+[30Dec2024 01:50:53.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Dec2024 01:50:53.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Dec2024 01:50:53.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Dec2024 01:50:53.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Dec2024 01:50:53.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Dec2024 01:50:53.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Dec2024 01:50:53.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Dec2024 01:50:53.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Dec2024 01:50:53.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Dec2024 01:50:53.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Dec2024 01:50:53.918] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@5ddcba3b
