@@ -67,6 +67,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-12-31 04:44:57 +0000",
       "minecraft:windswept_hills": "2024-12-31 04:28:31 +0000",
       "minecraft:bamboo_jungle": "2024-12-31 04:06:42 +0000",
       "minecraft:beach": "2024-12-21 23:19:45 +0000",
@@ -76,9 +77,11 @@
       "minecraft:dripstone_caves": "2024-12-22 02:04:54 +0000",
       "minecraft:forest": "2024-12-31 04:09:42 +0000",
       "minecraft:lush_caves": "2024-12-31 04:05:46 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-31 04:45:55 +0000",
       "minecraft:desert": "2024-12-21 23:06:35 +0000",
       "minecraft:windswept_forest": "2024-12-31 04:30:21 +0000",
       "minecraft:jungle": "2024-12-31 04:08:38 +0000",
+      "minecraft:ocean": "2024-12-31 04:44:34 +0000",
       "minecraft:windswept_savanna": "2024-12-31 02:27:43 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-31 04:30:27 +0000",
       "minecraft:savanna": "2024-12-21 23:19:38 +0000",
@@ -2062,6 +2065,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-22 04:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-31 04:41:28 +0000"
     },
     "done": true
   },
