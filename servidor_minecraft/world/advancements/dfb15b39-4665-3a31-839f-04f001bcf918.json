@@ -2336,6 +2336,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
+    "criteria": {
+      "pot_crafted_using_only_sherds": "2024-12-31 00:44:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-31 00:37:28 +0000"
