@@ -3432,15 +3432,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2024-12-31 00:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-31 00:26:02 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
       "dismantledto_bones_0": "2024-12-31 00:04:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2024-12-31 00:26:02 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/purple_dye_from_chorus_fruit": {
+    "criteria": {
+      "has_item": "2024-12-31 00:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-12-31 00:16:34 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/chorus_plant_from_fruit": {
+    "criteria": {
+      "has_item": "2024-12-31 00:16:34 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-12-31 00:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-31 00:26:02 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2024-12-30 23:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-31 00:26:02 +0000"
     },
     "done": true
   },
