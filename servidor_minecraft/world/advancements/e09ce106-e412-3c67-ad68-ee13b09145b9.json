@@ -2469,5 +2469,11 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_forging": {
+    "criteria": {
+      "dark_forging_0": "2024-12-31 00:10:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
