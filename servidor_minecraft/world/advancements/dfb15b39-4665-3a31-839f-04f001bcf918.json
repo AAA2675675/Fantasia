@@ -74,6 +74,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-31 02:06:32 +0000",
+      "minecraft:taiga": "2024-12-31 03:17:28 +0000",
+      "minecraft:deep_ocean": "2024-12-31 03:00:09 +0000",
+      "minecraft:frozen_river": "2024-12-31 03:10:19 +0000",
       "minecraft:cherry_grove": "2024-12-31 02:05:04 +0000",
       "minecraft:bamboo_jungle": "2024-12-31 01:29:23 +0000",
       "minecraft:wooded_badlands": "2024-12-31 02:43:54 +0000",
@@ -81,13 +84,23 @@
       "minecraft:beach": "2024-12-21 22:36:32 +0000",
       "minecraft:sparse_jungle": "2024-12-31 01:35:01 +0000",
       "minecraft:river": "2024-12-22 22:54:29 +0000",
+      "minecraft:snowy_plains": "2024-12-31 03:10:42 +0000",
       "minecraft:stony_shore": "2024-12-31 01:50:25 +0000",
       "minecraft:dripstone_caves": "2024-12-22 02:04:54 +0000",
+      "minecraft:snowy_taiga": "2024-12-31 03:10:23 +0000",
+      "minecraft:grove": "2024-12-31 03:15:46 +0000",
+      "minecraft:jagged_peaks": "2024-12-31 03:17:10 +0000",
+      "minecraft:cold_ocean": "2024-12-31 03:02:04 +0000",
       "minecraft:forest": "2024-12-31 01:41:43 +0000",
       "minecraft:lush_caves": "2024-12-30 21:55:34 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-31 03:00:44 +0000",
+      "minecraft:ice_spikes": "2024-12-31 03:12:02 +0000",
+      "minecraft:frozen_ocean": "2024-12-31 03:07:41 +0000",
       "minecraft:desert": "2024-12-21 22:37:15 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-31 03:03:39 +0000",
       "minecraft:jungle": "2024-12-30 22:13:16 +0000",
       "minecraft:ocean": "2024-12-31 02:16:53 +0000",
+      "minecraft:snowy_beach": "2024-12-31 03:10:21 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-31 02:12:38 +0000",
       "minecraft:savanna": "2024-12-31 01:47:09 +0000",
       "minecraft:plains": "2024-12-31 01:44:18 +0000"
@@ -2433,15 +2446,51 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-12-31 03:03:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-12-31 02:19:54 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-31 02:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-31 02:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-31 02:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-31 02:58:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-31 01:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-31 02:58:48 +0000"
     },
     "done": true
   },
@@ -2457,15 +2506,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-31 02:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-31 02:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-31 02:58:48 +0000"
+    },
+    "done": true
+  },
   "nova_structures:root": {
     "criteria": {
       "nova_structures:adventure/find_tavern": "2024-12-31 01:25:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-31 02:58:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-12-31 01:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-31 02:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-31 02:58:48 +0000"
     },
     "done": true
   },
@@ -2478,6 +2563,12 @@
   "nova_structures:adventure/tavern_quest": {
     "criteria": {
       "open_tavern_chest": "2024-12-31 01:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-31 02:57:41 +0000"
     },
     "done": true
   },
