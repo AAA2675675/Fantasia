@@ -74,6 +74,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2024-12-31 04:44:57 +0000",
+      "minecraft:frozen_river": "2024-12-31 05:48:10 +0000",
       "minecraft:windswept_hills": "2024-12-31 04:28:30 +0000",
       "minecraft:wooded_badlands": "2024-12-22 21:22:58 +0000",
       "minecraft:bamboo_jungle": "2024-12-31 04:06:39 +0000",
@@ -82,7 +83,9 @@
       "minecraft:sparse_jungle": "2024-12-22 05:17:39 +0000",
       "minecraft:river": "2024-12-22 04:37:29 +0000",
       "minecraft:stony_shore": "2024-12-22 21:13:25 +0000",
+      "minecraft:snowy_plains": "2024-12-31 05:47:00 +0000",
       "minecraft:dripstone_caves": "2024-12-22 02:04:48 +0000",
+      "minecraft:snowy_taiga": "2024-12-31 05:45:39 +0000",
       "minecraft:grove": "2024-12-31 05:34:43 +0000",
       "minecraft:jagged_peaks": "2024-12-31 05:35:34 +0000",
       "minecraft:forest": "2024-12-31 04:09:41 +0000",
@@ -2614,6 +2617,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2024-12-31 03:20:39 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:ice_tower": {
+    "criteria": {
+      "ice": "2024-12-31 05:53:42 +0000"
     },
     "done": true
   },

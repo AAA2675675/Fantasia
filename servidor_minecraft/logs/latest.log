@@ -2098,3 +2098,65 @@
 [31Dec2024 05:37:14.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> pudo*
 [31Dec2024 05:37:20.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [31Dec2024 05:37:20.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdada<--[HERE]
+[31Dec2024 05:43:51.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> awdada
+[31Dec2024 05:43:51.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> que lag
+[31Dec2024 05:43:55.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> fua
+[31Dec2024 05:43:56.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31Dec2024 05:43:56.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdad<--[HERE]
+[31Dec2024 05:45:52.049] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[31Dec2024 05:46:38.348] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[31Dec2024 05:46:53.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> wow
+[31Dec2024 05:47:06.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> waystonee
+[31Dec2024 05:47:14.467] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[31Dec2024 05:47:14.467] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[31Dec2024 05:47:14.467] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[31Dec2024 05:47:14.547] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[31Dec2024 05:47:14.548] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[31Dec2024 05:47:14.548] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[31Dec2024 05:47:14.548] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[31Dec2024 05:47:14.548] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[31Dec2024 05:47:14.548] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[31Dec2024 05:47:14.703] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[31Dec2024 05:47:14.703] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[31Dec2024 05:47:14.703] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[31Dec2024 05:47:14.703] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[31Dec2024 05:47:14.761] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[31Dec2024 05:47:14.761] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[31Dec2024 05:47:14.761] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[31Dec2024 05:47:14.761] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[31Dec2024 05:47:14.761] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[31Dec2024 05:47:45.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> que lag
+[31Dec2024 05:48:44.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no
+[31Dec2024 05:48:52.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no puede ser
+[31Dec2024 05:49:27.231] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[31Dec2024 05:50:03.379] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[31Dec2024 05:52:08.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> esta sera la peor noche del viaje
+[31Dec2024 05:52:13.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Por?
+[31Dec2024 05:52:15.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> que pasa
+[31Dec2024 05:52:18.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ya no
+[31Dec2024 05:52:21.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no habia refugio cerca xd
+[31Dec2024 05:52:39.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> menos mal encontre una torre xd
+[31Dec2024 05:53:42.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 has made the advancement [Brrrrrr]
+[31Dec2024 05:54:37.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hago tp a casa y vamos
+[31Dec2024 05:54:44.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Que
+[31Dec2024 05:54:47.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> a dormir
+[31Dec2024 05:54:49.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Ok
+[31Dec2024 05:55:32.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ya?
+[31Dec2024 05:55:56.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Esta zona de cofres esta quedando
+[31Dec2024 05:56:07.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> hoy es 31 ala
+[31Dec2024 05:57:44.301] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[31Dec2024 05:59:29.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ustedes deberian hacer una base y no vivir al aire libre xd
+[31Dec2024 06:00:02.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> por fin
+[31Dec2024 06:00:07.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sii eso es solo temporal xd
+[31Dec2024 06:00:11.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> xd
+[31Dec2024 06:00:18.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> mi base esta quedndo bonita
+[31Dec2024 06:00:44.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> pero parece un cubo XD
+[31Dec2024 06:00:51.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> por fin
+[31Dec2024 06:01:03.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> por eso la meti como en un bosque de saban y le puse faroles a los arboles
+[31Dec2024 06:01:07.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> porfin que
+[31Dec2024 06:01:07.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> llegue
+[31Dec2024 06:01:17.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es hermoso xd
+[31Dec2024 06:01:27.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> a donde llegaste
+[31Dec2024 06:01:40.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hay una bella estatua xd
+[31Dec2024 06:02:03.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> es la estatua de himmel
+[31Dec2024 06:02:10.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ponle flores
