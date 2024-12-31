@@ -2283,3 +2283,35 @@
 [31Dec2024 06:33:13.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A<--[HERE]
 [31Dec2024 06:33:16.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Iron Golem
 [31Dec2024 06:33:17.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Iron Golem
+[31Dec2024 06:34:23.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Que bien se ve el inventario limpio
+[31Dec2024 06:35:05.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cierto
+[31Dec2024 06:38:23.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Mi lava infinita god
+[31Dec2024 06:39:37.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Momento deforestacion!
+[31Dec2024 06:40:14.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Iron Golem
+[31Dec2024 06:40:16.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Iron Golem
+[31Dec2024 06:40:17.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Iron Golem
+[31Dec2024 06:40:18.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Iron Golem
+[31Dec2024 06:40:18.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Iron Golem
+[31Dec2024 06:40:19.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Iron Golem
+[31Dec2024 06:40:19.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Iron Golem
+[31Dec2024 06:40:20.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Iron Golem
+[31Dec2024 06:40:20.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Iron Golem
+[31Dec2024 06:40:21.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Iron Golem
+[31Dec2024 06:40:21.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Iron Golem
+[31Dec2024 06:40:57.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> dormir?
+[31Dec2024 06:41:03.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> tya
+[31Dec2024 06:42:24.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrHob lost connection: Disconnected
+[31Dec2024 06:42:24.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob left the game
+[31Dec2024 06:42:34.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 lost connection: Disconnected
+[31Dec2024 06:42:34.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 left the game
+[31Dec2024 06:42:51.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Dec2024 06:42:51.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Dec2024 06:42:51.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Dec2024 06:42:51.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Dec2024 06:42:51.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Dec2024 06:42:51.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Dec2024 06:42:51.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Dec2024 06:42:51.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Dec2024 06:42:51.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Dec2024 06:42:51.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Dec2024 06:42:52.219] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@34040e08
