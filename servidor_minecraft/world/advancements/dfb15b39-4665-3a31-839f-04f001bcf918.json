@@ -73,12 +73,24 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-31 02:06:32 +0000",
+      "minecraft:cherry_grove": "2024-12-31 02:05:04 +0000",
+      "minecraft:bamboo_jungle": "2024-12-31 01:29:23 +0000",
+      "minecraft:wooded_badlands": "2024-12-31 02:43:54 +0000",
+      "minecraft:savanna_plateau": "2024-12-31 02:34:57 +0000",
       "minecraft:beach": "2024-12-21 22:36:32 +0000",
+      "minecraft:sparse_jungle": "2024-12-31 01:35:01 +0000",
       "minecraft:river": "2024-12-22 22:54:29 +0000",
+      "minecraft:stony_shore": "2024-12-31 01:50:25 +0000",
       "minecraft:dripstone_caves": "2024-12-22 02:04:54 +0000",
+      "minecraft:forest": "2024-12-31 01:41:43 +0000",
       "minecraft:lush_caves": "2024-12-30 21:55:34 +0000",
       "minecraft:desert": "2024-12-21 22:37:15 +0000",
-      "minecraft:jungle": "2024-12-30 22:13:16 +0000"
+      "minecraft:jungle": "2024-12-30 22:13:16 +0000",
+      "minecraft:ocean": "2024-12-31 02:16:53 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-31 02:12:38 +0000",
+      "minecraft:savanna": "2024-12-31 01:47:09 +0000",
+      "minecraft:plains": "2024-12-31 01:44:18 +0000"
     },
     "done": false
   },
@@ -2403,9 +2415,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-31 02:05:34 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:goblins_encounter_success": {
+    "criteria": {
+      "goblins_encounter_success_0": "2024-12-31 01:44:56 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rattlesnake": {
     "criteria": {
       "killed": "2024-12-31 01:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-31 02:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-31 01:47:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-31 01:50:46 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2024-12-31 01:50:49 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2024-12-31 01:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-31 01:47:49 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_jungle": "2024-12-31 01:25:02 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2024-12-31 01:26:27 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-12-31 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/super_sonic": {
+    "criteria": {
+      "fly": "2024-12-31 01:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-31 01:47:49 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2024-12-31 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-12-31 02:05:27 +0000"
     },
     "done": true
   },
