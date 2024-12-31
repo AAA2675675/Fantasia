@@ -83,14 +83,19 @@
       "minecraft:river": "2024-12-22 04:37:29 +0000",
       "minecraft:stony_shore": "2024-12-22 21:13:25 +0000",
       "minecraft:dripstone_caves": "2024-12-22 02:04:48 +0000",
+      "minecraft:grove": "2024-12-31 05:34:43 +0000",
+      "minecraft:jagged_peaks": "2024-12-31 05:35:34 +0000",
       "minecraft:forest": "2024-12-31 04:09:41 +0000",
       "minecraft:lush_caves": "2024-12-31 04:05:45 +0000",
       "minecraft:deep_cold_ocean": "2024-12-31 04:45:55 +0000",
+      "minecraft:frozen_ocean": "2024-12-31 05:28:24 +0000",
       "minecraft:desert": "2024-12-21 22:51:54 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-31 04:48:36 +0000",
       "minecraft:windswept_forest": "2024-12-31 04:30:22 +0000",
       "minecraft:jungle": "2024-12-31 04:08:35 +0000",
       "minecraft:ocean": "2024-12-31 04:44:34 +0000",
       "minecraft:warm_ocean": "2024-12-22 21:13:46 +0000",
+      "minecraft:frozen_peaks": "2024-12-31 05:35:27 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-31 04:30:26 +0000",
       "minecraft:savanna": "2024-12-31 04:11:46 +0000",
       "minecraft:plains": "2024-12-31 04:11:21 +0000"
@@ -2600,6 +2605,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-12-31 04:48:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2024-12-31 03:20:39 +0000"
@@ -2609,6 +2620,30 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-12-31 04:43:46 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_anglers_fang": {
+    "criteria": {
+      "anglers_fang": "2024-12-31 05:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-31 04:49:53 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2024-12-31 05:20:30 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/anglers_fang": {
+    "criteria": {
+      "has_item": "2024-12-31 05:20:30 +0000"
     },
     "done": true
   },
@@ -2642,6 +2677,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2024-12-31 05:20:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2024-12-31 04:43:46 +0000"
@@ -2666,6 +2707,18 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-31 05:01:24 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2024-12-31 05:20:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-31 03:20:39 +0000"
@@ -2675,6 +2728,12 @@
   "minecraft:recipes/building_blocks/dye_red_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-31 03:20:39 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2024-12-31 05:20:30 +0000"
     },
     "done": true
   },
@@ -2717,6 +2776,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2024-12-31 03:20:39 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_shell_horn": {
+    "criteria": {
+      "shell_horn": "2024-12-31 04:51:30 +0000"
     },
     "done": true
   },
