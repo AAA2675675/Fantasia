@@ -874,6 +874,7 @@
       "bread": "2024-12-21 23:22:16 +0000",
       "golden_apple": "2024-12-22 22:44:31 +0000",
       "rotten_flesh": "2024-12-23 00:20:45 +0000",
+      "golden_carrot": "2024-12-31 01:05:52 +0000",
       "carrot": "2024-12-22 21:49:14 +0000"
     },
     "done": false
@@ -2270,27 +2271,81 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:charm_collector": {
-    "criteria": {
-      "charm_collector_0": "2024-12-31 00:18:08 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-31 00:12:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_sign": {
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
     "criteria": {
-      "has_planks": "2024-12-31 00:37:28 +0000"
+      "has_dune_armor_trim_smithing_template": "2024-12-31 00:12:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-12-31 00:18:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2024-12-31 00:18:08 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2024-12-31 00:18:08 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2024-12-31 00:18:19 +0000"
     },
     "done": true
   },
   "stellarity:recipes/purple_dye_from_chorus_fruit": {
     "criteria": {
       "has_item": "2024-12-31 00:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-12-31 00:21:49 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/chorus_plant_from_fruit": {
+    "criteria": {
+      "has_item": "2024-12-31 00:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-31 00:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-31 00:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-31 00:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-31 00:37:28 +0000"
     },
     "done": true
   },
@@ -2306,63 +2361,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2024-12-31 00:35:36 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:guidetothenextworld": {
-    "criteria": {
-      "guidetothenextworld_0": "2024-12-31 00:18:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-31 00:37:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2024-12-31 00:21:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
-    "criteria": {
-      "has_dune_armor_trim_smithing_template": "2024-12-31 00:12:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
-    "criteria": {
-      "pot_crafted_using_only_sherds": "2024-12-31 00:44:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-31 00:37:28 +0000"
-    },
-    "done": true
-  },
-  "stellarity:recipes/chorus_plant_from_fruit": {
-    "criteria": {
-      "has_item": "2024-12-31 00:21:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2024-12-31 00:35:36 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:good_demoman": {
-    "criteria": {
-      "good_demoman_0": "2024-12-31 00:18:00 +0000"
     },
     "done": true
   },
@@ -2384,21 +2391,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2024-12-31 00:35:36 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dark_creator": {
-    "criteria": {
-      "dark_creator_0": "2024-12-31 00:18:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-31 00:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
+    "criteria": {
+      "pot_crafted_using_only_sherds": "2024-12-31 00:44:07 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2024-12-31 01:07:28 +0000"
     },
     "done": true
   },

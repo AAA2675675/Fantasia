@@ -656,3 +656,79 @@
 [31Dec2024 00:58:06.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> NO PUEDO AMS
 [31Dec2024 00:58:12.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> xd
 [31Dec2024 00:58:22.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> OHNO
+[31Dec2024 00:58:32.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ESTA DESTRUYENDO EL PUEBLO CON UNA PALA
+[31Dec2024 00:58:58.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> MIRA ESO
+[31Dec2024 00:59:07.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was slain by Katee555
+[31Dec2024 00:59:07.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 has reached the goal [Horror Under the Mantle]
+[31Dec2024 00:59:08.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 withered away whilst fighting NotRealSamX07
+[31Dec2024 00:59:11.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> XDD
+[31Dec2024 00:59:35.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam...?
+[31Dec2024 00:59:45.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> ojo
+[31Dec2024 00:59:47.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> ese giganton
+[31Dec2024 00:59:48.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> MIRALO
+[31Dec2024 01:00:11.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ya tenemos
+[31Dec2024 01:00:18.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> okno
+[31Dec2024 01:00:20.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> falta
+[31Dec2024 01:00:26.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was burnt to a crisp whilst fighting Katee555
+[31Dec2024 01:00:28.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
+[31Dec2024 01:00:28.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
+[31Dec2024 01:00:30.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> perdon xd
+[31Dec2024 01:00:32.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> XDD
+[31Dec2024 01:01:17.917] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[31Dec2024 01:01:18.051] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[31Dec2024 01:01:18.092] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[31Dec2024 01:01:18.093] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[31Dec2024 01:01:18.185] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[31Dec2024 01:01:18.201] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[31Dec2024 01:01:18.201] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[31Dec2024 01:01:18.319] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[31Dec2024 01:01:18.320] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[31Dec2024 01:01:18.453] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[31Dec2024 01:01:18.496] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[31Dec2024 01:01:18.497] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[31Dec2024 01:01:19.409] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[31Dec2024 01:01:19.409] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[31Dec2024 01:01:19.411] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[31Dec2024 01:01:19.418] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[31Dec2024 01:01:21.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotRealSamX07[/127.99.128.5:38517] logged in with entity id 62148 at (-1452.8468440141035, 77.0, -2161.9255964057047)
+[31Dec2024 01:01:21.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 joined the game
+[31Dec2024 01:01:21.973] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NotRealSamX07
+[31Dec2024 01:01:23.992] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NotRealSamX07
+[31Dec2024 01:01:39.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> q raro
+[31Dec2024 01:01:40.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> s-sam...
+[31Dec2024 01:01:43.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> estas bien...?
+[31Dec2024 01:01:53.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no me simpatizas
+[31Dec2024 01:02:23.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es que no me tienen paciencia...
+[31Dec2024 01:02:43.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> NOOO
+[31Dec2024 01:03:47.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> SE ACABO LA MUSICA
+[31Dec2024 01:03:51.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> lo hicimos
+[31Dec2024 01:03:53.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> LA CALLAMOS
+[31Dec2024 01:03:54.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> xd
+[31Dec2024 01:04:34.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> tengo dos lingotes mas
+[31Dec2024 01:04:41.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sacaste el carbon? xd
+[31Dec2024 01:04:55.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> Era el alto horno?
+[31Dec2024 01:05:02.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> si ese
+[31Dec2024 01:05:05.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> el aumador
+[31Dec2024 01:05:11.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> alto horno
+[31Dec2024 01:05:16.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aumador
+[31Dec2024 01:05:20.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> EL AHUMADOR
+[31Dec2024 01:05:22.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> ES PARA COCINAR
+[31Dec2024 01:05:23.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aumador
+[31Dec2024 01:05:24.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> COMIDA
+[31Dec2024 01:05:32.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> Y ES DE ROBLE
+[31Dec2024 01:05:38.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> au
+[31Dec2024 01:05:57.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no sam, baja ese plato!
+[31Dec2024 01:05:59.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no lo hagas!
+[31Dec2024 01:06:17.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> xdd
+[31Dec2024 01:06:36.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> Adios frieren..
+[31Dec2024 01:06:42.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> XD
+[31Dec2024 01:06:52.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> uf
+[31Dec2024 01:06:54.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mira esto xd
+[31Dec2024 01:07:02.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> tienes huesos dobles?
+[31Dec2024 01:07:11.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> en el cofre creo
+[31Dec2024 01:07:23.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> bien hecho sam
+[31Dec2024 01:07:28.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [No Step on Snake]
+[31Dec2024 01:07:42.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mira sam xd
+[31Dec2024 01:07:43.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ven xd
+[31Dec2024 01:08:28.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> dale click derecho pero alejate
+[31Dec2024 01:08:32.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ALEJATE
