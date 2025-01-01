@@ -1368,3 +1368,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 22:14:36.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was poked to death by a sweet berry bush whilst trying to escape Corpse Fly
 [01Jan2025 22:14:36.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
 [01Jan2025 22:14:36.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
+[01Jan2025 22:15:50.441] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Jan2025 22:15:50.576] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Jan2025 22:15:50.622] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Jan2025 22:15:50.622] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Jan2025 22:15:50.712] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Jan2025 22:15:50.724] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Jan2025 22:15:50.725] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Jan2025 22:15:50.846] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Jan2025 22:15:50.847] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Jan2025 22:15:50.983] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Jan2025 22:15:50.983] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Jan2025 22:15:50.983] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Jan2025 22:15:51.832] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Jan2025 22:15:51.832] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Jan2025 22:15:51.835] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Jan2025 22:15:51.842] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Jan2025 22:15:54.383] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotRealSamX07[/127.99.128.5:44963] logged in with entity id 25664 at (2601.539022285816, 123.0, 1622.3539006255576)
+[01Jan2025 22:15:54.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 joined the game
+[01Jan2025 22:15:54.476] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NotRealSamX07
+[01Jan2025 22:15:56.551] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NotRealSamX07
+[01Jan2025 22:16:55.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> bueno, mierda pura
+[01Jan2025 22:17:05.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> yo no voy a jugar hasta que pongan lo del inventario
+[01Jan2025 22:17:15.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> le voy a decir a katee
+[01Jan2025 22:17:24.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> dile tu tmb
+[01Jan2025 22:17:27.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
+[01Jan2025 22:17:27.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
+[01Jan2025 22:18:48.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] roblox
+[01Jan2025 22:18:54.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Que?
+[01Jan2025 22:18:57.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Roblox?
+[01Jan2025 22:18:59.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mods de roblox
+[01Jan2025 22:19:06.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 13000
+[01Jan2025 22:19:11.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[01Jan2025 22:19:12.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> wtf
+[01Jan2025 22:19:19.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jan2025 22:19:19.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: made in heaven<--[HERE]
+[01Jan2025 22:19:22.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ejem ejem server...
+[01Jan2025 22:19:24.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] made in heaven
+[01Jan2025 22:19:34.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> para no permitir que sam se vaya...
+[01Jan2025 22:19:42.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Zombie
+[01Jan2025 22:19:47.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] XD
+[01Jan2025 22:19:49.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> guarde el inventario!
+[01Jan2025 22:19:54.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Ejem...
+[01Jan2025 22:20:39.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> MI LOOT!
+[01Jan2025 22:20:49.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> 😭
+[01Jan2025 22:24:17.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrHob lost connection: Disconnected
+[01Jan2025 22:24:17.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob left the game
+[01Jan2025 22:25:02.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jan2025 22:25:02.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdawda<--[HERE]
