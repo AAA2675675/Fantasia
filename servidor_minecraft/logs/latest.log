@@ -1088,3 +1088,73 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 20:03:03.629] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/5941, l='ServerLevel[world]', x=2611.36, y=131.06, z=1671.30]
 [01Jan2025 20:03:06.675] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/5952, l='ServerLevel[world]', x=2611.69, y=131.06, z=1673.58]
 [01Jan2025 20:03:07.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob drowned
+[01Jan2025 20:03:37.369] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Wita}[style={}] has been infected
+[01Jan2025 20:03:48.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob drowned
+[01Jan2025 20:04:07.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> alfin dia
+[01Jan2025 20:04:40.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> que hermoso
+[01Jan2025 20:04:47.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> el amanecer en el caribe
+[01Jan2025 20:04:58.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Stone Age]
+[01Jan2025 20:06:40.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> la jungla es muy bonita
+[01Jan2025 20:06:47.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> pues quedate-
+[01Jan2025 20:06:50.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> no
+[01Jan2025 20:06:59.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> no quiero ser tarzan o algo asi
+[01Jan2025 20:07:03.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> un arbol de sakura
+[01Jan2025 20:07:41.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ojala tuviera mis tijeras para las ojas
+[01Jan2025 20:07:53.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> me llevare un brote para plantarlos
+[01Jan2025 20:08:00.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> objetivo: no morir
+[01Jan2025 20:10:04.360] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[01Jan2025 20:10:07.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=454, y=74, z=549} BlockPos{x=454, y=75, z=550}
+[01Jan2025 20:13:07.132] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/9415, l='ServerLevel[world]', x=2636.70, y=64.06, z=1617.33]
+[01Jan2025 20:13:09.727] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/9432, l='ServerLevel[world]', x=2637.58, y=64.00, z=1623.49]
+[01Jan2025 20:13:30.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> un bioma de sakura
+[01Jan2025 20:13:37.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was shot by Summoner's Skeleton
+[01Jan2025 20:13:47.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> UN PANDA
+[01Jan2025 20:14:43.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> encontre un bosque ancestral
+[01Jan2025 20:15:24.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> SAM
+[01Jan2025 20:15:25.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> tSALTE
+[01Jan2025 20:15:27.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
+[01Jan2025 20:15:27.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
+[01Jan2025 20:16:16.809] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Jan2025 20:16:16.939] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Jan2025 20:16:16.939] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Jan2025 20:16:17.069] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Jan2025 20:16:17.069] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Jan2025 20:16:17.069] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Jan2025 20:16:17.206] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Jan2025 20:16:17.206] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Jan2025 20:16:17.340] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Jan2025 20:16:17.386] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Jan2025 20:16:17.386] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Jan2025 20:16:17.398] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Jan2025 20:16:18.165] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Jan2025 20:16:18.166] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Jan2025 20:16:18.166] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Jan2025 20:16:18.169] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Jan2025 20:16:20.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotRealSamX07[/127.99.128.5:50353] logged in with entity id 10884 at (2616.2508536999344, 64.0, 1609.5407869689373)
+[01Jan2025 20:16:20.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 joined the game
+[01Jan2025 20:16:20.780] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NotRealSamX07
+[01Jan2025 20:16:22.162] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NotRealSamX07
+[01Jan2025 20:18:02.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> estoy a 1000 bloques
+[01Jan2025 20:18:14.800] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-125, y=-56, z=60}
+[01Jan2025 20:18:14.805] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-126, y=-49, z=65}
+[01Jan2025 20:18:28.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> el bosque ancestral es enorm
+[01Jan2025 20:18:59.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Monster Hunter]
+[01Jan2025 20:19:04.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> y llenos de mobs
+[01Jan2025 20:19:52.067] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[01Jan2025 20:19:58.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> UNA WAYSTONE
+[01Jan2025 20:20:44.247] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[01Jan2025 20:20:44.413] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[01Jan2025 20:20:46.079] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[01Jan2025 20:20:46.081] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[01Jan2025 20:20:47.844] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[01Jan2025 20:20:47.939] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[01Jan2025 20:20:48.802] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[01Jan2025 20:20:48.895] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[01Jan2025 20:20:49.337] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[01Jan2025 20:20:53.450] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[01Jan2025 20:21:05.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> una cabaña
+[01Jan2025 20:21:38.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Zombie
+[01Jan2025 20:22:46.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Level Up]
+[01Jan2025 20:22:46.924] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:coal 16
+[01Jan2025 20:22:55.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was shot by Dark Vortex
+[01Jan2025 20:23:27.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [The Wind Darkening]
