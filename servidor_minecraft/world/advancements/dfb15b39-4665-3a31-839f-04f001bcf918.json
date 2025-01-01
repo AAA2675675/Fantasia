@@ -121,6 +121,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "pumpkin_pie": "2025-01-01 19:38:44 +0000",
+      "bread": "2025-01-01 22:09:02 +0000",
       "carrot": "2025-01-01 19:38:34 +0000"
     },
     "done": false
@@ -1364,11 +1365,23 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:13:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-01 21:24:27 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:13:58 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
@@ -1382,15 +1395,46 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:13:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-01 22:13:08 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-01-01 22:14:10 +0000",
+      "log_spam_fixer": "2025-01-01 22:13:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-01-01 21:24:27 +0000"
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:13:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-01-01 21:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-01 22:07:38 +0000"
     },
     "done": true
   },
@@ -1399,6 +1443,18 @@
       "has_planks": "2025-01-01 21:24:03 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-01 22:07:38 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:13:58 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
@@ -1412,11 +1468,23 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:13:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-01-01 21:24:03 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:13:58 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
@@ -1454,6 +1522,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:13:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-01 21:24:03 +0000"
@@ -1471,6 +1545,12 @@
       "has_log": "2025-01-01 21:10:10 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:13:58 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
@@ -1496,6 +1576,30 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:13:58 +0000"
+    },
+    "done": false
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2025-01-01 22:13:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 22:13:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-01 22:07:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-01-01 21:24:27 +0000"
@@ -1505,6 +1609,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-01-01 21:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-01 22:13:08 +0000"
     },
     "done": true
   },

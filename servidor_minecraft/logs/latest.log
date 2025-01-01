@@ -1348,3 +1348,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 22:02:02.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> porque la sacaste de la casa
 [01Jan2025 22:04:04.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Friendship Found]
 [01Jan2025 22:04:10.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Que
+[01Jan2025 22:05:26.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> como hago una enfermeria-
+[01Jan2025 22:05:37.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> ni idea-
+[01Jan2025 22:07:04.343] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond 02
+[01Jan2025 22:09:29.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> xd
+[01Jan2025 22:09:34.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Zombie Lumberjack
+[01Jan2025 22:10:06.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Zombie Lumberjack
+[01Jan2025 22:10:09.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was slain by Zombie Bruiser
+[01Jan2025 22:10:27.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> pinche katee no puso lo del inventario..
+[01Jan2025 22:10:48.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> NOOO
+[01Jan2025 22:11:27.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Bloody Gadfly
+[01Jan2025 22:12:17.502] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond_axe 01
+[01Jan2025 22:12:26.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was slain by Skeleton
+[01Jan2025 22:13:36.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was slain by Zombie
+[01Jan2025 22:13:50.367] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:enchanted_golden_apple 01
+[01Jan2025 22:13:55.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> manzana de notch
+[01Jan2025 22:13:57.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> vamoos
+[01Jan2025 22:14:34.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was slain by Zombie
+[01Jan2025 22:14:36.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was poked to death by a sweet berry bush whilst trying to escape Corpse Fly
+[01Jan2025 22:14:36.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
+[01Jan2025 22:14:36.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
