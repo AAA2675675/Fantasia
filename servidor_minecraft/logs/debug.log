@@ -18912,3 +18912,89 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 21:33:53.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jan2025 21:33:53.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jan2025 21:34:01.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Grizzly Bear
+[01Jan2025 21:37:16.918] [IO-Worker-135/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-137
+[01Jan2025 21:38:17.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was slain by Door Knight
+[01Jan2025 21:38:53.577] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-138
+[01Jan2025 21:38:53.577] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-139
+[01Jan2025 21:38:53.586] [IO-Worker-135/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-140
+[01Jan2025 21:38:53.586] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-141
+[01Jan2025 21:38:53.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 21:38:53.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 21:39:43.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jan2025 21:39:43.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hghj<--[HERE]
+[01Jan2025 21:40:53.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2720, y=81, z=1696} BlockPos{x=2720, y=79, z=1696}
+[01Jan2025 21:40:56.702] [IO-Worker-140/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-142
+[01Jan2025 21:41:10.035] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:enchanted_golden_apple 01
+[01Jan2025 21:41:58.573] [IO-Worker-141/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-143
+[01Jan2025 21:43:53.582] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-144
+[01Jan2025 21:43:53.583] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-145
+[01Jan2025 21:43:53.584] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-146
+[01Jan2025 21:43:53.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 21:43:53.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 21:44:33.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> alfin
+[01Jan2025 21:45:01.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Sam que haces?
+[01Jan2025 21:45:08.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> explorar
+[01Jan2025 21:45:13.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Y como vas?
+[01Jan2025 21:45:37.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> en realidad solo me ando escondiendo
+[01Jan2025 21:45:42.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> XD
+[01Jan2025 21:46:12.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> esta noche no muero
+[01Jan2025 21:48:53.578] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-147
+[01Jan2025 21:48:53.578] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-148
+[01Jan2025 21:48:53.579] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-149
+[01Jan2025 21:48:53.579] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-150
+[01Jan2025 21:48:53.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 21:48:53.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 21:52:43.592] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[01Jan2025 21:52:44.095] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/villagers/unemployed_savanna is being run through DFU (hash c1bc13b66c4c99a12acbd8d2967ca192348f6e5b05fe321adc2754e0dd9c5eb8), this will cause launch time delays
+[01Jan2025 21:52:47.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3864ms or 77 ticks behind
+[01Jan2025 21:53:57.425] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-151
+[01Jan2025 21:53:57.425] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-152
+[01Jan2025 21:53:57.426] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-153
+[01Jan2025 21:53:57.426] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-154
+[01Jan2025 21:53:57.426] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-155
+[01Jan2025 21:53:57.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 21:53:57.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 21:54:31.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> me estoy cagando
+[01Jan2025 21:54:36.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> porque esta herobrine aqui
+[01Jan2025 21:54:38.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> duerme
+[01Jan2025 21:54:46.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> No puedo justo ahora
+[01Jan2025 21:54:52.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> me salgo?
+[01Jan2025 21:55:23.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ya se fue
+[01Jan2025 21:57:33.980] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/23933, l='ServerLevel[world]', x=2611.41, y=63.00, z=1617.16]
+[01Jan2025 21:57:37.633] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/23936, l='ServerLevel[world]', x=2623.21, y=64.17, z=1621.37]
+[01Jan2025 21:57:39.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was slain by Grizzly Bear
+[01Jan2025 21:58:16.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Pic-A-Nic Basket?]
+[01Jan2025 21:58:20.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob drowned
+[01Jan2025 21:58:21.616] [IO-Worker-155/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-156
+[01Jan2025 21:58:57.426] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-157
+[01Jan2025 21:58:57.426] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-158
+[01Jan2025 21:58:57.436] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-159
+[01Jan2025 21:58:57.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 21:58:57.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 21:58:58.083] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:redstone_block 10
+[01Jan2025 21:59:41.994] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:iron_pickaxe 01
+[01Jan2025 21:59:43.528] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/24223, l='ServerLevel[world]', x=2625.24, y=64.00, z=1624.17]
+[01Jan2025 21:59:46.683] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/24224, l='ServerLevel[world]', x=2628.17, y=64.00, z=1632.45]
+[01Jan2025 21:59:49.168] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/24226, l='ServerLevel[world]', x=2637.30, y=64.00, z=1633.40]
+[01Jan2025 22:00:31.878] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:redstone 16
+[01Jan2025 22:00:31.879] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:gold_ingot 08
+[01Jan2025 22:00:31.879] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond 01
+[01Jan2025 22:00:31.880] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:lapis_lazuli 32
+[01Jan2025 22:00:31.880] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:gold_apple 08
+[01Jan2025 22:00:31.881] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:gold_ingot 16
+[01Jan2025 22:00:31.881] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond 02
+[01Jan2025 22:00:31.881] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:emerald 10
+[01Jan2025 22:01:39.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> pendejo de mierda
+[01Jan2025 22:01:44.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> deja de matar a mis zombies
+[01Jan2025 22:01:49.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> soun tuyos?
+[01Jan2025 22:01:57.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> si no te atacan pa que atacas ps
+[01Jan2025 22:02:02.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> porque la sacaste de la casa
+[01Jan2025 22:03:57.424] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-160
+[01Jan2025 22:03:57.425] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-161
+[01Jan2025 22:03:57.425] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-162
+[01Jan2025 22:03:57.426] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-163
+[01Jan2025 22:03:57.427] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-164
+[01Jan2025 22:03:57.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 22:03:57.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 22:04:04.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Friendship Found]
+[01Jan2025 22:04:10.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Que
