@@ -74,6 +74,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-01-01 04:24:17 +0000",
+      "minecraft:forest": "2025-01-01 19:34:49 +0000",
       "minecraft:jungle": "2025-01-01 04:23:37 +0000"
     },
     "done": false
@@ -89,6 +90,37 @@
       "village_taiga": "2025-01-01 04:24:17 +0000"
     },
     "done": true
+  },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2025-01-01 19:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-01-01 19:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-01 19:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-01 19:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "pumpkin_pie": "2025-01-01 19:38:44 +0000",
+      "carrot": "2025-01-01 19:38:34 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
