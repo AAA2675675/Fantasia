@@ -1276,3 +1276,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 21:11:35.816] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Jana}[style={}] has been infected
 [01Jan2025 21:11:38.815] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jana'/18334, l='ServerLevel[world]', x=2654.27, y=64.06, z=1644.08] died, message: 'Jana was slain by Zombie'
 [01Jan2025 21:11:38.816] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jana'/18334, l='ServerLevel[world]', x=2654.27, y=64.06, z=1644.08] died: Jana was slain by Zombie
+[01Jan2025 21:15:22.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Volvi
+[01Jan2025 21:18:58.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was poked to death by a sweet berry bush
+[01Jan2025 21:19:18.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Artur'/18298, l='ServerLevel[world]', x=2637.97, y=64.00, z=1650.27] died, message: 'Artur burned to death'
+[01Jan2025 21:19:18.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Artur'/18298, l='ServerLevel[world]', x=2637.97, y=64.00, z=1650.27] died: Artur burned to death
+[01Jan2025 21:21:06.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was burnt to a crisp whilst fighting Zombie
+[01Jan2025 21:24:05.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was poked to death by a sweet berry bush
+[01Jan2025 21:24:23.168] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Grigory'/18297, l='ServerLevel[world]', x=2617.64, y=63.00, z=1604.36] died, message: 'Grigory was slain by Zombie Lumberjack'
+[01Jan2025 21:24:23.169] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Grigory'/18297, l='ServerLevel[world]', x=2617.64, y=63.00, z=1604.36] died: Grigory was slain by Zombie Lumberjack

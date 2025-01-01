@@ -18854,3 +18854,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 21:13:53.589] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
 [01Jan2025 21:13:53.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jan2025 21:13:53.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 21:15:22.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Volvi
+[01Jan2025 21:18:53.580] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[01Jan2025 21:18:53.580] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[01Jan2025 21:18:53.580] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[01Jan2025 21:18:53.581] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[01Jan2025 21:18:53.584] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[01Jan2025 21:18:53.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 21:18:53.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 21:18:58.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was poked to death by a sweet berry bush
+[01Jan2025 21:19:18.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Artur'/18298, l='ServerLevel[world]', x=2637.97, y=64.00, z=1650.27] died, message: 'Artur burned to death'
+[01Jan2025 21:19:18.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Artur'/18298, l='ServerLevel[world]', x=2637.97, y=64.00, z=1650.27] died: Artur burned to death
+[01Jan2025 21:21:06.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was burnt to a crisp whilst fighting Zombie
+[01Jan2025 21:23:53.579] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[01Jan2025 21:23:53.580] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[01Jan2025 21:23:53.581] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[01Jan2025 21:23:53.589] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[01Jan2025 21:23:53.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 21:23:53.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 21:24:05.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was poked to death by a sweet berry bush
+[01Jan2025 21:24:23.168] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Grigory'/18297, l='ServerLevel[world]', x=2617.64, y=63.00, z=1604.36] died, message: 'Grigory was slain by Zombie Lumberjack'
+[01Jan2025 21:24:23.169] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Grigory'/18297, l='ServerLevel[world]', x=2617.64, y=63.00, z=1604.36] died: Grigory was slain by Zombie Lumberjack
