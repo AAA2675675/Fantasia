@@ -1416,3 +1416,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 22:24:17.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob left the game
 [01Jan2025 22:25:02.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [01Jan2025 22:25:02.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdawda<--[HERE]
+[01Jan2025 22:29:17.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gamerule keepInventory is now set to: true
+[01Jan2025 22:29:21.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[01Jan2025 22:30:31.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jan2025 22:30:31.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wwwdawd<--[HERE]
+[01Jan2025 22:32:04.949] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Jan2025 22:32:05.012] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Jan2025 22:32:05.016] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Jan2025 22:32:05.116] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Jan2025 22:32:05.117] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Jan2025 22:32:05.220] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Jan2025 22:32:05.220] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Jan2025 22:32:05.222] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Jan2025 22:32:05.326] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Jan2025 22:32:05.327] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Jan2025 22:32:05.425] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Jan2025 22:32:05.426] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Jan2025 22:32:06.237] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Jan2025 22:32:06.238] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Jan2025 22:32:06.247] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Jan2025 22:32:06.256] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Jan2025 22:32:08.866] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Katee555[/127.157.207.16:48979] logged in with entity id 26829 at (-6.5, 63.0, 34.5)
+[01Jan2025 22:32:08.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 joined the game
+[01Jan2025 22:32:08.937] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Katee555
+[01Jan2025 22:32:11.297] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Katee555
