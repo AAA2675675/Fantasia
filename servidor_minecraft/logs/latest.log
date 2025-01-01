@@ -949,3 +949,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 18:55:06.112] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [01Jan2025 18:55:06.112] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [01Jan2025 18:55:06.113] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Jan2025 18:56:40.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob fell from a high place
+[01Jan2025 18:58:18.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrHob moved too quickly! 0.6037330067847506,-10.516181541923913,0.030562708835759622
+[01Jan2025 18:59:09.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Diamonds!]
+[01Jan2025 18:59:18.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Acquire Hardware]
+[01Jan2025 18:59:20.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Isn't It Iron Pick]
+[01Jan2025 19:00:26.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> uh
+[01Jan2025 19:04:00.543] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nina'/1313, l='ServerLevel[world]', x=2587.26, y=102.00, z=1599.74] died, message: 'Nina was slain by Zombie Clown'
+[01Jan2025 19:04:00.544] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Nina'/1313, l='ServerLevel[world]', x=2587.26, y=102.00, z=1599.74] died: Nina was slain by Zombie Clown
+[01Jan2025 19:05:01.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Stone Age]
+[01Jan2025 19:05:19.791] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Grigorij'/1371, l='ServerLevel[world]', x=2610.47, y=65.00, z=1563.54] died, message: 'Grigorij was poked to death by a sweet berry bush'
+[01Jan2025 19:05:19.792] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Grigorij'/1371, l='ServerLevel[world]', x=2610.47, y=65.00, z=1563.54] died: Grigorij was poked to death by a sweet berry bush
+[01Jan2025 19:05:42.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Sweet Dreams]
+[01Jan2025 19:10:01.359] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Jan2025 19:10:01.491] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Jan2025 19:10:01.492] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Jan2025 19:10:01.492] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Jan2025 19:10:01.622] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Jan2025 19:10:01.647] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Jan2025 19:10:01.752] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Jan2025 19:10:01.753] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Jan2025 19:10:01.754] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Jan2025 19:10:01.882] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Jan2025 19:10:01.882] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Jan2025 19:10:01.883] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Jan2025 19:10:02.773] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Jan2025 19:10:02.773] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Jan2025 19:10:02.774] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Jan2025 19:10:02.781] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Jan2025 19:10:05.318] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotRealSamX07[/127.99.128.5:52299] logged in with entity id 3404 at (2608.0, 137.0, 1616.0)
+[01Jan2025 19:10:05.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 joined the game
+[01Jan2025 19:10:05.459] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NotRealSamX07
+[01Jan2025 19:10:07.414] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NotRealSamX07
+[01Jan2025 19:10:19.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> hOLA
+[01Jan2025 19:14:21.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Xd
