@@ -1224,3 +1224,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 20:49:28.671] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:iron_pickaxe 01
 [01Jan2025 20:50:39.166] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Georgiy'/18336, l='ServerLevel[world]', x=2637.40, y=64.00, z=1611.50] died, message: 'Georgiy was poked to death by a sweet berry bush'
 [01Jan2025 20:50:39.167] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Georgiy'/18336, l='ServerLevel[world]', x=2637.40, y=64.00, z=1611.50] died: Georgiy was poked to death by a sweet berry bush
+[01Jan2025 20:55:06.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> tormenta de neve
+[01Jan2025 20:56:36.320] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.muon.medievalorigins.entity.SummonedZombie from interface dev.muon.medievalorigins.entity.IFollowingSummon
+[01Jan2025 20:56:36.322] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/19822, l='ServerLevel[world]', x=2610.70, y=66.00, z=1564.86]
+[01Jan2025 20:56:39.169] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/19831, l='ServerLevel[world]', x=2609.30, y=65.56, z=1566.02]
+[01Jan2025 20:56:42.473] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/19836, l='ServerLevel[world]', x=2611.36, y=65.00, z=1568.14]
+[01Jan2025 20:56:45.526] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/19842, l='ServerLevel[world]', x=2610.45, y=65.00, z=1566.63]
+[01Jan2025 20:58:08.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was slain by Door Knight
+[01Jan2025 20:58:27.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Bark Off]
+[01Jan2025 20:59:11.976] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:redstone 16
+[01Jan2025 20:59:27.524] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:gold_ingot 08
+[01Jan2025 20:59:27.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Diamonds!]
+[01Jan2025 20:59:27.827] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond 01
+[01Jan2025 20:59:41.219] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/20349, l='ServerLevel[world]', x=2596.30, y=64.00, z=1564.09]
+[01Jan2025 21:00:28.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Ol' Betsy]
