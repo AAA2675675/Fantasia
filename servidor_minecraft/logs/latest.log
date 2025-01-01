@@ -1238,3 +1238,41 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 20:59:27.827] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond 01
 [01Jan2025 20:59:41.219] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/20349, l='ServerLevel[world]', x=2596.30, y=64.00, z=1564.09]
 [01Jan2025 21:00:28.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Ol' Betsy]
+[01Jan2025 21:04:25.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jan2025 21:04:25.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hgjh<--[HERE]
+[01Jan2025 21:08:50.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was slain by Zombie Lumberjack
+[01Jan2025 21:08:54.967] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
+[01Jan2025 21:08:54.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
+[01Jan2025 21:09:24.708] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Jan2025 21:09:24.842] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Jan2025 21:09:24.873] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Jan2025 21:09:24.975] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Jan2025 21:09:24.975] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Jan2025 21:09:24.976] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Jan2025 21:09:25.111] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Jan2025 21:09:25.112] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Jan2025 21:09:25.242] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Jan2025 21:09:25.242] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Jan2025 21:09:25.286] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Jan2025 21:09:25.315] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Jan2025 21:09:26.039] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Jan2025 21:09:26.039] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Jan2025 21:09:26.040] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Jan2025 21:09:26.050] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Jan2025 21:09:26.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jan2025 21:09:26.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdawdaw<--[HERE]
+[01Jan2025 21:09:28.632] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotRealSamX07[/127.99.128.5:52485] logged in with entity id 21075 at (2597.277990107621, 131.0, 1674.8206928334537)
+[01Jan2025 21:09:28.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 joined the game
+[01Jan2025 21:09:28.752] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NotRealSamX07
+[01Jan2025 21:09:30.242] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NotRealSamX07
+[01Jan2025 21:09:30.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob hit the ground too hard
+[01Jan2025 21:10:14.830] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:lapis_lazuli 32
+[01Jan2025 21:10:14.832] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:gold_apple 08
+[01Jan2025 21:10:14.833] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:gold_ingot 16
+[01Jan2025 21:10:14.834] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond 02
+[01Jan2025 21:10:14.835] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:emerald 10
+[01Jan2025 21:10:14.836] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond 02
+[01Jan2025 21:10:14.838] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond_axe 01
+[01Jan2025 21:11:35.816] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Jana}[style={}] has been infected
+[01Jan2025 21:11:38.815] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jana'/18334, l='ServerLevel[world]', x=2654.27, y=64.06, z=1644.08] died, message: 'Jana was slain by Zombie'
+[01Jan2025 21:11:38.816] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jana'/18334, l='ServerLevel[world]', x=2654.27, y=64.06, z=1644.08] died: Jana was slain by Zombie
