@@ -946,3 +946,145 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 19:41:30.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> se hace de noche
 [01Jan2025 19:42:13.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [01Jan2025 19:42:13.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdadawd<--[HERE]
+[01Jan2025 19:43:39.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dmitry'/250, l='ServerLevel[world]', x=2606.54, y=104.00, z=1628.51] died, message: 'Dmitry was slain by Zombie'
+[01Jan2025 19:43:39.421] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Dmitry'/250, l='ServerLevel[world]', x=2606.54, y=104.00, z=1628.51] died: Dmitry was slain by Zombie
+[01Jan2025 19:43:56.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 moved too quickly! -0.7073873777990229,-1.880039138572954,-10.114481233701099
+[01Jan2025 19:43:56.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4361ms or 87 ticks behind
+[01Jan2025 19:44:02.492] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2738, y=52, z=1393}
+[01Jan2025 19:44:04.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was slain by Decaying Zombie
+[01Jan2025 19:44:12.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no se guardan las cosas aun
+[01Jan2025 19:44:13.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jan2025 19:44:13.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wadwadawd<--[HERE]
+[01Jan2025 19:44:16.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> asi no quiero jugar..
+[01Jan2025 19:44:21.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> ...
+[01Jan2025 19:44:32.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> te hice un regalo
+[01Jan2025 19:44:34.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> un momento xd
+[01Jan2025 19:44:35.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
+[01Jan2025 19:44:35.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
+[01Jan2025 19:44:46.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vitaly'/179, l='ServerLevel[world]', x=2608.68, y=102.00, z=1639.72] died, message: 'Vitaly was slain by Zombie'
+[01Jan2025 19:44:46.972] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vitaly'/179, l='ServerLevel[world]', x=2608.68, y=102.00, z=1639.72] died: Vitaly was slain by Zombie
+[01Jan2025 19:46:14.797] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Jan2025 19:46:14.934] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Jan2025 19:46:14.974] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Jan2025 19:46:14.975] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Jan2025 19:46:15.069] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Jan2025 19:46:15.072] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Jan2025 19:46:15.072] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Jan2025 19:46:15.206] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Jan2025 19:46:15.208] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Jan2025 19:46:15.344] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Jan2025 19:46:15.386] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Jan2025 19:46:15.386] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Jan2025 19:46:16.197] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Jan2025 19:46:16.197] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Jan2025 19:46:16.201] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Jan2025 19:46:16.208] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Jan2025 19:46:18.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotRealSamX07[/127.99.128.5:47305] logged in with entity id 940 at (2534.5, 137.0, 1608.5)
+[01Jan2025 19:46:18.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 joined the game
+[01Jan2025 19:46:18.902] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NotRealSamX07
+[01Jan2025 19:46:20.777] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NotRealSamX07
+[01Jan2025 19:47:02.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> muchas grasia
+[01Jan2025 19:47:10.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> mira esto
+[01Jan2025 19:47:16.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> es el diaro de hob
+[01Jan2025 19:47:32.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> god
+[01Jan2025 19:48:17.137] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2738, y=52, z=1393}
+[01Jan2025 19:50:12.668] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Oleg'/249, l='ServerLevel[world]', x=2624.47, y=104.00, z=1655.70] died, message: 'Oleg was slain by Zombie'
+[01Jan2025 19:50:12.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Oleg'/249, l='ServerLevel[world]', x=2624.47, y=104.00, z=1655.70] died: Oleg was slain by Zombie
+[01Jan2025 19:50:27.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2589, y=133, z=1646} BlockPos{x=2588, y=133, z=1648}
+[01Jan2025 19:50:27.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2589, y=133, z=1646} BlockPos{x=2588, y=133, z=1648}
+[01Jan2025 19:50:27.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2589, y=133, z=1646} BlockPos{x=2588, y=133, z=1648}
+[01Jan2025 19:50:27.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2589, y=133, z=1646} BlockPos{x=2588, y=133, z=1648}
+[01Jan2025 19:50:27.867] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2589, y=133, z=1646} BlockPos{x=2588, y=133, z=1648}
+[01Jan2025 19:51:09.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Iron Golem
+[01Jan2025 19:51:24.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Eeeeeh
+[01Jan2025 19:51:29.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Porque estoy en la jungla
+[01Jan2025 19:51:40.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> XD?
+[01Jan2025 19:51:49.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> what
+[01Jan2025 19:52:11.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> la aldea esta a 3000 bloques
+[01Jan2025 19:52:15.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> puedo llegar
+[01Jan2025 19:52:20.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> pero perdere m loot
+[01Jan2025 19:52:46.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> s quieres cogelo, habian cosas buenas como libros de encantamiento o hachas de diamante
+[01Jan2025 19:53:07.780] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Darija}[style={}] has been infected
+[01Jan2025 19:53:11.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> una ballena
+[01Jan2025 19:53:49.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> estoy en el caribe
+[01Jan2025 19:54:14.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob has made the advancement [Gone Bananas!]
+[01Jan2025 19:54:43.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Isn't It Iron Pick]
+[01Jan2025 19:55:20.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> wtf
+[01Jan2025 19:55:25.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> las farlands
+[01Jan2025 19:55:29.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Level Up]
+[01Jan2025 19:56:37.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> solo sobrevivieron algunas cosas
+[01Jan2025 19:56:41.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Vale
+[01Jan2025 19:56:41.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> te las deje en un cofre
+[01Jan2025 19:56:46.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Gracias
+[01Jan2025 19:56:55.751] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[01Jan2025 19:56:55.754] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[01Jan2025 19:56:55.831] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[01Jan2025 19:56:55.979] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[01Jan2025 19:56:59.785] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[01Jan2025 19:57:33.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> puedes dormir?
+[01Jan2025 19:57:38.142] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[01Jan2025 19:57:45.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> saldre un momento
+[01Jan2025 19:57:52.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrHob lost connection: Disconnected
+[01Jan2025 19:57:52.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob left the game
+[01Jan2025 19:57:52.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> nono
+[01Jan2025 19:57:55.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> a bueno
+[01Jan2025 19:59:18.878] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f64b27a[id=<null>,name=MrHob,properties={},legacy=false] (/127.190.130.147:57253) lost connection: Disconnected
+[01Jan2025 19:59:23.175] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Jan2025 19:59:23.411] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Jan2025 19:59:23.411] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Jan2025 19:59:23.818] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Jan2025 19:59:23.819] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Jan2025 19:59:23.819] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Jan2025 19:59:23.862] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Jan2025 19:59:23.862] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Jan2025 19:59:23.863] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Jan2025 19:59:23.863] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Jan2025 19:59:23.864] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Jan2025 19:59:23.864] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Jan2025 19:59:24.415] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Jan2025 19:59:24.416] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Jan2025 19:59:24.416] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Jan2025 19:59:24.416] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Jan2025 19:59:27.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrHob[/127.190.130.147:41327] logged in with entity id 4643 at (375.51031563469326, 81.87159995675087, 582.6999999880791)
+[01Jan2025 19:59:27.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob joined the game
+[01Jan2025 19:59:27.097] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to MrHob
+[01Jan2025 19:59:28.551] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from MrHob
+[01Jan2025 19:59:30.121] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Margaryta'/231, l='ServerLevel[world]', x=2606.08, y=130.32, z=1667.45] died, message: 'Margaryta was slain by Zombie'
+[01Jan2025 19:59:30.122] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Margaryta'/231, l='ServerLevel[world]', x=2606.08, y=130.32, z=1667.45] died: Margaryta was slain by Zombie
+[01Jan2025 19:59:35.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrHob lost connection: Disconnected
+[01Jan2025 19:59:35.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob left the game
+[01Jan2025 20:01:00.356] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Jan2025 20:01:00.357] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Jan2025 20:01:00.357] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Jan2025 20:01:00.357] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Jan2025 20:01:00.357] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Jan2025 20:01:00.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Monster Hunter]
+[01Jan2025 20:01:00.778] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Jan2025 20:01:00.778] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Jan2025 20:01:00.779] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Jan2025 20:01:00.779] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Jan2025 20:01:00.779] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Jan2025 20:01:00.779] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Jan2025 20:01:00.779] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Jan2025 20:01:01.309] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Jan2025 20:01:01.309] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Jan2025 20:01:01.310] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Jan2025 20:01:01.341] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Jan2025 20:01:04.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrHob[/127.190.130.147:35029] logged in with entity id 5123 at (375.40983898239267, 80.0, 582.6080901287743)
+[01Jan2025 20:01:04.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob joined the game
+[01Jan2025 20:01:04.108] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to MrHob
+[01Jan2025 20:01:05.187] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:coal 16
+[01Jan2025 20:01:05.428] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from MrHob
+[01Jan2025 20:01:09.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was slain by Nightmare Stalker
+[01Jan2025 20:01:27.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Si vas a dormir?
+[01Jan2025 20:01:40.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob was blown up by Creeper
+[01Jan2025 20:01:41.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> que no puedo
+[01Jan2025 20:01:45.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Debiste decirlo
+[01Jan2025 20:01:50.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> lo dije XD
+[01Jan2025 20:01:55.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrHob> Ah
+[01Jan2025 20:02:09.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Acquire Hardware]
+[01Jan2025 20:02:45.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Suit Up]
+[01Jan2025 20:03:03.625] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.muon.medievalorigins.entity.SummonedSkeleton from interface dev.muon.medievalorigins.entity.IFollowingSummon
+[01Jan2025 20:03:03.629] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/5941, l='ServerLevel[world]', x=2611.36, y=131.06, z=1671.30]
+[01Jan2025 20:03:06.675] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/5952, l='ServerLevel[world]', x=2611.69, y=131.06, z=1673.58]
+[01Jan2025 20:03:07.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob drowned
