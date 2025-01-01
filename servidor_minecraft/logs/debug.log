@@ -22449,3 +22449,75 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 22:45:36.179] [Worker-Main-196/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (1629 | 66 | 142)
 [01Jan2025 22:45:36.270] [Worker-Main-197/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (1629 | 66 | 142)
 [01Jan2025 22:45:36.271] [Worker-Main-197/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (1629 | 66 | 142)
+[01Jan2025 22:45:44.308] [Worker-Main-197/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[01Jan2025 22:45:44.316] [Worker-Main-197/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[01Jan2025 22:46:03.017] [Worker-Main-196/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[01Jan2025 22:46:03.021] [Worker-Main-196/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[01Jan2025 22:46:03.025] [Worker-Main-196/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[01Jan2025 22:46:03.028] [Worker-Main-196/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[01Jan2025 22:46:03.034] [Worker-Main-196/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[01Jan2025 22:46:03.037] [Worker-Main-196/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[01Jan2025 22:46:05.180] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_18
+[01Jan2025 22:46:08.942] [Worker-Main-196/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[01Jan2025 22:46:16.805] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_12
+[01Jan2025 22:46:19.793] [Worker-Main-196/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[01Jan2025 22:46:20.085] [Worker-Main-196/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_3
+[01Jan2025 22:46:31.067] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_15
+[01Jan2025 22:46:53.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noltem has made the advancement [Diamonds!]
+[01Jan2025 22:47:12.738] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_4
+[01Jan2025 22:47:12.742] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_6
+[01Jan2025 22:47:12.747] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_1
+[01Jan2025 22:47:12.749] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_8
+[01Jan2025 22:47:12.752] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_5
+[01Jan2025 22:47:24.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noltem has made the advancement [Alex's Mobs]
+[01Jan2025 22:47:43.544] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-220
+[01Jan2025 22:47:43.544] [IO-Worker-218/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-219
+[01Jan2025 22:48:40.573] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Andrus'/28541, l='ServerLevel[world]', x=1684.33, y=129.00, z=96.67] died, message: 'Andrus discovered the floor was lava'
+[01Jan2025 22:48:47.930] [IO-Worker-220/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-221
+[01Jan2025 22:49:07.192] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-222
+[01Jan2025 22:49:07.193] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-223
+[01Jan2025 22:49:07.196] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-224
+[01Jan2025 22:49:07.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 22:49:07.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 22:50:21.424] [Worker-Main-196/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_20 is being run through DFU (hash a1156944d96aa3c0ef77c50d062c271c0b6c97008c2a5b0da9a15c23ebf70a0d), this will cause launch time delays
+[01Jan2025 22:51:19.468] [Worker-Main-196/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[01Jan2025 22:51:19.475] [Worker-Main-196/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[01Jan2025 22:51:36.369] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Triin}[style={}] has been infected
+[01Jan2025 22:51:51.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrHob lost connection: Disconnected
+[01Jan2025 22:51:51.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrHob left the game
+[01Jan2025 22:51:54.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noltem has made the advancement [Monster Hunter]
+[01Jan2025 22:52:49.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jan2025 22:52:49.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdawdaw<--[HERE]
+[01Jan2025 22:52:58.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noltem has made the advancement [Acquire Hardware]
+[01Jan2025 22:53:56.207] [IO-Worker-217/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-225
+[01Jan2025 22:54:07.196] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-226
+[01Jan2025 22:54:07.219] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-227
+[01Jan2025 22:54:07.219] [IO-Worker-217/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-228
+[01Jan2025 22:54:07.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 22:54:07.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 22:55:34.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noltem was slain by Skeleton
+[01Jan2025 22:55:35.876] [IO-Worker-225/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-229
+[01Jan2025 22:55:35.879] [IO-Worker-225/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-230
+[01Jan2025 22:55:59.654] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 77 messages to dispatch.
+[01Jan2025 22:55:59.671] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_bientity_action-0' to 'calio:channel' sequence 0
+[01Jan2025 22:55:59.717] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_bientity_condition-0' to 'calio:channel' sequence 1
+[01Jan2025 22:55:59.769] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_biome_condition-0' to 'calio:channel' sequence 2
+[01Jan2025 22:55:59.798] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 0
+[01Jan2025 22:55:59.798] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 22:55:59.798] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Jan2025 22:55:59.820] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_block_action-0' to 'calio:channel' sequence 3
+[01Jan2025 22:55:59.869] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_block_condition-0' to 'calio:channel' sequence 4
+[01Jan2025 22:55:59.874] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 1
+[01Jan2025 22:55:59.874] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 22:55:59.874] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Jan2025 22:55:59.914] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 2
+[01Jan2025 22:55:59.914] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 22:55:59.914] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Jan2025 22:55:59.918] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_damage_condition-0' to 'calio:channel' sequence 5
+[01Jan2025 22:55:59.953] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 3
+[01Jan2025 22:55:59.953] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 22:55:59.953] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Jan2025 22:55:59.953] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 4
+[01Jan2025 22:55:59.953] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 22:55:59.953] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Jan2025 22:55:59.969] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_entity_action-0' to 'calio:channel' sequence 6
