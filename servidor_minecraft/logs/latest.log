@@ -1242,3 +1242,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 21:42:28.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> increible
 [02Jan2025 21:42:38.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> tienes retoños de roble?
 [02Jan2025 21:42:47.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no
+[02Jan2025 21:43:05.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> gracias
+[02Jan2025 21:43:53.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> e
+[02Jan2025 21:43:56.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> OHNO
+[02Jan2025 21:44:05.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 moved too quickly! -7.685844755278595,-1.0013359791121417,6.686445831862557
+[02Jan2025 21:44:19.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> que paso
+[02Jan2025 21:44:28.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> este es marton xd
+[02Jan2025 21:44:49.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> que le pasaba o que
+[02Jan2025 21:45:05.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> se quemo con una fogata xd
+[02Jan2025 21:47:30.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Sam
+[02Jan2025 21:47:37.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> de casualidad tienes tierra?
+[02Jan2025 21:47:37.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> q
+[02Jan2025 21:47:39.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Creative Mode
+[02Jan2025 21:47:47.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> 5
+[02Jan2025 21:47:53.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Algo es algo
+[02Jan2025 21:47:59.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> gracia
+[02Jan2025 21:48:02.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Survival Mode
+[02Jan2025 21:50:30.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:bed'
+[02Jan2025 21:50:30.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... Katee555 minecraft:bed 1<--[HERE]
+[02Jan2025 21:50:56.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Purple Bed] to Katee555
+[02Jan2025 21:52:05.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> que
+[02Jan2025 21:52:09.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> quien destruyo esto
+[02Jan2025 21:56:09.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> y marton?
+[02Jan2025 21:56:15.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> por ahi lo vi antes
+[02Jan2025 21:58:22.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Bueno muchachos
+[02Jan2025 21:58:28.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> iré a sacar a mi perro
+[02Jan2025 21:58:34.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> en un rato vuelvo
+[02Jan2025 21:59:24.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: don_eoatxd lost connection: Disconnected
+[02Jan2025 21:59:24.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: don_eoatxd left the game
+[02Jan2025 21:59:35.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> yo vendi al mio para jugar mas mc
+[02Jan2025 21:59:36.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> yavolvi
+[02Jan2025 21:59:46.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ohno
+[02Jan2025 22:00:16.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no don...
+[02Jan2025 22:00:20.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> asi no sa hacen cultivos...
+[02Jan2025 22:00:37.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mira sam
+[02Jan2025 22:00:42.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no estan optimizados...
