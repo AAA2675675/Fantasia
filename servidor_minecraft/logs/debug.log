@@ -8349,3 +8349,121 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 21:12:21.774] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
 [02Jan2025 21:12:21.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jan2025 21:12:21.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:13:35.264] [IO-Worker-96/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[02Jan2025 21:13:49.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> vi tremendo pino caerse desde al fondo
+[02Jan2025 21:14:24.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> fui yo, sorry
+[02Jan2025 21:15:08.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> miren
+[02Jan2025 21:15:10.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> un puerto!
+[02Jan2025 21:15:37.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> me falta
+[02Jan2025 21:15:46.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Esta bien para ser el principio
+[02Jan2025 21:15:48.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> construye los canales de amsterdam
+[02Jan2025 21:15:49.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> gracias
+[02Jan2025 21:15:56.516] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[02Jan2025 21:15:56.516] [IO-Worker-96/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[02Jan2025 21:16:12.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> dejen siempre esa puerta cerrada sino los aldeanos van a ir a matarse
+[02Jan2025 21:16:21.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> como fruszina
+[02Jan2025 21:16:36.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> XD
+[02Jan2025 21:16:56.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> fruzsina se quedo parada en la fogata y se murio xd
+[02Jan2025 21:17:21.772] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[02Jan2025 21:17:21.772] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[02Jan2025 21:17:21.773] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[02Jan2025 21:17:21.776] [IO-Worker-99/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[02Jan2025 21:17:21.777] [IO-Worker-99/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[02Jan2025 21:17:21.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:17:21.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:17:39.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Bark Off]
+[02Jan2025 21:19:27.614] [IO-Worker-100/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[02Jan2025 21:19:29.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam
+[02Jan2025 21:19:37.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> Q
+[02Jan2025 21:19:39.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> esa rotrre de mago siempre estuvo ahi?
+[02Jan2025 21:19:45.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> torre
+[02Jan2025 21:19:54.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> EEE
+[02Jan2025 21:20:16.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> yo creo que si
+[02Jan2025 21:20:24.060] [IO-Worker-100/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[02Jan2025 21:20:28.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> necesito tierra esteril
+[02Jan2025 21:20:29.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3284, y=76, z=-644} BlockPos{x=3285, y=74, z=-644}
+[02Jan2025 21:20:29.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3284, y=76, z=-644} BlockPos{x=3285, y=74, z=-644}
+[02Jan2025 21:20:32.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3286, y=75, z=-640} BlockPos{x=3287, y=74, z=-638}
+[02Jan2025 21:20:35.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> crecen arboles por el camino
+[02Jan2025 21:20:52.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> tenia una poca pero la tire-
+[02Jan2025 21:21:05.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> gracias sam
+[02Jan2025 21:21:07.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Yo ando haciendo los nuevos cultivos así que-
+[02Jan2025 21:21:16.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> igual no hay esteril acá
+[02Jan2025 21:22:05.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Creative Mode
+[02Jan2025 21:22:21.769] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[02Jan2025 21:22:21.771] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[02Jan2025 21:22:21.771] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[02Jan2025 21:22:21.771] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[02Jan2025 21:22:21.772] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[02Jan2025 21:22:21.774] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[02Jan2025 21:22:21.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:22:21.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:22:36.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Survival Mode
+[02Jan2025 21:23:26.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Kate
+[02Jan2025 21:23:31.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> dime
+[02Jan2025 21:23:36.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> todavía necesitas la tierra?
+[02Jan2025 21:23:41.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> esteris
+[02Jan2025 21:23:43.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> esteril*
+[02Jan2025 21:23:49.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> aestetik
+[02Jan2025 21:23:55.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> esa la necesita sam
+[02Jan2025 21:23:56.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> un stack
+[02Jan2025 21:24:30.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Bueno iré a los cultivos
+[02Jan2025 21:25:02.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> feliz hasta la-
+[02Jan2025 21:25:09.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> stfu
+[02Jan2025 21:25:32.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> voy a luchar mi estrella
+[02Jan2025 21:25:43.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no kate
+[02Jan2025 21:25:46.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no eres el chainsaw man
+[02Jan2025 21:25:51.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> :(
+[02Jan2025 21:26:39.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Mud Bricks] to Katee555
+[02Jan2025 21:26:50.611] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[02Jan2025 21:27:04.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Packed Mud] to Katee555
+[02Jan2025 21:27:17.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> zombie don
+[02Jan2025 21:27:21.782] [IO-Worker-103/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[02Jan2025 21:27:21.797] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[02Jan2025 21:27:21.797] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[02Jan2025 21:27:21.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:27:21.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:27:32.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> gracia Sam
+[02Jan2025 21:29:03.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> feliz
+[02Jan2025 21:29:44.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> se nos entraron 2 llamas a la casa
+[02Jan2025 21:31:35.256] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[02Jan2025 21:31:35.256] [IO-Worker-115/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[02Jan2025 21:31:48.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> voy a
+[02Jan2025 21:31:50.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> luchar
+[02Jan2025 21:31:53.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mi estralla figaz
+[02Jan2025 21:31:55.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> fugaz
+[02Jan2025 21:31:56.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aa
+[02Jan2025 21:32:12.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Te dio una embolia o que?
+[02Jan2025 21:32:16.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> si
+[02Jan2025 21:32:21.774] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[02Jan2025 21:32:21.775] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[02Jan2025 21:32:21.776] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[02Jan2025 21:32:21.778] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[02Jan2025 21:32:21.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:32:21.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:33:08.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Creative Mode
+[02Jan2025 21:35:05.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Survival Mode
+[02Jan2025 21:35:43.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3263, y=85, z=-617} BlockPos{x=3264, y=83, z=-617}
+[02Jan2025 21:36:52.410] [IO-Worker-119/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[02Jan2025 21:37:21.771] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[02Jan2025 21:37:21.772] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[02Jan2025 21:37:21.773] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[02Jan2025 21:37:21.774] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
+[02Jan2025 21:37:21.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:37:21.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:39:24.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> oh dios
+[02Jan2025 21:39:30.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam esta haciendo la casa de juantale!
+[02Jan2025 21:40:00.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Alguno tiene tierra?
+[02Jan2025 21:40:28.958] [IO-Worker-124/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-129
+[02Jan2025 21:41:43.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> s
+[02Jan2025 21:41:51.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> r
+[02Jan2025 21:42:21.776] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-130
+[02Jan2025 21:42:21.777] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-131
+[02Jan2025 21:42:21.778] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-132
+[02Jan2025 21:42:21.793] [IO-Worker-127/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-133
+[02Jan2025 21:42:21.793] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-134
+[02Jan2025 21:42:21.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:42:21.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:42:28.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> increible
+[02Jan2025 21:42:38.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> tienes retoños de roble?
+[02Jan2025 21:42:47.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no
