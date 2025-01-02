@@ -9395,3 +9395,64 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 22:22:43.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Besalo
 [02Jan2025 22:22:56.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> HOLY SHIT
 [02Jan2025 22:22:56.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 has made the advancement [What a Deal!]
+[02Jan2025 22:23:14.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sopa
+[02Jan2025 22:23:16.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> para todos
+[02Jan2025 22:23:40.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> don agarra la sopa
+[02Jan2025 22:23:42.097] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[02Jan2025 22:23:42.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/villagers/unemployed_plains
+[02Jan2025 22:23:42.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/animals/pigs_1
+[02Jan2025 22:23:42.388] [IO-Worker-181/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-187
+[02Jan2025 22:23:42.389] [IO-Worker-181/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-188
+[02Jan2025 22:23:42.915] [IO-Worker-186/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-189
+[02Jan2025 22:23:43.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[02Jan2025 22:23:44.098] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[02Jan2025 22:23:46.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_acacia
+[02Jan2025 22:23:46.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[02Jan2025 22:23:46.751] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[02Jan2025 22:23:47.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_1
+[02Jan2025 22:23:47.328] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[02Jan2025 22:24:07.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> don
+[02Jan2025 22:24:12.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Que
+[02Jan2025 22:24:21.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ven
+[02Jan2025 22:24:26.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> que no me caben en el inventario xd
+[02Jan2025 22:24:41.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> bueno, iré a deforestar mi aldea
+[02Jan2025 22:24:54.924] [IO-Worker-189/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-190
+[02Jan2025 22:24:56.956] [IO-Worker-181/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-192
+[02Jan2025 22:24:56.955] [IO-Worker-188/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-191
+[02Jan2025 22:25:08.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_11
+[02Jan2025 22:25:54.004] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[02Jan2025 22:25:54.006] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[02Jan2025 22:25:54.007] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_2
+[02Jan2025 22:25:54.007] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_extend
+[02Jan2025 22:25:54.008] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[02Jan2025 22:25:54.008] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_2
+[02Jan2025 22:25:54.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_1
+[02Jan2025 22:25:54.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[02Jan2025 22:25:54.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[02Jan2025 22:25:54.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[02Jan2025 22:25:54.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[02Jan2025 22:26:18.985] [IO-Worker-181/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-193
+[02Jan2025 22:26:55.485] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/derelict_grass_tower_bottom
+[02Jan2025 22:26:55.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/waystone_derelict_grass_tower_top
+[02Jan2025 22:26:56.602] [pool-4-thread-1/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[02Jan2025 22:26:56.859] [Worker-Main-3/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[02Jan2025 22:26:56.860] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[02Jan2025 22:27:21.773] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-194
+[02Jan2025 22:27:21.773] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-195
+[02Jan2025 22:27:21.774] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-196
+[02Jan2025 22:27:21.775] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-197
+[02Jan2025 22:27:21.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 22:27:21.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 22:27:22.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> don ven
+[02Jan2025 22:28:35.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Márta'/20290, l='ServerLevel[world]', x=3302.54, y=74.12, z=-562.55] died, message: 'Márta was slain by Mieczysław'
+[02Jan2025 22:28:43.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: don_eoatxd lost connection: Disconnected
+[02Jan2025 22:28:43.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: don_eoatxd left the game
+[02Jan2025 22:28:44.024] [IO-Worker-196/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-198
+[02Jan2025 22:29:57.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Creative Mode
+[02Jan2025 22:31:52.380] [IO-Worker-198/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-199
+[02Jan2025 22:32:08.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Katee555's game mode to Survival Mode
+[02Jan2025 22:32:21.773] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-200
+[02Jan2025 22:32:21.773] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-201
+[02Jan2025 22:32:21.774] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-202
+[02Jan2025 22:32:21.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 22:32:21.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
