@@ -1589,3 +1589,82 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 22:59:58.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 left the game
 [02Jan2025 23:00:42.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [02Jan2025 23:00:42.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wdawdwad<--[HERE]
+[02Jan2025 23:10:31.013] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.muon.medievalorigins.entity.SummonedZombie from interface dev.muon.medievalorigins.entity.IFollowingSummon
+[02Jan2025 23:10:31.017] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/39113, l='ServerLevel[world]', x=3151.94, y=71.00, z=-1083.79]
+[02Jan2025 23:10:34.012] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/39124, l='ServerLevel[world]', x=3155.50, y=71.00, z=-1084.86]
+[02Jan2025 23:10:36.710] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/39125, l='ServerLevel[world]', x=3157.33, y=71.00, z=-1082.54]
+[02Jan2025 23:10:39.415] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/39131, l='ServerLevel[world]', x=3158.08, y=71.00, z=-1088.88]
+[02Jan2025 23:10:42.860] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/39141, l='ServerLevel[world]', x=3158.08, y=71.00, z=-1088.88]
+[02Jan2025 23:10:46.967] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond 32
+[02Jan2025 23:11:08.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has made the advancement [Mine? Mine? Mine?]
+[02Jan2025 23:11:32.013] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.muon.medievalorigins.entity.SummonedSkeleton from interface dev.muon.medievalorigins.entity.IFollowingSummon
+[02Jan2025 23:12:05.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 has reached the goal [Fighting Nightmares]
+[02Jan2025 23:12:29.310] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/39780, l='ServerLevel[world]', x=3174.54, y=72.00, z=-1081.41]
+[02Jan2025 23:12:31.809] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedZombie['Summoner's Zombie'/39787, l='ServerLevel[world]', x=3177.32, y=72.00, z=-1080.20]
+[02Jan2025 23:13:41.600] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[02Jan2025 23:13:41.711] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[02Jan2025 23:13:41.718] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[02Jan2025 23:13:41.820] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[02Jan2025 23:13:41.827] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[02Jan2025 23:13:41.935] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[02Jan2025 23:13:41.961] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[02Jan2025 23:13:41.961] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[02Jan2025 23:13:42.047] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[02Jan2025 23:13:42.050] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[02Jan2025 23:13:42.145] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[02Jan2025 23:13:42.146] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[02Jan2025 23:13:43.976] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[02Jan2025 23:13:43.977] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[02Jan2025 23:13:43.990] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[02Jan2025 23:13:44.018] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[02Jan2025 23:13:46.338] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Katee555[/127.157.207.16:59989] logged in with entity id 39916 at (3060.9457166041193, 70.0, -864.0703476098512)
+[02Jan2025 23:13:46.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 joined the game
+[02Jan2025 23:13:46.430] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Katee555
+[02Jan2025 23:13:53.568] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Katee555
+[02Jan2025 23:14:13.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> como mejoro las mochilas?
+[02Jan2025 23:14:35.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 was slain by Decrepit Skeleton
+[02Jan2025 23:15:05.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam!
+[02Jan2025 23:15:32.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 was blown up by Creeper
+[02Jan2025 23:15:35.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
+[02Jan2025 23:15:35.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
+[02Jan2025 23:15:42.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> XD
+[02Jan2025 23:16:22.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 has made the advancement [Hidden in the Depths]
+[02Jan2025 23:16:22.048] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:ancient_debris 01
+[02Jan2025 23:16:23.326] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[02Jan2025 23:16:23.457] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[02Jan2025 23:16:23.457] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[02Jan2025 23:16:23.458] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[02Jan2025 23:16:23.588] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[02Jan2025 23:16:23.658] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[02Jan2025 23:16:23.725] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[02Jan2025 23:16:23.725] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[02Jan2025 23:16:23.726] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[02Jan2025 23:16:23.856] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[02Jan2025 23:16:23.857] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[02Jan2025 23:16:23.858] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[02Jan2025 23:16:24.751] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[02Jan2025 23:16:24.752] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[02Jan2025 23:16:24.754] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[02Jan2025 23:16:24.760] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[02Jan2025 23:16:27.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotRealSamX07[/127.99.128.5:37721] logged in with entity id 41257 at (3152.8832449544625, 71.0, -1069.4471104682136)
+[02Jan2025 23:16:27.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 joined the game
+[02Jan2025 23:16:27.340] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NotRealSamX07
+[02Jan2025 23:16:29.401] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NotRealSamX07
+[02Jan2025 23:16:34.555] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:diamond 32
+[02Jan2025 23:16:35.938] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:ancient_debris 01
+[02Jan2025 23:16:39.457] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:totem_of_undying 01
+[02Jan2025 23:16:39.656] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:ancient_debris 03
+[02Jan2025 23:16:45.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> exacto
+[02Jan2025 23:18:24.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> donde estas frieren
+[02Jan2025 23:18:34.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> estoy
+[02Jan2025 23:18:50.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ten el pueblo
+[02Jan2025 23:19:22.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> la mochila se mejora de material en material?
+[02Jan2025 23:22:32.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> si
+[02Jan2025 23:22:35.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ya estas?
+[02Jan2025 23:22:40.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> e
+[02Jan2025 23:22:48.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> solo 1 segundo
+[02Jan2025 23:23:30.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> tienes hierro-?
+[02Jan2025 23:23:34.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> si
+[02Jan2025 23:23:41.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> dame 6 pls
+[02Jan2025 23:24:03.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no espera
+[02Jan2025 23:24:05.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> despues de
