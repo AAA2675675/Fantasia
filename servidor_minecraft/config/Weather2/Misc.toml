@@ -54,5 +54,5 @@
 	#Server and client side, Locks down the mod to only do wind, leaves, foliage shader if on, etc. No weather systems, turns overcast mode on
 	Aesthetic_Only_Mode = false
 	#Runs regardless of Aesthetic_Only_Mode, makes snowstorms possible everywhere
-	Winter_Wonderland = true
+	Winter_Wonderland = false
 
