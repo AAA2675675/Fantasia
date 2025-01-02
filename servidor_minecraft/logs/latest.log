@@ -944,3 +944,85 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 20:10:18.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> bueno me saldre unos 5 min que termine de cocinar y vuelvo
 [02Jan2025 20:10:22.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NotRealSamX07 lost connection: Disconnected
 [02Jan2025 20:10:22.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 left the game
+[02Jan2025 20:13:46.492] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[02Jan2025 20:13:46.682] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[02Jan2025 20:13:46.717] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[02Jan2025 20:13:46.717] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[02Jan2025 20:13:46.718] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[02Jan2025 20:13:46.873] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[02Jan2025 20:13:46.873] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[02Jan2025 20:13:46.873] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[02Jan2025 20:13:46.873] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[02Jan2025 20:13:47.057] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[02Jan2025 20:13:47.058] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[02Jan2025 20:13:47.099] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[02Jan2025 20:13:48.671] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[02Jan2025 20:13:48.671] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[02Jan2025 20:13:48.769] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[02Jan2025 20:13:48.962] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[02Jan2025 20:13:50.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: don_eoatxd[/127.115.124.171:45609] logged in with entity id 3112 at (3227.586737068253, 80.0, -636.0410874471979)
+[02Jan2025 20:13:50.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: don_eoatxd joined the game
+[02Jan2025 20:13:50.556] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to don_eoatxd
+[02Jan2025 20:13:51.347] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from don_eoatxd
+[02Jan2025 20:14:14.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Buenas tardes
+[02Jan2025 20:17:28.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mira
+[02Jan2025 20:17:30.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> arregle
+[02Jan2025 20:17:36.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> la aldea
+[02Jan2025 20:17:44.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Si me fijé
+[02Jan2025 20:17:50.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> pero necesito mas tierra esteril
+[02Jan2025 20:17:58.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> a veces crecen arboles
+[02Jan2025 20:17:59.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mira ven
+[02Jan2025 20:18:29.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Waos
+[02Jan2025 20:18:30.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> alli comenzaremos una granja
+[02Jan2025 20:18:38.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Trigo?
+[02Jan2025 20:18:39.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> de animales
+[02Jan2025 20:18:44.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> ah-
+[02Jan2025 20:18:44.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> alli animales
+[02Jan2025 20:18:52.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aca trigo
+[02Jan2025 20:18:55.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> pero hay que arreglarla
+[02Jan2025 20:19:08.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Una duda, necesitas más madera de esa roja?
+[02Jan2025 20:19:09.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> y hacer una escalera abajo
+[02Jan2025 20:19:17.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aun me queda un monton
+[02Jan2025 20:19:35.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> debo arreglar ese camino xd
+[02Jan2025 20:19:38.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam
+[02Jan2025 20:19:40.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> viste la aldea?
+[02Jan2025 20:19:47.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Sam?-
+[02Jan2025 20:19:53.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> se salio
+[02Jan2025 20:19:54.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> increible
+[02Jan2025 20:19:55.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> XD
+[02Jan2025 20:20:08.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hay aldeanos abajo atrapados por el ahua
+[02Jan2025 20:20:16.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hay que rescatarlos pero necesitamos hacer la escalera paes eso
+[02Jan2025 20:20:18.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> para
+[02Jan2025 20:20:29.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Traigo de la madera roja?
+[02Jan2025 20:20:29.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no quiero hacerla invasiba xd
+[02Jan2025 20:20:32.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> yo tengo
+[02Jan2025 20:20:37.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> solo estoy pensando donde hacerla xd
+[02Jan2025 20:20:56.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sisoy
+[02Jan2025 20:21:02.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Y si se hace una plataforma acá?
+[02Jan2025 20:21:07.922] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[02Jan2025 20:21:08.056] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[02Jan2025 20:21:08.059] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[02Jan2025 20:21:08.059] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[02Jan2025 20:21:08.191] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[02Jan2025 20:21:08.196] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[02Jan2025 20:21:08.331] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[02Jan2025 20:21:08.332] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[02Jan2025 20:21:08.332] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[02Jan2025 20:21:08.462] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[02Jan2025 20:21:08.463] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[02Jan2025 20:21:08.463] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[02Jan2025 20:21:09.245] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[02Jan2025 20:21:09.246] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[02Jan2025 20:21:09.246] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[02Jan2025 20:21:09.248] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[02Jan2025 20:21:11.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mira
+[02Jan2025 20:21:12.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NotRealSamX07[/127.99.128.5:50765] logged in with entity id 4711 at (3221.300000011921, 80.0625, -623.3000000119209)
+[02Jan2025 20:21:12.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NotRealSamX07 joined the game
+[02Jan2025 20:21:12.228] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NotRealSamX07
+[02Jan2025 20:21:14.053] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NotRealSamX07
+[02Jan2025 20:21:18.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Buenas Sam
+[02Jan2025 20:21:19.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> Hola alexa
+[02Jan2025 20:21:22.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> si bajo por aqui llegara hasta el mar
+[02Jan2025 20:21:29.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> podriamos hacer una especie de puerto
+[02Jan2025 20:21:35.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> que carajo hicieron aca-
+[02Jan2025 20:21:38.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> y que los caminos conecten
