@@ -7745,3 +7745,49 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 20:39:58.289] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
 [02Jan2025 20:40:26.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> estaba afk xd
 [02Jan2025 20:41:40.688] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_11
+[02Jan2025 20:42:21.778] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[02Jan2025 20:42:21.779] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[02Jan2025 20:42:21.783] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[02Jan2025 20:42:21.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 20:42:21.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 20:43:34.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: don_eoatxd has made the advancement [Not Today, Thank You]
+[02Jan2025 20:43:34.823] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[02Jan2025 20:43:37.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: don_eoatxd was shot by Skeleton
+[02Jan2025 20:44:01.525] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[02Jan2025 20:44:01.525] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[02Jan2025 20:44:35.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_11
+[02Jan2025 20:44:44.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ya
+[02Jan2025 20:45:00.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[02Jan2025 20:45:00.245] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[02Jan2025 20:45:00.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_2
+[02Jan2025 20:45:00.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_extend
+[02Jan2025 20:45:00.247] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[02Jan2025 20:45:00.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_2
+[02Jan2025 20:45:00.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_1
+[02Jan2025 20:45:00.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[02Jan2025 20:45:00.249] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[02Jan2025 20:45:00.249] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[02Jan2025 20:45:00.249] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[02Jan2025 20:45:02.501] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[02Jan2025 20:45:02.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> que tal
+[02Jan2025 20:45:04.780] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/derelict_grass_tower_bottom
+[02Jan2025 20:45:04.782] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/waystone_derelict_grass_tower_top
+[02Jan2025 20:45:09.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> volvi
+[02Jan2025 20:45:19.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> baja sam
+[02Jan2025 20:47:21.778] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[02Jan2025 20:47:21.780] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[02Jan2025 20:47:21.781] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[02Jan2025 20:47:21.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 20:47:21.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 20:48:27.384] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[02Jan2025 20:48:54.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> feliz hasta la muerte
+[02Jan2025 20:49:02.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no
+[02Jan2025 20:49:20.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sigue asi hasta que acabe
+[02Jan2025 20:50:11.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> y si dormimos
+[02Jan2025 20:50:17.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> me da cancer construir a oscuras
+[02Jan2025 20:50:28.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Sam tiene razon
+[02Jan2025 20:50:43.728] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[02Jan2025 20:50:43.728] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[02Jan2025 20:51:42.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> feliz
+[02Jan2025 20:51:43.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> al fin
+[02Jan2025 20:51:45.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> que buen dia-
