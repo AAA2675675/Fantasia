@@ -73,6 +73,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-01-03 02:59:20 +0000",
       "minecraft:old_growth_pine_taiga": "2025-01-02 03:06:57 +0000",
       "minecraft:taiga": "2025-01-02 00:27:11 +0000",
       "minecraft:wooded_badlands": "2025-01-02 00:25:42 +0000",
@@ -439,6 +440,7 @@
     "criteria": {
       "cooked_porkchop": "2025-01-02 23:53:46 +0000",
       "cooked_beef": "2025-01-02 02:35:55 +0000",
+      "baked_potato": "2025-01-03 03:04:26 +0000",
       "tropical_fish": "2025-01-02 00:56:16 +0000",
       "apple": "2025-01-03 00:27:40 +0000",
       "cooked_cod": "2025-01-02 00:56:58 +0000",
@@ -2097,6 +2099,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-03 02:59:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-01-03 00:48:00 +0000"
@@ -2127,6 +2135,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-03 02:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-03 02:57:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-03 01:04:59 +0000"
@@ -2142,6 +2162,12 @@
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2025-01-03 01:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-03 02:59:36 +0000"
     },
     "done": true
   },
@@ -2214,6 +2240,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-01-03 01:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-03 02:57:49 +0000"
     },
     "done": true
   },
