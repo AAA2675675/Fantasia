@@ -365,3 +365,51 @@
 [03Jan2025 01:04:31.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no nada
 [03Jan2025 01:05:00.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> aqui
 [03Jan2025 01:05:09.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> por la derecha ya paswe
+[03Jan2025 01:05:34.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 moved wrongly!
+[03Jan2025 01:05:57.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 withered away whilst fighting Wither Skeleton
+[03Jan2025 01:06:12.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> oye sam
+[03Jan2025 01:06:27.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> q
+[03Jan2025 01:06:33.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sabes que ahora que lo pienso
+[03Jan2025 01:06:38.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> debimos quitar las lianas primero
+[03Jan2025 01:06:52.341] [Server thread/INFO] [tn.mbs.memory.MemoryOfThePastMod/]: give @p minecraft:totem_of_undying 01
+[03Jan2025 01:07:21.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> si
+[03Jan2025 01:08:30.163] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/65756, l='ServerLevel[world]', x=3199.13, y=29.00, z=-737.18]
+[03Jan2025 01:08:32.771] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/65763, l='ServerLevel[world]', x=3201.99, y=29.00, z=-736.36]
+[03Jan2025 01:08:35.415] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/65779, l='ServerLevel[world]', x=3207.77, y=29.00, z=-736.06]
+[03Jan2025 01:08:37.965] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/65800, l='ServerLevel[world]', x=3211.96, y=29.00, z=-735.44]
+[03Jan2025 01:08:40.616] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/65815, l='ServerLevel[world]', x=3207.43, y=29.00, z=-736.24]
+[03Jan2025 01:08:43.164] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/65824, l='ServerLevel[world]', x=3207.65, y=29.00, z=-737.15]
+[03Jan2025 01:08:45.665] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/65826, l='ServerLevel[world]', x=3214.76, y=29.00, z=-735.48]
+[03Jan2025 01:08:48.165] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/65830, l='ServerLevel[world]', x=3214.26, y=29.00, z=-737.70]
+[03Jan2025 01:08:50.864] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/65858, l='ServerLevel[world]', x=3215.25, y=29.00, z=-734.86]
+[03Jan2025 01:08:53.508] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/65867, l='ServerLevel[world]', x=3215.94, y=29.00, z=-738.16]
+[03Jan2025 01:08:56.309] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/65933, l='ServerLevel[world]', x=3213.40, y=29.00, z=-735.34]
+[03Jan2025 01:08:58.987] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/65974, l='ServerLevel[world]', x=3215.77, y=29.00, z=-734.79]
+[03Jan2025 01:09:01.527] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/66025, l='ServerLevel[world]', x=3216.99, y=29.37, z=-735.07]
+[03Jan2025 01:10:50.867] [Server thread/ERROR] [io.github.apace100.apoli.Apoli/]: Trying to add unregistered power ResourceKey[apoli:configured_power / medievalorigins:revenant/summon_scaling] to entity SummonedSkeleton['Summoner's Skeleton'/67362, l='ServerLevel[world]', x=3199.81, y=29.00, z=-736.24]
+[03Jan2025 01:13:14.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> donde estan-
+[03Jan2025 01:13:19.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> aqui
+[03Jan2025 01:13:21.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> ya los mate
+[03Jan2025 01:13:23.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sam
+[03Jan2025 01:13:28.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> tienes yunque?
+[03Jan2025 01:13:35.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> no, y tambien necesito
+[03Jan2025 01:13:44.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> podriamos hacer
+[03Jan2025 01:13:49.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> cuanto hierro tienes
+[03Jan2025 01:14:01.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> creo que deberiamos regresar y reparar
+[03Jan2025 01:14:07.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> regresar?
+[03Jan2025 01:14:10.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Acá hay yunques
+[03Jan2025 01:14:11.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> a la aldea
+[03Jan2025 01:14:17.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> donde don
+[03Jan2025 01:14:23.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> En los cultivos
+[03Jan2025 01:14:28.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> traje 2 de mi aldea
+[03Jan2025 01:14:29.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> ah eso
+[03Jan2025 01:14:36.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> pense q decias aca en dungeon
+[03Jan2025 01:14:37.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> eee
+[03Jan2025 01:14:39.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> xd
+[03Jan2025 01:14:42.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> kate, pq no hacemos uno
+[03Jan2025 01:14:47.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ojala
+[03Jan2025 01:14:53.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> porque es mucho hierro-
+[03Jan2025 01:15:00.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NotRealSamX07> tss
+[03Jan2025 01:15:04.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> osea si me alcanza pero no quiero-
+[03Jan2025 01:15:32.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ten sam
+[03Jan2025 01:15:37.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> por tu esfuerzo te recompenso con esto
