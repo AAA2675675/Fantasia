@@ -812,3 +812,308 @@ java.util.zip.ZipException: Not in GZIP format
 [03Jan2025 01:56:34.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xMr_Hobx> fuera
 [03Jan2025 01:56:37.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> kate
 [03Jan2025 01:56:38.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Qué haces?
+[03Jan2025 01:56:40.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> donde voy
+[03Jan2025 01:57:15.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kaoz3432 was slain by Restless Spirit
+[03Jan2025 01:57:20.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> no puede ser
+[03Jan2025 01:57:24.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> apareci otra vez abajo
+[03Jan2025 01:57:30.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> gente pueden dormir?
+[03Jan2025 01:57:35.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mira esto xd
+[03Jan2025 01:57:35.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kaoz3432 has made the advancement [Sweet Dreams]
+[03Jan2025 01:57:52.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kaoz3432 lost connection: Disconnected
+[03Jan2025 01:57:52.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kaoz3432 left the game
+[03Jan2025 01:57:54.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no salio el efecto-
+[03Jan2025 01:57:57.184] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Jan2025 01:57:57.335] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Jan2025 01:57:57.347] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Jan2025 01:57:57.362] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Jan2025 01:57:57.372] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Jan2025 01:57:57.482] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Jan2025 01:57:57.523] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Jan2025 01:57:57.523] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Jan2025 01:57:57.650] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Jan2025 01:57:57.691] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Jan2025 01:57:57.691] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Jan2025 01:57:57.736] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Jan2025 01:57:58.700] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Jan2025 01:57:58.701] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Jan2025 01:57:58.702] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Jan2025 01:57:58.716] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Jan2025 01:58:01.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kaoz3432[/127.197.235.156:39231] logged in with entity id 76798 at (-11.965815436596948, 110.0, 2.5375365541890917)
+[03Jan2025 01:58:01.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kaoz3432 joined the game
+[03Jan2025 01:58:01.182] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Kaoz3432
+[03Jan2025 01:58:01.884] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Kaoz3432
+[03Jan2025 01:58:27.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> oigan
+[03Jan2025 01:58:29.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xMr_Hobx> que
+[03Jan2025 01:58:33.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> ?
+[03Jan2025 01:58:42.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kaoz3432 lost connection: Disconnected
+[03Jan2025 01:58:42.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kaoz3432 left the game
+[03Jan2025 01:58:42.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ustedes tambien vieron como hob cabo un tunel bajo la base verdad?
+[03Jan2025 01:58:46.046] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Jan2025 01:58:46.181] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Jan2025 01:58:46.222] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Jan2025 01:58:46.317] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Jan2025 01:58:46.317] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Jan2025 01:58:46.318] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Jan2025 01:58:46.454] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Jan2025 01:58:46.470] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Jan2025 01:58:46.589] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Jan2025 01:58:46.593] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Jan2025 01:58:46.593] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Jan2025 01:58:46.658] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Jan2025 01:58:47.440] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Jan2025 01:58:47.440] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Jan2025 01:58:47.440] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Jan2025 01:58:47.515] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Jan2025 01:58:48.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Sí
+[03Jan2025 01:58:50.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kaoz3432[/127.197.235.156:41551] logged in with entity id 77151 at (-69.55388808346467, 119.0, -20.30916717940596)
+[03Jan2025 01:58:50.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kaoz3432 joined the game
+[03Jan2025 01:58:50.282] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Kaoz3432
+[03Jan2025 01:58:50.525] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Kaoz3432
+[03Jan2025 01:58:55.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xMr_Hobx> ...
+[03Jan2025 01:59:12.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kaoz3432 was kicked for floating too long!
+[03Jan2025 01:59:12.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kaoz3432 lost connection: Flying is not enabled on this server
+[03Jan2025 01:59:12.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kaoz3432 left the game
+[03Jan2025 01:59:14.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xMr_Hobx> estoy haciendo un culto secreto
+[03Jan2025 01:59:16.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> deja de romper mi hermoso suelo
+[03Jan2025 01:59:18.047] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Jan2025 01:59:18.194] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Jan2025 01:59:18.194] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Jan2025 01:59:18.212] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Jan2025 01:59:18.340] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Jan2025 01:59:18.340] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Jan2025 01:59:18.340] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Jan2025 01:59:18.485] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Jan2025 01:59:18.531] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Jan2025 01:59:18.531] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Jan2025 01:59:18.608] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Jan2025 01:59:18.608] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Jan2025 01:59:19.457] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Jan2025 01:59:19.457] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Jan2025 01:59:19.459] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Jan2025 01:59:19.508] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Jan2025 01:59:21.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kaoz3432[/127.197.235.156:48831] logged in with entity id 77406 at (-80.81960970823917, 116.00133597911214, -50.42166148914746)
+[03Jan2025 01:59:21.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kaoz3432 joined the game
+[03Jan2025 01:59:22.041] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Kaoz3432
+[03Jan2025 01:59:22.528] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Kaoz3432
+[03Jan2025 01:59:35.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xMr_Hobx> fuera
+[03Jan2025 01:59:44.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xMr_Hobx> Que hacen ahi
+[03Jan2025 01:59:48.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> trnaquilo don yo lo mato
+[03Jan2025 01:59:48.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xMr_Hobx> chu
+[03Jan2025 02:00:02.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kaoz3432 was slain by Door Knight
+[03Jan2025 02:00:03.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> pon un cesped ahi
+[03Jan2025 02:00:06.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> se ve horrible
+[03Jan2025 02:00:13.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> ADNDE VOY
+[03Jan2025 02:00:14.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> AYUDA
+[03Jan2025 02:00:16.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> PORFAVOR
+[03Jan2025 02:00:25.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Kate
+[03Jan2025 02:00:32.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> dime
+[03Jan2025 02:00:46.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> sí voy y rescato a Kaoz, que gano?
+[03Jan2025 02:00:55.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> dame tierra
+[03Jan2025 02:00:57.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ya
+[03Jan2025 02:01:05.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> sam me dijo que fuera al este
+[03Jan2025 02:01:07.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> voy al este
+[03Jan2025 02:01:10.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> oye don
+[03Jan2025 02:01:17.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> ?
+[03Jan2025 02:01:20.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> me explicas como llego ese golem de hierro a alla arriba
+[03Jan2025 02:01:26.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Se fue solito
+[03Jan2025 02:01:34.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> mientras fornicaban las vacas
+[03Jan2025 02:01:36.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> como es posible
+[03Jan2025 02:02:12.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> listo
+[03Jan2025 02:02:12.412] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_channel_sound] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[03Jan2025 02:02:12.412] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_immunity] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[03Jan2025 02:02:12.413] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_particles] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[03Jan2025 02:02:12.413] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_land] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[03Jan2025 02:02:15.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no se como lo hizo
+[03Jan2025 02:02:30.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> mis flores
+[03Jan2025 02:02:31.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> que hace?
+[03Jan2025 02:03:08.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Kate
+[03Jan2025 02:03:10.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> ven
+[03Jan2025 02:03:12.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> dime
+[03Jan2025 02:03:17.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Mira
+[03Jan2025 02:03:25.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> casi se sube a la torre
+[03Jan2025 02:03:26.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> que
+[03Jan2025 02:03:31.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> a
+[03Jan2025 02:03:32.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kaoz3432 has made the advancement [Level Up]
+[03Jan2025 02:04:02.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xMr_Hobx> katee se quemaron tus flores
+[03Jan2025 02:04:10.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> kate
+[03Jan2025 02:04:15.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> adonde voy
+[03Jan2025 02:04:22.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> al noreste
+[03Jan2025 02:04:29.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ren
+[03Jan2025 02:04:33.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> pusiste las config verdad?
+[03Jan2025 02:04:34.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> tengo miedo
+[03Jan2025 02:04:37.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> todas si
+[03Jan2025 02:04:40.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> las que me dijiste
+[03Jan2025 02:04:47.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> y los options tambien?
+[03Jan2025 02:04:47.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> del modpack
+[03Jan2025 02:04:50.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> si
+[03Jan2025 02:04:52.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ok entonces todo bien
+[03Jan2025 02:04:55.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ve al noreste
+[03Jan2025 02:05:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es N . E
+[03Jan2025 02:05:04.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ve hacia el .
+[03Jan2025 02:05:13.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> tengo 1 chuleta, 5 panes y 2 zanahorias
+[03Jan2025 02:05:14.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hasta que veas arboles oscuros en una monta{a
+[03Jan2025 02:05:17.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> no durare mucho
+[03Jan2025 02:05:17.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> junto al rio
+[03Jan2025 02:05:28.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> veo unos pinos
+[03Jan2025 02:05:29.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cuando veas eso yo ire a buscarte
+[03Jan2025 02:05:33.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> un desierto pequeño
+[03Jan2025 02:05:36.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> estas yendo al noreste?
+[03Jan2025 02:05:37.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> y un agujero enorme
+[03Jan2025 02:05:43.410] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-178,-56,675],type:"minecraft:block"}}]
+[03Jan2025 02:05:43.411] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-167,-56,676],type:"minecraft:block"}}]
+[03Jan2025 02:05:43.573] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-164,-56,677],type:"minecraft:block"}}]
+[03Jan2025 02:05:43.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> desierto
+[03Jan2025 02:05:45.774] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-183,-56,672],type:"minecraft:block"}}]
+[03Jan2025 02:05:45.774] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-182,-56,672],type:"minecraft:block"}}]
+[03Jan2025 02:05:45.979] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-165,-56,659],type:"minecraft:block"}}]
+[03Jan2025 02:05:45.980] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-165,-56,660],type:"minecraft:block"}}]
+[03Jan2025 02:05:46.111] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-179,-56,658],type:"minecraft:block"}}]
+[03Jan2025 02:05:46.111] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-175,-56,664],type:"minecraft:block"}}]
+[03Jan2025 02:05:46.111] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-174,-56,664],type:"minecraft:block"}}]
+[03Jan2025 02:05:46.112] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-169,-56,659],type:"minecraft:block"}}]
+[03Jan2025 02:05:46.112] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-168,-56,659],type:"minecraft:block"}}]
+[03Jan2025 02:05:47.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> arriba
+[03Jan2025 02:05:52.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hay algo donde dice hacia donde vas
+[03Jan2025 02:05:55.986] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-174,-56,656],type:"minecraft:block"}}]
+[03Jan2025 02:05:57.021] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-57, z=15}
+[03Jan2025 02:05:59.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ve entre la N y la E
+[03Jan2025 02:06:04.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> veo algo
+[03Jan2025 02:06:04.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> el punto entre la N y la E
+[03Jan2025 02:06:05.119] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:5.956664f,range:8,source:{pos:[I;-146,-50,130],type:"minecraft:block"}}]
+[03Jan2025 02:06:05.120] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.193289f,range:8,source:{pos:[I;-142,-50,131],type:"minecraft:block"}}]
+[03Jan2025 02:06:05.120] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:5.7044244f,range:8,source:{pos:[I;-144,-49,131],type:"minecraft:block"}}]
+[03Jan2025 02:06:05.125] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:5.802439f,range:8,source:{pos:[I;-110,-47,214],type:"minecraft:block"}}]
+[03Jan2025 02:06:05.536] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.1622777f,range:8,source:{pos:[I;-171,-59,114],type:"minecraft:block"}}]
+[03Jan2025 02:06:05.536] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:1.4142135f,range:8,source:{pos:[I;-176,-57,125],type:"minecraft:block"}}]
+[03Jan2025 02:06:05.537] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.3762712f,range:8,source:{pos:[I;-145,-50,127],type:"minecraft:block"}}]
+[03Jan2025 02:06:05.537] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.641676f,range:8,source:{pos:[I;-143,-50,127],type:"minecraft:block"}}]
+[03Jan2025 02:06:05.537] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:6.417778f,range:8,source:{pos:[I;-145,-49,128],type:"minecraft:block"}}]
+[03Jan2025 02:06:05.537] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:1.4142135f,range:8,source:{pos:[I;-144,-49,129],type:"minecraft:block"}}]
+[03Jan2025 02:06:05.537] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.5668526f,range:8,source:{pos:[I;-143,-49,128],type:"minecraft:block"}}]
+[03Jan2025 02:06:05.537] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.753664f,range:8,source:{pos:[I;-143,-48,129],type:"minecraft:block"}}]
+[03Jan2025 02:06:05.538] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.5972304f,range:8,source:{pos:[I;-144,-46,129],type:"minecraft:block"}}]
+[03Jan2025 02:06:05.683] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.395869f,range:8,source:{pos:[I;-110,-47,184],type:"minecraft:block"}}]
+[03Jan2025 02:06:09.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> En N
+[03Jan2025 02:06:12.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> es como
+[03Jan2025 02:06:24.517] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-57, z=15}
+[03Jan2025 02:06:25.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> estoy en un lago
+[03Jan2025 02:06:39.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> como se ve?
+[03Jan2025 02:06:41.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> ee
+[03Jan2025 02:06:41.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Hob
+[03Jan2025 02:06:46.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> hay kmo un dragon
+[03Jan2025 02:06:46.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xMr_Hobx> que
+[03Jan2025 02:06:49.861] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-57, z=15}
+[03Jan2025 02:06:50.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Toma
+[03Jan2025 02:07:02.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xMr_Hobx> que
+[03Jan2025 02:07:05.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> pero estas yendo a N o a N y E?
+[03Jan2025 02:07:07.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> es un lago lleno de piedra alrededor
+[03Jan2025 02:07:07.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> perdón si no son diamantes
+[03Jan2025 02:07:11.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> solo tengo 2
+[03Jan2025 02:07:11.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xMr_Hobx> ...
+[03Jan2025 02:07:14.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xMr_Hobx> no pasa nada
+[03Jan2025 02:07:15.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> estoy yendo al . en medio de N y E
+[03Jan2025 02:07:17.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xMr_Hobx> gracias don..
+[03Jan2025 02:07:21.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> ok
+[03Jan2025 02:07:22.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> muac
+[03Jan2025 02:07:29.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> sigue caminando hasta que veas esos arboles
+[03Jan2025 02:07:32.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> es pasando unas ruinas
+[03Jan2025 02:07:36.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> yo te estare esperando
+[03Jan2025 02:07:51.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> veo una torre naranja
+[03Jan2025 02:08:07.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> y unas ruinas al lado?
+[03Jan2025 02:08:15.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> con un pueblo
+[03Jan2025 02:08:21.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> destruido?
+[03Jan2025 02:08:30.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> eso voy a ver
+[03Jan2025 02:08:50.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> veo los arboles
+[03Jan2025 02:09:01.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Hob, casi se me olvida
+[03Jan2025 02:09:07.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> toma por si necesitas
+[03Jan2025 02:09:15.714] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1, y=-58, z=32}
+[03Jan2025 02:09:15.715] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1, y=-58, z=36}
+[03Jan2025 02:09:20.937] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1, y=-60, z=89}
+[03Jan2025 02:09:20.937] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-60, z=90}
+[03Jan2025 02:09:26.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xMr_Hobx> Gracias
+[03Jan2025 02:09:27.766] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-9, y=-53, z=93}
+[03Jan2025 02:09:27.768] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-3, y=-58, z=100}
+[03Jan2025 02:09:27.768] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7, y=-53, z=102}
+[03Jan2025 02:09:27.771] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-54, z=102}
+[03Jan2025 02:09:27.852] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_spell_power'
+[03Jan2025 02:09:27.852] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:max_mana'
+[03Jan2025 02:09:40.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> estoy en el bosque
+[03Jan2025 02:09:49.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> el bosque oscuro?
+[03Jan2025 02:10:01.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> estoy en un bosque mezclado con una jungla
+[03Jan2025 02:10:11.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no ahi no es
+[03Jan2025 02:10:16.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> cuando veas unas grandes ruinas
+[03Jan2025 02:11:13.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kaoz3432 moved too quickly! 3.6297850623059276,0.7570024632478081,-9.627707717460453
+[03Jan2025 02:11:13.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[03Jan2025 02:11:17.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 has made the advancement [Double Trouble]
+[03Jan2025 02:11:21.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kaoz3432 moved too quickly! 1.510684083599699,3.252203340253729,-9.384135993444033
+[03Jan2025 02:11:48.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 has made the advancement [Blindfolded]
+[03Jan2025 02:11:51.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kaoz3432 was shot by Skeleton
+[03Jan2025 02:12:00.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> eee
+[03Jan2025 02:12:03.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> kate
+[03Jan2025 02:12:05.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kaoz3432> mori
+[03Jan2025 02:12:06.264] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_channel_sound] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[03Jan2025 02:12:06.264] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_immunity] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[03Jan2025 02:12:06.264] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_particles] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[03Jan2025 02:12:06.265] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive_land] from power ResourceKey[apoli:configured_power / medievalorigins:valkyrie/dive]
+[03Jan2025 02:12:10.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kaoz3432 was kicked for floating too long!
+[03Jan2025 02:12:10.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kaoz3432 lost connection: Flying is not enabled on this server
+[03Jan2025 02:12:10.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kaoz3432 left the game
+[03Jan2025 02:12:13.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> a
+[03Jan2025 02:12:16.089] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Jan2025 02:12:16.283] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Jan2025 02:12:16.283] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Jan2025 02:12:16.310] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Jan2025 02:12:16.486] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Jan2025 02:12:16.486] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Jan2025 02:12:16.486] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Jan2025 02:12:16.486] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Jan2025 02:12:16.688] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Jan2025 02:12:16.731] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Jan2025 02:12:16.731] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Jan2025 02:12:16.731] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Jan2025 02:12:18.064] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Jan2025 02:12:18.064] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Jan2025 02:12:18.064] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Jan2025 02:12:18.159] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@948ffd[id=<null>,name=Kaoz3432,properties={},legacy=false] (/127.197.235.156:47825) lost connection: Disconnected
+[03Jan2025 02:12:18.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Pobre Ren
+[03Jan2025 02:12:50.612] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@112b28e4[id=<null>,name=Kaoz3432,properties={},legacy=false] (/127.197.235.156:56485) lost connection: Disconnected
+[03Jan2025 02:12:55.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> hare rejoin xd
+[03Jan2025 02:12:56.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katee555 lost connection: Disconnected
+[03Jan2025 02:12:56.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 left the game
+[03Jan2025 02:15:10.724] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Jan2025 02:15:10.757] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Jan2025 02:15:10.757] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Jan2025 02:15:10.831] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Jan2025 02:15:10.832] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Jan2025 02:15:10.838] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Jan2025 02:15:10.938] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Jan2025 02:15:10.958] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Jan2025 02:15:11.049] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Jan2025 02:15:11.057] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Jan2025 02:15:11.149] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Jan2025 02:15:11.191] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Jan2025 02:15:12.078] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Jan2025 02:15:12.078] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Jan2025 02:15:12.084] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Jan2025 02:15:12.097] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Jan2025 02:15:14.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Katee555[/127.157.207.16:44973] logged in with entity id 82807 at (3028.5379875149356, 90.0, -618.6944118300995)
+[03Jan2025 02:15:14.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katee555 joined the game
+[03Jan2025 02:15:14.633] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Katee555
+[03Jan2025 02:15:18.415] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Katee555
+[03Jan2025 02:15:51.711] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Róza'/59457, l='ServerLevel[world]', x=3299.91, y=90.80, z=-556.47] died, message: 'Róza was slain by Zofia'
+[03Jan2025 02:15:51.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Róza'/59457, l='ServerLevel[world]', x=3299.91, y=90.80, z=-556.47] died: Róza was slain by Zofia
+[03Jan2025 02:16:50.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> por que tengo tan malas ideas
+[03Jan2025 02:18:12.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> que god
+[03Jan2025 02:19:42.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> que buena marihuana venden en la equina-
+[03Jan2025 02:20:13.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> no don no lo hagas...
+[03Jan2025 02:23:59.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> don
+[03Jan2025 02:24:04.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> pasaron cosas
+[03Jan2025 02:25:53.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: don_eoatxd moved wrongly!
+[03Jan2025 02:25:54.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xMr_Hobx> Siguen vivos?
+[03Jan2025 02:26:04.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> don
+[03Jan2025 02:26:08.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> ?
+[03Jan2025 02:26:17.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> un creeper exploto cerca de los cul-
+[03Jan2025 02:26:21.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> ...
+[03Jan2025 02:26:37.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Katherine
+[03Jan2025 02:26:45.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katee555> dime
+[03Jan2025 02:27:01.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <don_eoatxd> Espero que lo hayas torturado...
