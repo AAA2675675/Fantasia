@@ -445,6 +445,7 @@
       "pumpkin_pie": "2025-01-02 01:45:21 +0000",
       "golden_apple": "2025-01-03 00:31:05 +0000",
       "cooked_rabbit": "2025-01-03 01:19:59 +0000",
+      "enchanted_golden_apple": "2025-01-03 01:25:57 +0000",
       "carrot": "2025-01-02 00:33:38 +0000"
     },
     "done": false
@@ -2201,6 +2202,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-03 00:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-03 01:22:28 +0000"
     },
     "done": true
   },
